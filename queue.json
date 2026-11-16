@@ -63,6 +63,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-16T11:40:03.964391Z"
+    },
+    {
+      "id": "bd53d421c9c2",
+      "text": "1550万美元从Lighter被提走，两种说法：协议被黑，还是钥匙被偷。\n\n攻击者花1万美元建零费率资金池，拿下99.99%份额，分批兑走1550万USDC。\n\n我押钥匙版：协议没被攻破，是钥匙管理先垮了。钱已经换成ETH，一部分在Hyperliquid买了门罗。\n\n想打脸很简单：拿出协议漏洞证据，或者等Lighter承认钥匙不是唯一原因。我先站钥匙这边。\n\n$XMR #Lighter #Crypto",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/lighter-lookonchain-2026-11-16.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-16T12:48:17.680402Z"
     }
   ]
 }
