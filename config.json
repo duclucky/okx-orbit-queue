@@ -5,19 +5,19 @@
     "share my thoughts",
     "post"
   ],
-  "configVersion": 16,
+  "configVersion": 17,
   "delays": {
     "fieldRetries": 10,
     "fieldRetryMs": 500,
     "waitAfterComposerClick": 1500,
     "waitAfterFill": 800,
-    "waitAfterImage": 1200,
+    "waitAfterImage": 3000,
     "waitAfterPostClick": 5000,
     "waitBeforeComposer": 2500,
     "waitBeforePostClick": 1000
   },
-  "minExtensionVersion": "2.10.0",
-  "note": "v2.10: the Square Post click did not submit when the image was attached in the panel: the image was still UPLOADING when Post was clicked, so Binance ignored the click (composer never closed). The Square leg now waits for the image preview to appear inside the composer dialog before clicking Post (up to 10s), and retries the Post click up to 3 times with a fuller mouse event sequence (pointerdown/mousedown/pointerup/mouseup + click). waitAfterImage raised 1200 to 3000ms. The v2.9 dialog-aware image attach is unchanged.",
+  "minExtensionVersion": "2.11.0",
+  "note": "v2.11: the OKX leg pasted into the INLINE \"Bạn đang nghĩ gì?\" / \"Share your thoughts\" box instead of opening the composer panel, the same class of bug the Square leg had before v2.7/v2.8/v2.9. The OKX leg now opens the composer panel first (Post/Create button, or clicking the inline box itself), fills text and image into the PANEL field via dialog-aware findField/attachImage, waits for the image preview inside the dialog before clicking Post (up to 10s), retries the Post click up to 3 times with a fuller mouse event sequence, and re-checks for a reopened draft before reporting POSTED (mirrors Square v2.8/v2.9/v2.10). waitAfterImage raised 1200 to 3000ms. If no panel opens, it falls back to the inline box instead of failing.",
   "orbitUrl": "https://www.okx.com/vi/orbit",
   "pollJitterSeconds": 600,
   "postButtonPatterns": [
@@ -72,5 +72,17 @@
     "textarea",
     "[contenteditable=\"true\"]"
   ],
-  "updated": "2026-11-16T10:38:00+07:00"
+  "updated": "2026-11-16T10:42:00+07:00",
+  "composerBoxPatterns": [
+    "share your thoughts",
+    "bạn đang nghĩ gì",
+    "what are you thinking",
+    "what's on your mind"
+  ],
+  "imageButtonPatterns": [
+    "image",
+    "photo",
+    "ảnh",
+    "hình ảnh"
+  ]
 }
