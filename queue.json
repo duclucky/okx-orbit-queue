@@ -103,6 +103,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-16T15:57:23.064007Z"
+    },
+    {
+      "id": "d4630e0e99b4",
+      "text": "恐惧指数10，比特币周线却收在200周均线下方约2,600美元。\n\n比特币六周连跌，周末低点62,000美元，7月以来最低，日线RSI仅23。\n\n情绪说卖家已经卖完了，周线说趋势已经断了。\n\n我给周线更多权重：恐惧可以骗人，收盘价不会。\n\nBTC先收回68,000美元，我就承认10是见底；先跌破62,000美元，10只是半山腰。\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/btc-200wma-2026-11-16.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-16T16:15:09.385336Z"
     }
   ]
 }
