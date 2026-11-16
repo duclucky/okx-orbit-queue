@@ -6,7 +6,7 @@
   "composerButtonTestIds": [
     "SideNav_NewTweet_Button"
   ],
-  "configVersion": 9,
+  "configVersion": 10,
   "delays": {
     "fieldRetries": 10,
     "fieldRetryMs": 500,
@@ -31,8 +31,8 @@
   "imageButtonTestIds": [
     "uploadImage"
   ],
-  "minExtensionVersion": "1.8.0",
-  "note": "Muse X Poster v1.8: POKE THE RESUMED EXTENSION TO POLL NOW (user 2026-11-16 ~13:48). Re-enabling the Orbit extension alone does not resume its polling (its onStartup does not run on enable and its alarm was cleared on disable), so the user had to press its Poll now button by hand. v1.8: after every resume (job outcome, watchdog, manual Resume button, install/startup), the X extension sends ORBIT_POLL_NOW to the resumed extension id via chrome.runtime.sendMessage, with one retry after 3s; the Orbit poster v2.17+ accepts it via onMessageExternal. If the id is not Orbit the message is ignored and the failure is swallowed. v1.7 watchdog + postClicked milestone are unchanged.",
+  "minExtensionVersion": "1.9.0",
+  "note": "Muse X Poster v1.9: REMOVED THE WRONG ORBIT POKE (user 2026-11-16 ~13:51, screenshot). The paused extension is X AI: Auto Reply + Smart Scheduler v2.3.0 (id abnianljjegaphncoioigdmojljkfc), a third-party extension on the SAME Chrome as this poster; the Orbit poster runs on ANOTHER Chrome and is never paused. v1.8 sent ORBIT_POLL_NOW to the resumed id, built on the wrong assumption it was Orbit; v1.9 removes the poke entirely. Chrome offers no API for one extension to press another extension’s popup button; the only hooks are enable/disable and external messages the target opts into, and X AI publishes no such API. v1.7 watchdog + postClicked milestone are unchanged.",
   "pollJitterSeconds": 600,
   "postButtonPatterns": [
     "^post$"
@@ -41,6 +41,6 @@
     "tweetButtonInline",
     "tweetButton"
   ],
-  "updated": "2026-11-16T06:49:15Z",
+  "updated": "2026-11-16T06:52:12Z",
   "xUrl": "https://x.com/home"
 }
