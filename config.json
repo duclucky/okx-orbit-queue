@@ -17,7 +17,7 @@
         "waitBeforePostClick": 1000
     },
     "minExtensionVersion": "2.8.0",
-    "note": "v2.8: the Square fill now prefers the FOCUSED field, then a field inside the composer dialog/modal, over the old inline \"Bạn đang nghĩ gì?\" box on the feed. After the Post button opened the panel, findField returned the first match in DOM order, which was the OLD inline box behind the modal, so the paste went there instead of into the panel (same class of bug as X v1.3). The v2.7 Post-button composer-open and v2.6 article-composer refusal are unchanged.",
+    "note": "v2.8: (1) the Square fill now prefers the FOCUSED field, then a field inside the composer dialog/modal, over the old inline \"Bạn đang nghĩ gì?\" box on the feed. (2) capturePostUrl() only returns a URL when the page itself navigated to /square/post/<id>; it NEVER scrapes a link from the feed (a stale 2026-11-15 feed post was once falsely reported as the new Hyperliquid post). (3) After the Post click the leg waits 2s and re-checks: if a composer field is back holding a substantial part of the job text, the draft was restored and the post did NOT publish (FAILED \"composer reopened with draft\") instead of a false POSTED. The v2.7 Post-button composer-open and v2.6 article-composer refusal are unchanged.",
     "orbitUrl": "https://www.okx.com/vi/orbit",
     "pollJitterSeconds": 600,
     "postButtonPatterns": [
@@ -72,5 +72,5 @@
         "textarea",
         "[contenteditable=\"true\"]"
     ],
-    "updated": "2026-11-16T03:25:00Z"
+    "updated": "2026-11-16T03:30:00Z"
 }
