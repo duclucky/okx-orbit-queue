@@ -1,20 +1,28 @@
 {
-    "jobs": [
-        {
-            "id": "83d92a7aba19",
-            "text": "Ten wins banked him $6.32 million, and one ETH long erased all of it.\n\nThe same trader is now 10x long 383,265 SOL at $70.49.\n\nI read the re-entry as tilt, not conviction, because the account sits $4.17 million down and the streak is gone.\n\nSOL already wicked to $67.41 once, and $70 is the floor this long has to defend.\n\nIf SOL closes below $70, the tilt read wins. If it prints $85, the whale banks about $5.6 million and the streak is back.\n\n@Binance_News #Solana $SOL",
-            "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/sol-whale-long-beincrypto-2026-11-16.png",
-            "square_url": "",
-            "status": "pending",
-            "queued_at": "2026-11-16T02:54:53.670549Z"
-        },
-        {
-            "id": "30e9d5a30d2f",
-            "text": "$68.94 million in Bitcoin shorts liquidated in 24 hours, and the funding bears still think they are early.\n\nI read negative funding on every major venue as a late crowd, not a leading one. The shorts are paying longs to hold a drop that already happened.\n\nBitcoin is $65,079. Above $66,132 the squeeze keeps running. Below $62,006 the bears get to say they were right.\n\n#Bitcoin $BTC",
-            "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/funding-flip-coinglass-2026-11-16.png",
-            "square_url": "",
-            "status": "pending",
-            "queued_at": "2026-11-16T03:50:02.323661Z"
-        }
-    ]
+  "jobs": [
+    {
+      "id": "83d92a7aba19",
+      "text": "Ten wins banked him $6.32 million, and one ETH long erased all of it.\n\nThe same trader is now 10x long 383,265 SOL at $70.49.\n\nI read the re-entry as tilt, not conviction, because the account sits $4.17 million down and the streak is gone.\n\nSOL already wicked to $67.41 once, and $70 is the floor this long has to defend.\n\nIf SOL closes below $70, the tilt read wins. If it prints $85, the whale banks about $5.6 million and the streak is back.\n\n@Binance_News #Solana $SOL",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/sol-whale-long-beincrypto-2026-11-16.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-16T02:54:53.670549Z"
+    },
+    {
+      "id": "30e9d5a30d2f",
+      "text": "$68.94 million in Bitcoin shorts liquidated in 24 hours, and the funding bears still think they are early.\n\nI read negative funding on every major venue as a late crowd, not a leading one. The shorts are paying longs to hold a drop that already happened.\n\nBitcoin is $65,079. Above $66,132 the squeeze keeps running. Below $62,006 the bears get to say they were right.\n\n#Bitcoin $BTC",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/funding-flip-coinglass-2026-11-16.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-16T03:50:02.323661Z"
+    },
+    {
+      "id": "5df5406ea76d",
+      "text": "同一周，同一个\"抄底\"，两个版本差了3,660枚ETH。\n\nLookonchain说71,475枚，均价1,955美元；EmberCN说75,135枚，均价1,932美元。\n\n我押数据在打架：两个版本都只敢写\"疑似\"和\"linked\"，按现在1,814美元算，这批仓位已经浮亏超过1,000万美元。\n\nEmberCN的总数是2.53亿美元，换成Lookonchain的数字就只剩2.476亿美元。\n\n拿出一条链上记录，证明这是Voorhees的钱包，我就认这笔抄底。\n\n$ETH #Ethereum #Whale",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/eth-whales-lookonchain-2026-11-16-crop.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-16T07:02:25.678333Z"
+    }
+  ]
 }
