@@ -1,1 +1,76 @@
-{"bannerText":"Orbit Poster: bài đã điền sẵn nguyên văn. Bấm Post trên OKX để đăng, rồi báo Muse là xong.","composerButtonPatterns":["^(post|publish|create|share my thoughts)$","share my thoughts","post"],"configVersion":9,"delays":{"fieldRetries":10,"fieldRetryMs":500,"waitAfterComposerClick":1500,"waitAfterFill":800,"waitAfterImage":1200,"waitAfterPostClick":5000,"waitBeforeComposer":2500,"waitBeforePostClick":1000},"minExtensionVersion":"2.3.0","note":"v2.3: OKX Post button now matches Vietnamese Đăng; Square composer opens the short-post box first (not the Tạo/article composer); type picker no longer picks Bài viết (article); Post click verified (composer must close)","orbitUrl":"https://www.okx.com/vi/orbit","pollJitterSeconds":600,"postButtonPatterns":["^(post|publish|đăng)$","post|publish|đăng"],"squareBannerText":"Orbit Poster: bài Square đã điền sẵn nguyên văn. Bấm Post trên Binance để đăng, rồi báo Muse là xong.","squareComposerButtonPatterns":["share your thoughts","chia sẻ suy nghĩ","write a post","^(create|tạo|đăng bài)$","create","tạo"],"squareDelays":{"fieldRetries":10,"fieldRetryMs":500,"waitAfterComposerClick":1500,"waitAfterFill":800,"waitAfterImage":1200,"waitAfterPostClick":6000,"waitBeforeComposer":2500,"waitBeforePostClick":1000},"squareImageButtonPatterns":["image","photo","ảnh","hình ảnh"],"squarePostButtonPatterns":["^(post|publish|đăng)$","post|publish|đăng"],"squareTextFieldSelectors":["textarea[placeholder*=\"hare your thoughts\" i]","textarea[placeholder*=\"chia sẻ\" i]","textarea[placeholder*=\"thought\" i]","textarea[placeholder*=\"suy nghĩ\" i]","textarea","[contenteditable=\"true\"]"],"squareTypePatterns":["^(text|văn bản)$","^text$"],"squareUrl":"https://www.binance.com/vi/square","textFieldSelectors":["textarea[placeholder*=\"hare\" i]","textarea[placeholder*=\"thought\" i]","textarea","[contenteditable=\"true\"]"],"updated":"2026-11-16T03:07:09Z"}
+{
+  "bannerText": "Orbit Poster: bài đã điền sẵn nguyên văn. Bấm Post trên OKX để đăng, rồi báo Muse là xong.",
+  "composerButtonPatterns": [
+    "^(post|publish|create|share my thoughts)$",
+    "share my thoughts",
+    "post"
+  ],
+  "configVersion": 10,
+  "delays": {
+    "fieldRetries": 10,
+    "fieldRetryMs": 500,
+    "waitAfterComposerClick": 1500,
+    "waitAfterFill": 800,
+    "waitAfterImage": 1200,
+    "waitAfterPostClick": 5000,
+    "waitBeforeComposer": 2500,
+    "waitBeforePostClick": 1000
+  },
+  "minExtensionVersion": "2.4.0",
+  "note": "v2.4: Square contenteditable now filled via synthetic paste event so line breaks become real paragraph blocks (was one continuous paragraph); innerHTML <div> fallback if paste is ignored; textarea leg unchanged",
+  "orbitUrl": "https://www.okx.com/vi/orbit",
+  "pollJitterSeconds": 600,
+  "postButtonPatterns": [
+    "^(post|publish|đăng)$",
+    "post|publish|đăng"
+  ],
+  "squareBannerText": "Orbit Poster: bài Square đã điền sẵn nguyên văn. Bấm Post trên Binance để đăng, rồi báo Muse là xong.",
+  "squareComposerButtonPatterns": [
+    "share your thoughts",
+    "chia sẻ suy nghĩ",
+    "write a post",
+    "^(create|tạo|đăng bài)$",
+    "create",
+    "tạo"
+  ],
+  "squareDelays": {
+    "fieldRetries": 10,
+    "fieldRetryMs": 500,
+    "waitAfterComposerClick": 1500,
+    "waitAfterFill": 800,
+    "waitAfterImage": 1200,
+    "waitAfterPostClick": 6000,
+    "waitBeforeComposer": 2500,
+    "waitBeforePostClick": 1000
+  },
+  "squareImageButtonPatterns": [
+    "image",
+    "photo",
+    "ảnh",
+    "hình ảnh"
+  ],
+  "squarePostButtonPatterns": [
+    "^(post|publish|đăng)$",
+    "post|publish|đăng"
+  ],
+  "squareTextFieldSelectors": [
+    "textarea[placeholder*=\"hare your thoughts\" i]",
+    "textarea[placeholder*=\"chia sẻ\" i]",
+    "textarea[placeholder*=\"thought\" i]",
+    "textarea[placeholder*=\"suy nghĩ\" i]",
+    "textarea",
+    "[contenteditable=\"true\"]"
+  ],
+  "squareTypePatterns": [
+    "^(text|văn bản)$",
+    "^text$"
+  ],
+  "squareUrl": "https://www.binance.com/vi/square",
+  "textFieldSelectors": [
+    "textarea[placeholder*=\"hare\" i]",
+    "textarea[placeholder*=\"thought\" i]",
+    "textarea",
+    "[contenteditable=\"true\"]"
+  ],
+  "updated": "2026-11-16T03:09:37Z"
+}
