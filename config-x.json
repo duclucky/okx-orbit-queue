@@ -1,12 +1,12 @@
 {
-  "bannerText": "Muse X Poster: bài đã điền sẵn (đã bỏ tag Binance). Bấm Post trên X để đăng, rồi báo Muse là xong.",
+  "bannerText": "Muse X Poster: b\u00e0i \u0111\u00e3 \u0111i\u1ec1n s\u1eb5n (\u0111\u00e3 b\u1ecf tag Binance). B\u1ea5m Post tr\u00ean X \u0111\u1ec3 \u0111\u0103ng, r\u1ed3i b\u00e1o Muse l\u00e0 xong.",
   "composerButtonPatterns": [
     "^post$"
   ],
   "composerButtonTestIds": [
     "SideNav_NewTweet_Button"
   ],
-  "configVersion": 3,
+  "configVersion": 4,
   "delays": {
     "fieldRetries": 10,
     "fieldRetryMs": 500,
@@ -31,8 +31,8 @@
   "imageButtonTestIds": [
     "uploadImage"
   ],
-  "minExtensionVersion": "1.2.0",
-  "note": "Muse X Poster v1.2: always open the compose dialog via the sidebar Post button first (inline home composer is often scrolled off-screen); editor/image/Post are picked inside the dialog when one is open; Binance @mentions are stripped in the content script, not in the queue",
+  "minExtensionVersion": "1.3.0",
+  "note": "Muse X Poster v1.3: pick the FOCUSED editor first (X focuses the modal editor when the dialog opens; v1.2 picked the visible inline editor instead, so text went to the wrong composer while the image went to the modal). Fill replaces leftover content (selectAll before insertText) and fails the job if the filled text still does not match instead of warning and proceeding.",
   "pollJitterSeconds": 600,
   "postButtonPatterns": [
     "^post$"
@@ -41,6 +41,6 @@
     "tweetButtonInline",
     "tweetButton"
   ],
-  "updated": "2026-11-16T02:45:01Z",
+  "updated": "2026-11-16T02:51:00Z",
   "xUrl": "https://x.com/home"
 }
