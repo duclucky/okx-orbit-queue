@@ -1,12 +1,12 @@
 {
-  "bannerText": "Muse X Poster: b\u00e0i \u0111\u00e3 \u0111i\u1ec1n s\u1eb5n (\u0111\u00e3 b\u1ecf tag Binance). B\u1ea5m Post tr\u00ean X \u0111\u1ec3 \u0111\u0103ng, r\u1ed3i b\u00e1o Muse l\u00e0 xong.",
+  "bannerText": "Muse X Poster: bài đã điền sẵn (đã bỏ tag Binance). Bấm Post trên X để đăng, rồi báo Muse là xong.",
   "composerButtonPatterns": [
     "^post$"
   ],
   "composerButtonTestIds": [
     "SideNav_NewTweet_Button"
   ],
-  "configVersion": 7,
+  "configVersion": 8,
   "delays": {
     "fieldRetries": 10,
     "fieldRetryMs": 500,
@@ -31,8 +31,8 @@
   "imageButtonTestIds": [
     "uploadImage"
   ],
-  "minExtensionVersion": "1.6.0",
-  "note": "Muse X Poster v1.6: PAUSE ANOTHER EXTENSION WHILE POSTING. The user runs another extension in the same Chrome and wants it out of the way while a post is being filled/posted. The popup has a 'Pause another extension while posting' dropdown (chrome.management.getAll, this extension excluded); the chosen extension id is saved as pauseExtensionId. The background disables it (chrome.management.setEnabled false, needs the 'management' permission) only after a job is validated and the processing lock is held, and re-enables it after every outcome (POSTED, FAILED, READY), plus on install/startup as a safety net. A failure to pause never blocks the post. v1.5's paste-based fill, focused-editor selection, replace-instead-of-append, and fail-on-mismatch checks are unchanged.",
+  "minExtensionVersion": "1.7.0",
+  "note": "Muse X Poster v1.7: WATCHDOG FIX FOR THE PAUSE/RESUME BUG (user 2026-11-16 ~13:46). v1.6 only re-enabled the paused extension when the content script reported back, but after clicking Post X often navigates to the new post page and destroys the content script before X_POSTED can be sent, so the other extension stayed disabled and the job lock stalled later polls. v1.7: the content script writes a postClicked milestone to storage the moment it clicks Post; the background creates a 5-minute watchdog alarm when a job starts, and if no outcome arrives it ALWAYS resumes the paused extension, marks the job done when the milestone says it was clicked (never post twice), or counts a failed attempt and releases the lock otherwise. A manual Resume paused extension button in the popup covers a stuck state left by v1.6. v1.6 pause behavior and v1.5 paste-based fill are unchanged.",
   "pollJitterSeconds": 600,
   "postButtonPatterns": [
     "^post$"
@@ -41,6 +41,6 @@
     "tweetButtonInline",
     "tweetButton"
   ],
-  "updated": "2026-11-16T03:00:44Z",
+  "updated": "2026-11-16T06:47:05Z",
   "xUrl": "https://x.com/home"
 }
