@@ -1,1 +1,46 @@
-{"bannerText": "Muse X Poster: b\u00e0i \u0111\u00e3 \u0111i\u1ec1n s\u1eb5n (\u0111\u00e3 b\u1ecf tag Binance). B\u1ea5m Post tr\u00ean X \u0111\u1ec3 \u0111\u0103ng, r\u1ed3i b\u00e1o Muse l\u00e0 xong.", "composerButtonPatterns": ["^post$"], "composerButtonTestIds": ["SideNav_NewTweet_Button"], "configVersion": 2, "delays": {"fieldRetries": 10, "fieldRetryMs": 500, "waitAfterComposerClick": 1500, "waitAfterFill": 800, "waitAfterImage": 1200, "waitAfterPostClick": 6000, "waitBeforeComposer": 2500, "waitBeforePostClick": 1000}, "editorSelectors": ["div[data-testid=\"tweetTextarea_0\"]", "div[contenteditable=\"true\"][aria-label*=\"Post text\" i]", "div[contenteditable=\"true\"]"], "imageButtonPatterns": ["add photos or video", "media", "image", "photo"], "imageButtonTestIds": ["uploadImage"], "minExtensionVersion": "1.1.0", "note": "Muse X Poster v1.1: randomized poll gap (base +/- pollJitterSeconds, min 300s); posts the shared queue to X only; Binance @mentions are stripped in the content script, not in the queue", "pollJitterSeconds": 600, "postButtonPatterns": ["^post$"], "postButtonTestIds": ["tweetButtonInline", "tweetButton"], "updated": "2026-11-16T02:36:00Z", "xUrl": "https://x.com/home"}
+{
+  "bannerText": "Muse X Poster: bài đã điền sẵn (đã bỏ tag Binance). Bấm Post trên X để đăng, rồi báo Muse là xong.",
+  "composerButtonPatterns": [
+    "^post$"
+  ],
+  "composerButtonTestIds": [
+    "SideNav_NewTweet_Button"
+  ],
+  "configVersion": 3,
+  "delays": {
+    "fieldRetries": 10,
+    "fieldRetryMs": 500,
+    "waitAfterComposerClick": 1500,
+    "waitAfterFill": 800,
+    "waitAfterImage": 1200,
+    "waitAfterPostClick": 6000,
+    "waitBeforeComposer": 2500,
+    "waitBeforePostClick": 1000
+  },
+  "editorSelectors": [
+    "div[data-testid=\"tweetTextarea_0\"]",
+    "div[contenteditable=\"true\"][aria-label*=\"Post text\" i]",
+    "div[contenteditable=\"true\"]"
+  ],
+  "imageButtonPatterns": [
+    "add photos or video",
+    "media",
+    "image",
+    "photo"
+  ],
+  "imageButtonTestIds": [
+    "uploadImage"
+  ],
+  "minExtensionVersion": "1.2.0",
+  "note": "Muse X Poster v1.2: always open the compose dialog via the sidebar Post button first (inline home composer is often scrolled off-screen); editor/image/Post are picked inside the dialog when one is open; Binance @mentions are stripped in the content script, not in the queue",
+  "pollJitterSeconds": 600,
+  "postButtonPatterns": [
+    "^post$"
+  ],
+  "postButtonTestIds": [
+    "tweetButtonInline",
+    "tweetButton"
+  ],
+  "updated": "2026-11-16T02:45:01Z",
+  "xUrl": "https://x.com/home"
+}
