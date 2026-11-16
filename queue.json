@@ -135,6 +135,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-16T17:51:17.959223Z"
+    },
+    {
+      "id": "65668d747563",
+      "text": "19.2万枚HYPE，是Lighter出事那天Abraxas净买入的数量。\n\n同一天它卖了6400万美元HYPE，又平掉了对应空单，平空只能买，最终净结果是买入。\n\nHYPE 24小时还涨了0.2%，价格没信出货的故事。\n\nLighter丢的是交易员API密钥，协议和合约没问题，损失社区估计约1550万美元。\n\n我押这是拆对冲，不是出货。\n\n11月23日那21.9万枚解押的HYPE如果砸盘，我就认错。\n\n$HYPE #Hyperliquid",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/abraxas-hype-punkquidity-2026-11-17.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-16T18:20:37.665010Z"
     }
   ]
 }
