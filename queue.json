@@ -111,6 +111,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-16T16:15:09.385336Z"
+    },
+    {
+      "id": "e2fd14dfa57a",
+      "text": "期权市场给英伟达财报定了±8.83%的波动，过去四次财报它平均只动了4.2%。\n\n我给4.2%这个均值更多权重，8.83%里至少有一半是恐惧的溢价。\n\n股票收盘后，代币还在交易，财报夜的第一个价格来自代币，不是股票。\n\n拿明天的实际波动来验，不到4%就是恐惧定价，觉得真会打到±8%的把仓位亮出来。\n\n$NVDAB #NVIDIA #TokenizedStocks",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/nvda-implied-move-tipranks-2026-11-16.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-16T16:49:38.550942Z"
     }
   ]
 }
