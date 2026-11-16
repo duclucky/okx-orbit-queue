@@ -5,7 +5,7 @@
     "share my thoughts",
     "post"
   ],
-  "configVersion": 15,
+  "configVersion": 16,
   "delays": {
     "fieldRetries": 10,
     "fieldRetryMs": 500,
@@ -16,8 +16,8 @@
     "waitBeforeComposer": 2500,
     "waitBeforePostClick": 1000
   },
-  "minExtensionVersion": "2.9.0",
-  "note": "v2.9: the Square image attach is now dialog-aware, mirroring the v2.8 text fill: attachImage prefers the file input / image button inside the composer dialog/modal holding the filled text field, and only falls back to the page-wide search when there is no dialog or nothing inside it. Previously the image went to the OLD inline box while the text went to the NEW panel, so the post published with text but no image.",
+  "minExtensionVersion": "2.10.0",
+  "note": "v2.10: the Square Post click did not submit when the image was attached in the panel: the image was still UPLOADING when Post was clicked, so Binance ignored the click (composer never closed). The Square leg now waits for the image preview to appear inside the composer dialog before clicking Post (up to 10s), and retries the Post click up to 3 times with a fuller mouse event sequence (pointerdown/mousedown/pointerup/mouseup + click). waitAfterImage raised 1200 to 3000ms. The v2.9 dialog-aware image attach is unchanged.",
   "orbitUrl": "https://www.okx.com/vi/orbit",
   "pollJitterSeconds": 600,
   "postButtonPatterns": [
@@ -38,7 +38,7 @@
     "fieldRetryMs": 500,
     "waitAfterComposerClick": 1500,
     "waitAfterFill": 800,
-    "waitAfterImage": 1200,
+    "waitAfterImage": 3000,
     "waitAfterPostClick": 6000,
     "waitBeforeComposer": 2500,
     "waitBeforePostClick": 1000
@@ -72,5 +72,5 @@
     "textarea",
     "[contenteditable=\"true\"]"
   ],
-  "updated": "2026-11-16T10:29:00+07:00"
+  "updated": "2026-11-16T10:38:00+07:00"
 }
