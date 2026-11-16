@@ -5,7 +5,7 @@
         "share my thoughts",
         "post"
     ],
-    "configVersion": 13,
+    "configVersion": 14,
     "delays": {
         "fieldRetries": 10,
         "fieldRetryMs": 500,
@@ -16,8 +16,8 @@
         "waitBeforeComposer": 2500,
         "waitBeforePostClick": 1000
     },
-    "minExtensionVersion": "2.7.0",
-    "note": "v2.7: Square composer is now opened by clicking the Post/Create button on the feed, NOT the \"what are you thinking\" (\"Bạn đang nghĩ gì?\" / \"Share your thoughts\") text box, which kept leading to the wrong (article) composer. If a Text/Article choice appears, the Text type is still picked; the v2.6 article-composer refusal stays as a safety net",
+    "minExtensionVersion": "2.8.0",
+    "note": "v2.8: the Square fill now prefers the FOCUSED field, then a field inside the composer dialog/modal, over the old inline \"Bạn đang nghĩ gì?\" box on the feed. After the Post button opened the panel, findField returned the first match in DOM order, which was the OLD inline box behind the modal, so the paste went there instead of into the panel (same class of bug as X v1.3). The v2.7 Post-button composer-open and v2.6 article-composer refusal are unchanged.",
     "orbitUrl": "https://www.okx.com/vi/orbit",
     "pollJitterSeconds": 600,
     "postButtonPatterns": [
@@ -72,5 +72,5 @@
         "textarea",
         "[contenteditable=\"true\"]"
     ],
-    "updated": "2026-11-16T03:21:40Z"
+    "updated": "2026-11-16T03:25:00Z"
 }
