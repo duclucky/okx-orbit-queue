@@ -6,7 +6,7 @@
   "composerButtonTestIds": [
     "SideNav_NewTweet_Button"
   ],
-  "configVersion": 6,
+  "configVersion": 7,
   "delays": {
     "fieldRetries": 10,
     "fieldRetryMs": 500,
@@ -31,8 +31,8 @@
   "imageButtonTestIds": [
     "uploadImage"
   ],
-  "minExtensionVersion": "1.5.0",
-  "note": "Muse X Poster v1.5: fill the post with a SYNTHETIC PASTE EVENT (DataTransfer with text/plain dispatched on the editor) instead of insertText. Lexical has a dedicated paste handler that splits multi-line pasted text into blocks correctly; both the single multi-line insertText (v1.3) and the line-by-line insert (v1.4) garbled the post because the caret jumps when Lexical re-renders. Line-by-line is kept only as a fallback when the paste produces nothing at all. A fill mismatch now also logs to the console (\"fill mismatch: filled X chars, expected Y chars\"). v1.3's focused-editor selection, replace-instead-of-append, and fail-on-mismatch checks are unchanged.",
+  "minExtensionVersion": "1.6.0",
+  "note": "Muse X Poster v1.6: PAUSE ANOTHER EXTENSION WHILE POSTING. The user runs another extension in the same Chrome and wants it out of the way while a post is being filled/posted. The popup has a 'Pause another extension while posting' dropdown (chrome.management.getAll, this extension excluded); the chosen extension id is saved as pauseExtensionId. The background disables it (chrome.management.setEnabled false, needs the 'management' permission) only after a job is validated and the processing lock is held, and re-enables it after every outcome (POSTED, FAILED, READY), plus on install/startup as a safety net. A failure to pause never blocks the post. v1.5's paste-based fill, focused-editor selection, replace-instead-of-append, and fail-on-mismatch checks are unchanged.",
   "pollJitterSeconds": 600,
   "postButtonPatterns": [
     "^post$"
@@ -41,6 +41,6 @@
     "tweetButtonInline",
     "tweetButton"
   ],
-  "updated": "2026-11-16T02:58:50Z",
+  "updated": "2026-11-16T03:00:44Z",
   "xUrl": "https://x.com/home"
 }
