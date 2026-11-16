@@ -1,76 +1,76 @@
 {
-    "bannerText": "Orbit Poster: bài đã điền sẵn nguyên văn. Bấm Post trên OKX để đăng, rồi báo Muse là xong.",
-    "composerButtonPatterns": [
-        "^(post|publish|create|share my thoughts)$",
-        "share my thoughts",
-        "post"
-    ],
-    "configVersion": 14,
-    "delays": {
-        "fieldRetries": 10,
-        "fieldRetryMs": 500,
-        "waitAfterComposerClick": 1500,
-        "waitAfterFill": 800,
-        "waitAfterImage": 1200,
-        "waitAfterPostClick": 5000,
-        "waitBeforeComposer": 2500,
-        "waitBeforePostClick": 1000
-    },
-    "minExtensionVersion": "2.8.0",
-    "note": "v2.8: (1) the Square fill now prefers the FOCUSED field, then a field inside the composer dialog/modal, over the old inline \"Bạn đang nghĩ gì?\" box on the feed. (2) capturePostUrl() only returns a URL when the page itself navigated to /square/post/<id>; it NEVER scrapes a link from the feed (a stale 2026-11-15 feed post was once falsely reported as the new Hyperliquid post). (3) After the Post click the leg waits 2s and re-checks: if a composer field is back holding a substantial part of the job text, the draft was restored and the post did NOT publish (FAILED \"composer reopened with draft\") instead of a false POSTED. The v2.7 Post-button composer-open and v2.6 article-composer refusal are unchanged.",
-    "orbitUrl": "https://www.okx.com/vi/orbit",
-    "pollJitterSeconds": 600,
-    "postButtonPatterns": [
-        "^(post|publish|đăng)$",
-        "post|publish|đăng"
-    ],
-    "squareBannerText": "Orbit Poster: bài Square đã điền sẵn nguyên văn. Bấm Post trên Binance để đăng, rồi báo Muse là xong.",
-    "squareComposerButtonPatterns": [
-        "^(post|đăng|publish)$",
-        "^(create|tạo|đăng bài|tạo bài|viết bài)$",
-        "post",
-        "đăng",
-        "create",
-        "tạo"
-    ],
-    "squareDelays": {
-        "fieldRetries": 10,
-        "fieldRetryMs": 500,
-        "waitAfterComposerClick": 1500,
-        "waitAfterFill": 800,
-        "waitAfterImage": 1200,
-        "waitAfterPostClick": 6000,
-        "waitBeforeComposer": 2500,
-        "waitBeforePostClick": 1000
-    },
-    "squareImageButtonPatterns": [
-        "image",
-        "photo",
-        "ảnh",
-        "hình ảnh"
-    ],
-    "squarePostButtonPatterns": [
-        "^(post|publish|đăng)$",
-        "post|publish|đăng"
-    ],
-    "squareTextFieldSelectors": [
-        "textarea[placeholder*=\"hare your thoughts\" i]",
-        "textarea[placeholder*=\"chia sẻ\" i]",
-        "textarea[placeholder*=\"thought\" i]",
-        "textarea[placeholder*=\"suy nghĩ\" i]",
-        "textarea",
-        "[contenteditable=\"true\"]"
-    ],
-    "squareTypePatterns": [
-        "^(text|văn bản)$",
-        "^text$"
-    ],
-    "squareUrl": "https://www.binance.com/vi/square",
-    "textFieldSelectors": [
-        "textarea[placeholder*=\"hare\" i]",
-        "textarea[placeholder*=\"thought\" i]",
-        "textarea",
-        "[contenteditable=\"true\"]"
-    ],
-    "updated": "2026-11-16T03:30:00Z"
+  "bannerText": "Orbit Poster: bài đã điền sẵn nguyên văn. Bấm Post trên OKX để đăng, rồi báo Muse là xong.",
+  "composerButtonPatterns": [
+    "^(post|publish|create|share my thoughts)$",
+    "share my thoughts",
+    "post"
+  ],
+  "configVersion": 15,
+  "delays": {
+    "fieldRetries": 10,
+    "fieldRetryMs": 500,
+    "waitAfterComposerClick": 1500,
+    "waitAfterFill": 800,
+    "waitAfterImage": 1200,
+    "waitAfterPostClick": 5000,
+    "waitBeforeComposer": 2500,
+    "waitBeforePostClick": 1000
+  },
+  "minExtensionVersion": "2.9.0",
+  "note": "v2.9: the Square image attach is now dialog-aware, mirroring the v2.8 text fill: attachImage prefers the file input / image button inside the composer dialog/modal holding the filled text field, and only falls back to the page-wide search when there is no dialog or nothing inside it. Previously the image went to the OLD inline box while the text went to the NEW panel, so the post published with text but no image.",
+  "orbitUrl": "https://www.okx.com/vi/orbit",
+  "pollJitterSeconds": 600,
+  "postButtonPatterns": [
+    "^(post|publish|đăng)$",
+    "post|publish|đăng"
+  ],
+  "squareBannerText": "Orbit Poster: bài Square đã điền sẵn nguyên văn. Bấm Post trên Binance để đăng, rồi báo Muse là xong.",
+  "squareComposerButtonPatterns": [
+    "^(post|đăng|publish)$",
+    "^(create|tạo|đăng bài|tạo bài|viết bài)$",
+    "post",
+    "đăng",
+    "create",
+    "tạo"
+  ],
+  "squareDelays": {
+    "fieldRetries": 10,
+    "fieldRetryMs": 500,
+    "waitAfterComposerClick": 1500,
+    "waitAfterFill": 800,
+    "waitAfterImage": 1200,
+    "waitAfterPostClick": 6000,
+    "waitBeforeComposer": 2500,
+    "waitBeforePostClick": 1000
+  },
+  "squareImageButtonPatterns": [
+    "image",
+    "photo",
+    "ảnh",
+    "hình ảnh"
+  ],
+  "squarePostButtonPatterns": [
+    "^(post|publish|đăng)$",
+    "post|publish|đăng"
+  ],
+  "squareTextFieldSelectors": [
+    "textarea[placeholder*=\"hare your thoughts\" i]",
+    "textarea[placeholder*=\"chia sẻ\" i]",
+    "textarea[placeholder*=\"thought\" i]",
+    "textarea[placeholder*=\"suy nghĩ\" i]",
+    "textarea",
+    "[contenteditable=\"true\"]"
+  ],
+  "squareTypePatterns": [
+    "^(text|văn bản)$",
+    "^text$"
+  ],
+  "squareUrl": "https://www.binance.com/vi/square",
+  "textFieldSelectors": [
+    "textarea[placeholder*=\"hare\" i]",
+    "textarea[placeholder*=\"thought\" i]",
+    "textarea",
+    "[contenteditable=\"true\"]"
+  ],
+  "updated": "2026-11-16T10:29:00+07:00"
 }
