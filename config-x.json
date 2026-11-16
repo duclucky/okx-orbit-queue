@@ -6,7 +6,7 @@
   "composerButtonTestIds": [
     "SideNav_NewTweet_Button"
   ],
-  "configVersion": 4,
+  "configVersion": 5,
   "delays": {
     "fieldRetries": 10,
     "fieldRetryMs": 500,
@@ -31,8 +31,8 @@
   "imageButtonTestIds": [
     "uploadImage"
   ],
-  "minExtensionVersion": "1.3.0",
-  "note": "Muse X Poster v1.3: pick the FOCUSED editor first (X focuses the modal editor when the dialog opens; v1.2 picked the visible inline editor instead, so text went to the wrong composer while the image went to the modal). Fill replaces leftover content (selectAll before insertText) and fails the job if the filled text still does not match instead of warning and proceeding.",
+  "minExtensionVersion": "1.4.0",
+  "note": "Muse X Poster v1.4: fill the post LINE BY LINE (one insertText per line, insertParagraph between lines) instead of a single multi-line insertText, which mangled the post in X's Draft.js editor (the last line got duplicated ~18 times and the body was lost). v1.3's focused-editor selection, replace-instead-of-append, and fail-on-mismatch checks are unchanged.",
   "pollJitterSeconds": 600,
   "postButtonPatterns": [
     "^post$"
@@ -41,6 +41,6 @@
     "tweetButtonInline",
     "tweetButton"
   ],
-  "updated": "2026-11-16T02:51:00Z",
+  "updated": "2026-11-16T02:55:00Z",
   "xUrl": "https://x.com/home"
 }
