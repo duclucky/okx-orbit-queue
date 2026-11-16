@@ -5,7 +5,7 @@
         "share my thoughts",
         "post"
     ],
-    "configVersion": 11,
+    "configVersion": 12,
     "delays": {
         "fieldRetries": 10,
         "fieldRetryMs": 500,
@@ -16,8 +16,8 @@
         "waitBeforeComposer": 2500,
         "waitBeforePostClick": 1000
     },
-    "minExtensionVersion": "2.5.0",
-    "note": "v2.5: READY (fill-only) no longer permanently consumes a leg; a fill-only leg is tracked as \"ready\" and re-runs when auto-post is turned on, instead of being skipped; popup has a Reset job progress button to unstick a test job",
+    "minExtensionVersion": "2.6.0",
+    "note": "v2.6: Square leg refuses to fill the ARTICLE composer (\"Chia sẻ thông tin chuyên sâu\" / \"in-depth\"); it likely requires a title so its Post click does nothing for a short post. On detection the leg fails so the tab reloads and retries with the short-post composer",
     "orbitUrl": "https://www.okx.com/vi/orbit",
     "pollJitterSeconds": 600,
     "postButtonPatterns": [
@@ -72,5 +72,5 @@
         "textarea",
         "[contenteditable=\"true\"]"
     ],
-    "updated": "2026-11-16T03:16:07Z"
+    "updated": "2026-11-16T03:21:00Z"
 }
