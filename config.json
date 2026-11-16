@@ -5,7 +5,7 @@
         "share my thoughts",
         "post"
     ],
-    "configVersion": 12,
+    "configVersion": 13,
     "delays": {
         "fieldRetries": 10,
         "fieldRetryMs": 500,
@@ -16,8 +16,8 @@
         "waitBeforeComposer": 2500,
         "waitBeforePostClick": 1000
     },
-    "minExtensionVersion": "2.6.0",
-    "note": "v2.6: Square leg refuses to fill the ARTICLE composer (\"Chia sẻ thông tin chuyên sâu\" / \"in-depth\"); it likely requires a title so its Post click does nothing for a short post. On detection the leg fails so the tab reloads and retries with the short-post composer",
+    "minExtensionVersion": "2.7.0",
+    "note": "v2.7: Square composer is now opened by clicking the Post/Create button on the feed, NOT the \"what are you thinking\" (\"Bạn đang nghĩ gì?\" / \"Share your thoughts\") text box, which kept leading to the wrong (article) composer. If a Text/Article choice appears, the Text type is still picked; the v2.6 article-composer refusal stays as a safety net",
     "orbitUrl": "https://www.okx.com/vi/orbit",
     "pollJitterSeconds": 600,
     "postButtonPatterns": [
@@ -26,10 +26,10 @@
     ],
     "squareBannerText": "Orbit Poster: bài Square đã điền sẵn nguyên văn. Bấm Post trên Binance để đăng, rồi báo Muse là xong.",
     "squareComposerButtonPatterns": [
-        "share your thoughts",
-        "chia sẻ suy nghĩ",
-        "write a post",
-        "^(create|tạo|đăng bài)$",
+        "^(post|đăng|publish)$",
+        "^(create|tạo|đăng bài|tạo bài|viết bài)$",
+        "post",
+        "đăng",
         "create",
         "tạo"
     ],
@@ -72,5 +72,5 @@
         "textarea",
         "[contenteditable=\"true\"]"
     ],
-    "updated": "2026-11-16T03:21:00Z"
+    "updated": "2026-11-16T03:21:40Z"
 }
