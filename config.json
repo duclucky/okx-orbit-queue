@@ -1,1 +1,33 @@
-{"bannerText":"Orbit Poster: bài đã điền sẵn nguyên văn. Bấm Post trên OKX để đăng, rồi báo Muse là xong.","composerButtonPatterns":["^(post|publish|create|share my thoughts)$","share my thoughts","post"],"configVersion":4,"delays":{"fieldRetries":10,"fieldRetryMs":500,"waitAfterComposerClick":1500,"waitAfterFill":800,"waitAfterImage":1200,"waitAfterPostClick":5000,"waitBeforeComposer":2500,"waitBeforePostClick":1000},"minExtensionVersion":"1.4.0","note":"Remote config for Muse Orbit Poster. The extension fetches this file from GitHub on every poll (max 5 min cache). Changing orbitUrl, selectors or delays here applies automatically, no extension reinstall needed. Only core logic changes need a new extension version. v1.4: extension reuses an already-open Orbit tab instead of opening a new tab each time.","orbitUrl":"https://www.okx.com/vi/orbit","postButtonPatterns":["^(post|publish)$","post|publish"],"textFieldSelectors":["textarea[placeholder*=\"hare\" i]","textarea[placeholder*=\"thought\" i]","textarea","[contenteditable=\"true\"]"],"updated":"2026-11-16T02:02:00Z"}
+{
+  "bannerText": "Orbit Poster: b\u00e0i \u0111\u00e3 \u0111i\u1ec1n s\u1eb5n nguy\u00ean v\u0103n. B\u1ea5m Post tr\u00ean OKX \u0111\u1ec3 \u0111\u0103ng, r\u1ed3i b\u00e1o Muse l\u00e0 xong.",
+  "composerButtonPatterns": [
+    "^(post|publish|create|share my thoughts)$",
+    "share my thoughts",
+    "post"
+  ],
+  "configVersion": 5,
+  "delays": {
+    "fieldRetries": 10,
+    "fieldRetryMs": 500,
+    "waitAfterComposerClick": 1500,
+    "waitAfterFill": 800,
+    "waitAfterImage": 1200,
+    "waitAfterPostClick": 5000,
+    "waitBeforeComposer": 2500,
+    "waitBeforePostClick": 1000
+  },
+  "minExtensionVersion": "1.5.0",
+  "note": "v1.5: auto-post runs in a background tab, no tab switch or window focus",
+  "orbitUrl": "https://www.okx.com/vi/orbit",
+  "postButtonPatterns": [
+    "^(post|publish)$",
+    "post|publish"
+  ],
+  "textFieldSelectors": [
+    "textarea[placeholder*=\"hare\" i]",
+    "textarea[placeholder*=\"thought\" i]",
+    "textarea",
+    "[contenteditable=\"true\"]"
+  ],
+  "updated": "2026-11-16T02:02:00Z"
+}
