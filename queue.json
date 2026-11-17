@@ -407,6 +407,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-17T19:54:23.221309Z"
+    },
+    {
+      "id": "0e22e0ea1691",
+      "text": "同一晚，比特币往外跑，以太坊往里冲：一个市场给出两个方向，喊底的人只挑了其中一半。\n\n九小时里，一万一千多枚比特币离开Kraken，约7.07亿美元；同一窗口，17.35万枚以太坊涌进币安和Kraken，约三亿美元。\n\n交易所流水是同一张牌桌的两面，只看比特币出逃就喊囤积，等于只数赢的那一半筹码。\n\n我不信这是抄底的信号：真抄底不会一边搬走比特币，一边把以太坊送上架。\n\n明天同一窗口再看一次：两边还反着走，这篇作废；同向了，今晚才算有了方向。\n\n$BTC $ETH #Bitcoin #Ethereum",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/btc-kraken-outflow-whalealert-2026-11-18.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-17T20:15:00.780978Z"
     }
   ]
 }
