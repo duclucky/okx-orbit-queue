@@ -279,6 +279,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-17T07:44:13.948158Z"
+    },
+    {
+      "id": "f5402ed473d4",
+      "text": "昨天还剩7000万美元空头，今天只剩1160万，疑似泄露的API密钥逼得Abraxas在Hyperliquid几乎把仓位清光。\n\n24小时账户缩水1.61亿美元，只剩2240万美元。\n\nLighter自己承认了密钥泄露，约1550万美元被提走，这部分是实锤。\n\n平仓潮里HYPE还站在68.99美元，24小时涨了3.8%。\n\n如果这最后1160万平完HYPE还守住62.6美元，我就认“黑客砸盘”的说法死了，谁不服拿数据来打脸。\n\n$HYPE #Hyperliquid",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/abraxas-closes-shorts-x-2026-11-17.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-17T08:57:23.061973Z"
     }
   ]
 }
