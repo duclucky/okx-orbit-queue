@@ -775,6 +775,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-19T09:48:59.597005Z"
+    },
+    {
+      "id": "a31dbd69f99d",
+      "text": "Two whales unstaked 2.31 million SOL and sent it to Coinbase Prime today: $169.4 million that can now be sold.\n\nStaked SOL cannot be sold. Unstaking is step one of a sale, and the exchange deposit is step two.\n\nI don't buy the custody story: you don't give up staking yield and move coins to an exchange just to park them.\n\nIf SOL closes below seventy-two dollars, the deposit was a sale in slow motion. If it holds seventy-five, the whales were just moving house.\n\n$SOL #Solana #CoinbasePrime",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/sol-unstake-231m-2026-11-19.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-19T10:44:55.355409Z"
     }
   ]
 }
