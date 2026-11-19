@@ -831,6 +831,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-19T16:16:45.478313Z"
+    },
+    {
+      "id": "79c006d5ef2c",
+      "text": "The hacker who sold Tornado Cash ETH near eighteen hundred just bid $21.51 million to buy it back at $1,551, and that is not an exit.\n\nThe same wallet that dumped is now the bid fourteen percent lower, with the orders already sitting on Hyperliquid.\n\nI read this as a buy-back, not a laundering exit: the seller set his own floor.\n\nETH touches $1,551 and those orders fill, the hacker is the floor. If they get pulled first, it was never a bid at all.\n\n$ETH #Ethereum #Hyperliquid",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/hacker-long-eth-lookonchain-2026-11-19.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-19T16:50:43.884979Z"
     }
   ]
 }
