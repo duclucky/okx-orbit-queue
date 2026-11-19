@@ -815,6 +815,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-19T15:13:51.808760Z"
+    },
+    {
+      "id": "ad7afe7b8b33",
+      "text": "I called the perp an echo, not a price, and the auction is already siding with the perp at $100.\n\nBefore a single share trades, thirty-five million shares matched, twenty percent above the $83 IPO price.\n\nIf the cross prints below the perp's old mark, the echo was real and my old post stands.\n\nAbove it, the perp called the open.\n\n$ANT #Anthropic #IPO",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/ant-auction-100-sikand-2026-11-19.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-19T15:38:38.742835Z"
     }
   ]
 }
