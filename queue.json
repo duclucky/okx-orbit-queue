@@ -1127,6 +1127,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-20T20:18:36.841264Z"
+    },
+    {
+      "id": "5e83c703df7d",
+      "text": "7,000 broke intraday. The S&P 500 traded under it on Friday, more than 10% below its October high.\n\nI read that as the index finally following tech down. The sector went first; the average just caught up.\n\nMonday tests 7,000 again. Does it bounce, or break lower?\n\n#SP500 #Stocks",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/sp500-under-7000-watcherguru-2026-11-21.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-20T20:47:42.682396Z"
     }
   ]
 }
