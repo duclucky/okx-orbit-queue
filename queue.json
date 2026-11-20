@@ -1143,6 +1143,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-20T21:08:59.994031Z"
+    },
+    {
+      "id": "fa204fd93297",
+      "text": "$259 million left Coinbase Institutional overnight. Both wallets that took it now hold zero.\n\nThey forwarded everything within minutes of receiving it. I read that as a pipe, not a vault: a buyer holds, a pipe passes it on.\n\nShow me either wallet holding a single coin overnight, and I will call it accumulation.\n\n$BTC #Bitcoin #WhaleAlert",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/coinbase-wallet-2277btc-zero-2026-11-21.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-20T21:48:46.665170Z"
     }
   ]
 }
