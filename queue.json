@@ -1079,6 +1079,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-20T17:10:13.532081Z"
+    },
+    {
+      "id": "b22562c30e4c",
+      "text": "15 liquidations in one hour. Two ways to read it: the exchange hunted his stops, or the wallet kept reloading into the fall.\n\nI read it as the second: this is the same wallet that was already liquidated five times yesterday and still held on.\n\nThe level that answered it was $60,177.61. It did not hold.\n\nDoes he reload for a sixteenth, or is the leverage finally dead?\n\n$BTC #Bitcoin #Hyperliquid",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/wynn-liquidated-15x-lookonchain-2026-11-21.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-20T17:52:32.713880Z"
     }
   ]
 }
