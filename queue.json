@@ -1135,6 +1135,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-20T20:47:42.682396Z"
+    },
+    {
+      "id": "fc8a88c5e5ec",
+      "text": "7,000 broke, and the close did not save it. The S&P 500 finished Friday at 6,910.39.\n\nThat is the seventh straight down day, the longest since February 2020. I read that as the break holding into the close, not a bounce.\n\nDoes Monday reclaim 7,000, or does the correction deepen?\n\n#SP500 #Stocks",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/spx-chart-2026-11-21.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-20T21:08:59.994031Z"
     }
   ]
 }
