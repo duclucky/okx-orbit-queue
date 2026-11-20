@@ -927,6 +927,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-20T00:56:44.916761Z"
+    },
+    {
+      "id": "86d9520736aa",
+      "text": "Nvidia closed at $145.98, below the $148.80 level it broke on Thursday.\n\nThe break was not a wick. The close held under the line.\n\nThe same day, California's attorney general subpoenaed Nvidia over whether chips or secrets reached China.\n\nI read this as a legal overhang now, not an earnings verdict: the record quarter is buried under investigations.\n\nShow me the stock reclaiming $148.80 and I will call the subpoena priced in.\n\n$NVDAB #Nvidia",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/nvda-ca-ag-subpoena-cryptopolitan-2026-11-20.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-20T01:52:07.400712Z"
     }
   ]
 }
