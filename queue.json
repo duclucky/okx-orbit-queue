@@ -999,6 +999,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-20T09:46:37.285759Z"
+    },
+    {
+      "id": "0576040ee76b",
+      "text": "$702 million liquidated in a day, and $603 million of it was longs.\n\nI read it as leverage eating its own, not capitulation: the sellers did not give up, the longs got wiped out.\n\nShow me a day the shorts take the bigger hit and I will call it a washout.\n\n#Bitcoin #Liquidations",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/liq-702m-cryptojack-2026-11-20.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-20T10:37:36.248079Z"
     }
   ]
 }
