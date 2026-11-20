@@ -1103,6 +1103,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-20T18:57:48.353030Z"
+    },
+    {
+      "id": "36687aa66825",
+      "text": "ETH lost the $1,700 floor it had held for six days, and the longs stacked on it paid for the break.\n\nETH long liquidations ran to more than half of Bitcoin's total on a market one-sixth the size. I read it as a floor that turned into a liquidation magnet.\n\nDoes ETH reclaim $1,700, or test $1,500 first?\n\n$ETH #Ethereum",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/eth-chart-2026-11-21.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-20T19:22:07.313279Z"
     }
   ]
 }
