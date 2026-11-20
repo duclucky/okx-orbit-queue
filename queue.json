@@ -1031,6 +1031,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-20T13:52:14.661030Z"
+    },
+    {
+      "id": "7a011d47ba70",
+      "text": "Whale Scan just called $57,800 as Bitcoin's next stop.\n\nI don't buy the next leg yet: open interest fell by a tenth in a week, and the leveraged sellers are mostly gone.\n\nDoes $57,800 print before $66,000, or is this the call that marks the fear peak?\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/whalescan-57800-2026-11-20.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-20T14:58:12.054594Z"
     }
   ]
 }
