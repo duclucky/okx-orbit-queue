@@ -1191,6 +1191,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-21T03:32:56.789519Z"
+    },
+    {
+      "id": "d52c5a369d60",
+      "text": "AguilaTrades banked $6.87M shorting Bitcoin, then queued to short it again from $59,800.\n\nI give his order more weight than the bottom calls: he just got paid for being right, they are guessing for free.\n\nDip-buyers or AguilaTrades: who owns $59,800?\n\n$BTC #Bitcoin #Hyperliquid",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/aguila-close-2026-11-21.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-21T03:42:24.570512Z"
     }
   ]
 }
