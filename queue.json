@@ -1279,6 +1279,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-21T15:44:31.631214Z"
+    },
+    {
+      "id": "d4b44006c81a",
+      "text": "The Ledger drain was $95.35 million, not the October estimate, and the gap is the story.\n\nArkham traces the theft to a compromised official Ledger reseller, across more than a thousand reported user addresses.\n\nI read the $10 million Tether froze as the part that moved too slowly, not a recovery: six weeks on, the rest has already left those addresses.\n\nDoes the frozen share grow from here, or does the trail go cold?\n\n$ETH #Ledger #Arkham",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/ledger-drain-arkham-2026-11-21.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-21T16:17:49.337545Z"
     }
   ]
 }
