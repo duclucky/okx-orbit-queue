@@ -1295,6 +1295,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-21T16:45:19.306451Z"
+    },
+    {
+      "id": "c045078ef301",
+      "text": "Three newly created wallets opened about $31 million in 20x longs on BTC and ETH, while Hyperliquid open interest has nearly halved from its September peak.\n\nI read the three wallets as one bet split three ways until the chain proves otherwise, and one bet does not refill the leverage that just left.\n\nNew money stepping in, or one whale hiding a single bet behind three new addresses?\n\n$BTC $ETH #Bitcoin #Ethereum",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/fresh-wallets-20x-longs-lookonchain-2026-11-22.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-21T17:43:13.322556Z"
     }
   ]
 }
