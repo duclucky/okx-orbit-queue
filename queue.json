@@ -1335,6 +1335,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-21T21:52:53.259236Z"
+    },
+    {
+      "id": "3f83463e7202",
+      "text": "BTCS cut its Aave loan to $54 million and told the SEC it still cannot rule out liquidation, with liquidation modeled at $1,446 in Ether.\n\nI read that as a treasury that sold Ether at a loss to defend the loan, then cut the debt, and still ended no safer, because Ether's fall largely offset the paydown.\n\nDoes the next filing show more collateral, or does $1,446 arrive first?\n\n$ETH #Ethereum #Aave",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/btcs-aave-kucoin-crop-2026-11-22.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-21T22:59:01.793971Z"
     }
   ]
 }
