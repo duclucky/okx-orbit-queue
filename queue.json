@@ -1311,6 +1311,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-21T18:54:01.824937Z"
+    },
+    {
+      "id": "32f9c698941d",
+      "text": "Nvidia fell 14% on Friday to $125.53, the day Reuters reported the SEC is probing its accounting.\n\nI give the probe more weight than Tuesday's record revenue, because the shares were already down before the report landed and fell harder after it.\n\nDoes Monday treat the probe as noise and bounce, or does the accounting question take over the story?\n\n$NVDAB #NVIDIA #SEC",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/nvda-chart-2026-11-22.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-21T19:51:12.293873Z"
     }
   ]
 }
