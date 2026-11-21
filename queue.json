@@ -1263,6 +1263,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-21T13:06:35.083732Z"
+    },
+    {
+      "id": "e551b824ea78",
+      "text": "$594 million of stolen ETH moved in two days, and the panic reads it as a sale coming.\n\nOnchain Lens tracked it to fresh wallets and through THORChain and Chainflip, while the hacker still holds 226,665 ETH.\n\nI give the wallet-to-wallet record more weight than the dump story, because a sale needs an exchange book and none is on the record.\n\nDoes the next move land on an exchange, or does the stash keep sitting while the trail goes cold?\n\n$ETH #Ethereum #THORChain",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/binance-hacker-594m-2026-11-21.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-21T14:17:21.201565Z"
     }
   ]
 }
