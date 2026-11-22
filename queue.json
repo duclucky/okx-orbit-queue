@@ -1407,6 +1407,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-22T06:50:26.196467Z"
+    },
+    {
+      "id": "6705bc0186d5",
+      "text": "$86,000 is JPMorgan's estimate of what it costs to mine a Bitcoin, and it is a model, not a bill anyone pays.\n\nI give the estimate no floor weight until miners actually shut machines down, because the estimate itself has moved all year and cash costs decide what runs.\n\nFloor or moving model: do miners sell reserves first, or does the estimate move down first?\n\n$BTC #Bitcoin #Mining",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/jpmorgan-btc-mining-cost-tv-2026-11-22.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-22T07:46:29.986214Z"
     }
   ]
 }
