@@ -1431,6 +1431,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-22T09:56:33.047251Z"
+    },
+    {
+      "id": "2d497d73fd8a",
+      "text": "Bitcoin open interest is still down 28.2% over the last month, so this bounce is running on a shrunken leverage book, not a rebuilt one.\n\nI give the bounce in dollar open interest no weight until the BTC-denominated pile grows, because a rising price lifts dollar open interest with no new position opened.\n\nLeverage returning, or the same shrunken book repriced higher?\n\n$BTC #Bitcoin #Derivatives",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/btc-oi-coinperps-2026-11-22.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-22T10:57:52.860557Z"
     }
   ]
 }
