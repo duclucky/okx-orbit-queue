@@ -1463,6 +1463,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-22T13:38:25.136057Z"
+    },
+    {
+      "id": "0d4780077387",
+      "text": "The bounty is Chainflip admitting the key failed, not the code: 90% back by 18:38 UTC tomorrow.\n\nI read the key-exposure finding as planned access, not a bug hunt, because Chainflip traced the preparation back ten days, to Tornado Cash funding and a validator account registered the day before the drain.\n\nDoes the 90% come back by the deadline, or does the deadline pass with Chainflip still in safe mode?\n\n#Chainflip #DeFi",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/chainflip-bounty-2026-11-22.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-22T14:56:15.090750Z"
     }
   ]
 }
