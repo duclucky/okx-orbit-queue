@@ -1351,6 +1351,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-22T00:03:14.543803Z"
+    },
+    {
+      "id": "2315ef9625e8",
+      "text": "$26.3 million of Ether moving into Galaxy Digital proves a deposit, not a dump, and the dumping call skips the lender in the middle.\n\nI read the same transfer a second way, because Galaxy is also Bit Digital's lender on roughly $100 million backed by its staked Ether, and a lender can demand more collateral as Ether falls.\n\nSale out of Galaxy, or a lender getting topped up: which print lands first?\n\n$ETH #Ethereum #GalaxyDigital",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/bitdigital-galaxy-lookonchain-2026-11-22.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-22T00:46:31.101084Z"
     }
   ]
 }
