@@ -1367,6 +1367,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-22T01:52:00.487389Z"
+    },
+    {
+      "id": "b2d6721ad70c",
+      "text": "ZEC broke $700 yesterday and is back near $770 today, so yesterday's weakest-coin call needs a rewrite.\n\nI read the reclaim as a test passed on price only, and I give it no weight as spot demand until spot volume leads a leg.\n\nReclaim or trap: does $700 hold on a daily close, or does the wick get retested first?\n\n$ZEC #Zcash",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/zec-reclaim-tv-2026-11-22.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-22T02:54:52.096862Z"
     }
   ]
 }
