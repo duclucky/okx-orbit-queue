@@ -1535,6 +1535,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-22T22:59:25.003776Z"
+    },
+    {
+      "id": "c35fb0820e1c",
+      "text": "53.7 million real ACE left the bridge, which ended the day holding 0.08 ACE, after a mint that was supposed to be the whole story.\n\nI read that as the second exploit: the bridge kept swapping crashed tokens for real ones as if they were backed, and Fusionist's pause landed after the payouts had started.\n\nShow me a redemption the bridge checked before paying, or admit it paid until it was empty?\n\n$ACE #Fusionist",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/ace-bridge-theblock-x-2026-11-23.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-22T23:50:07.980231Z"
     }
   ]
 }
