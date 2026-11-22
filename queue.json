@@ -1415,6 +1415,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-22T07:46:29.986214Z"
+    },
+    {
+      "id": "49a7d8a37441",
+      "text": "5 more chains would pay the new protocol fee, and that still buys UNI holders no payout.\n\nI give this vote no payout weight until the on-chain vote passes and a burn from one of these chains lands, because the fees feed UNI burns, not holder payouts.\n\nIs this a bigger burn, or the payout holders keep waiting for?\n\n$UNI #Uniswap #DeFi",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/uni-v4-fee-five-chains-gov-tall-2026-11-22.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-22T08:50:13.791333Z"
     }
   ]
 }
