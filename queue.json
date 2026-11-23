@@ -1,30 +1,6 @@
 {
   "jobs": [
     {
-      "id": "e2fd14dfa57a",
-      "text": "期权市场给英伟达财报定了±8.83%的波动，过去四次财报它平均只动了4.2%。\n\n我给4.2%这个均值更多权重，8.83%里至少有一半是恐惧的溢价。\n\n股票收盘后，代币还在交易，财报夜的第一个价格来自代币，不是股票。\n\n拿明天的实际波动来验，不到4%就是恐惧定价，觉得真会打到±8%的把仓位亮出来。\n\n$NVDAB #NVIDIA #TokenizedStocks",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/nvda-implied-move-tipranks-2026-11-16.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-16T16:49:38.550942Z"
-    },
-    {
-      "id": "ada426a65d7f",
-      "text": "7个交易日净流出19.1亿美元，比特币却从62080美元弹回约64800美元。\n\n11月5日到13日的赎回里，IBIT一家占了约14.2亿，ETF的窗口周五就关了。\n\n反弹的时候，数据还停在上周五。\n\n我给周一的资金流数据更多权重，流出不停，卖家就还没走完。\n\n周一数据再流出，别把这波反弹当成反转。\n\n$BTC #Bitcoin #ETF",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/etf-outflow-cryptonews-summary-2026-11-16.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-16T17:19:35.652182Z"
-    },
-    {
-      "id": "69928fc90058",
-      "text": "3.06亿美元净利润，是按9月30日ZEC报1414.56美元那天算出来的账面数字。\n\n其中3.308亿是非现金未实现收益，ZEC一跌它就跟着缩水。\n\n挖矿44天收入只有990万美元，还不到3.308亿的零头。\n\n我押四季度财报会把这笔收益吐回去，除非ZEC先回到1414美元。\n\n觉得3.06亿是真金白银的，拿四季度的数字来反驳我。\n\n$ZEC #Zcash",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/cypherpunk-cryptobanter-x-2026-11-16.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-16T17:51:17.959223Z"
-    },
-    {
       "id": "65668d747563",
       "text": "19.2万枚HYPE，是Lighter出事那天Abraxas净买入的数量。\n\n同一天它卖了6400万美元HYPE，又平掉了对应空单，平空只能买，最终净结果是买入。\n\nHYPE 24小时还涨了0.2%，价格没信出货的故事。\n\nLighter丢的是交易员API密钥，协议和合约没问题，损失社区估计约1550万美元。\n\n我押这是拆对冲，不是出货。\n\n11月23日那21.9万枚解押的HYPE如果砸盘，我就认错。\n\n$HYPE #Hyperliquid",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/abraxas-hype-punkquidity-2026-11-17.png",
@@ -1583,6 +1559,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-23T16:48:54.637330Z"
+    },
+    {
+      "id": "cf3c308241ec",
+      "text": "$4.36 billion left stablecoins last week while Bitcoin bounced off its weekend low.\n\nI read that as redemptions, not new money: perp volume edged up while spot volume fell.\n\nIf next week's supply print does not turn up, the rebound had no new fuel.\n\n$BTC #Stablecoins",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/stablecoin-supply-lookonchain-2026-11-24.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-23T18:09:52.950253Z"
     }
   ]
 }
