@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "9ef295fcd14e",
-      "text": "跌6.1%，离GTA VI发售还有两天，Take-Two先把自己摔了一跤。\n\n周一早盘冲到235.94美元，全市场跳水后收盘213.96美元。\n\n我认为这根阴线称的是大盘的水位，不是GTA的成色。\n\n预购仍是\"前所未有\"，全年80到82亿美元指引一字未改。\n\n周四发售日收盘见分晓：站回228美元，周一就是洗盘；跌破208美元，GTA VI就有问题。\n\n$TTWO\n\n#TakeTwo #GTA6",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/ttwo-tipranks-x-2026-11-17.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-16T20:51:21.189563Z"
-    },
-    {
       "id": "a8675be204af",
       "text": "2,219枚比特币被送进Kraken，1.438亿美元，一笔转账代表不了全市场的鲸鱼。\n\n它是周一三小时窗口里最大的一笔；同期流入交易所2.194亿美元，流出1.766亿美元。\n\n我认为一笔转账撑不起\"鲸鱼在抛售\"的结论，24小时净流入只有250枚。\n\n比特币五天跌了13.3%，周末最低61,946美元，恐慌先到，转账只是跟上。\n\n拿出24小时净流入过1,000枚的证据，再来谈抛售。\n\n$BTC\n\n#Bitcoin #WhaleAlert",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/whale-2219btc-tokenpost-2026-11-17.png",
@@ -1559,6 +1551,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-23T20:30:36.038194Z"
+    },
+    {
+      "id": "324a2b1d1f76",
+      "text": "ANTB turned over 981% of its own value in a day while Anthropic shares fell to $84.61.\n\nI read the one-for-one first-hour options as no direction at all: calls against puts, and the shares still fell.\n\nIs that new demand, or a float too thin to count as a market?\n\n$ANTB #Anthropic",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/antb-castle-2026-11-24b.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-23T21:07:56.895919Z"
     }
   ]
 }
