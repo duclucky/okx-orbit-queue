@@ -1575,6 +1575,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-23T16:22:37.817985Z"
+    },
+    {
+      "id": "4d4d56d7ce02",
+      "text": "Shares went from a $125.53 Friday close to a $171.50 high today, hours after the board unanimously reinstated Jensen Huang as CEO.\n\nI read NVDAB, the most-traded tokenized stock in the last day, as the onchain market pricing the reversal over the resignation.\n\nWhich breaks first: the priced-in reinstatement, or the probe that has not been priced in?\n\n$NVDAB #NVIDIA",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/nvidia-reinstatement-2026-11-23.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-23T16:48:54.637330Z"
     }
   ]
 }
