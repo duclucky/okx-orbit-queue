@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "2312b1aae576",
-      "text": "他曾经把30万美元做到4,170万美元，然后全部亏光。\n\n这周他又拿65万美元做到650万美元，5天10倍。\n\n今天他刚开了40倍空单：252.64枚比特币，1,634万美元。\n\n我更看重那次亏光，而不是这次10倍。\n\n先上65,000就翻倍到3,259万美元，先下62,000就是本周最准的一单。他已经证明过自己亏得起。\n\n$BTC #Bitcoin",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/aguila-short-lookonchain-2026-11-16.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-16T09:54:40.795893Z"
-    },
-    {
-      "id": "7e1e69b5135e",
-      "text": "请愿网站签名6小时多了7,696个，英伟达2%的涨幅同一天全吐回去，还倒跌2%。\n\n我押股价的投票，不押签名的投票。\n\n到今天下午，已经有172,604人签名，董事会至今一句话没回，决定权在它那份独立调查手里。\n\n明天盘后财报，先回167美元还是先破148.80美元，两个阵营总得有一个闭嘴。\n\n$NVDAB #NVIDIA #TokenizedStocks",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/nvda-petition-2026-11-16.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-16T10:58:21.859162Z"
-    },
-    {
       "id": "8073850772ab",
       "text": "15分钟跌32.5%，CEO喊“恶意清算”，可这波只爆了910万美元。\n\n从0.7124美元砸到0.4812美元，调查还在进行，他连一个钱包地址都没拿出来。\n\n一天期货成交12.9亿美元，杠杆绞杠杆，价格只能跟着走。\n\n我赌0.48美元会先被再测一次，而不是0.71美元先被收回。\n\n想证明我错了很简单：报告点一个名，或者价格先回0.71美元。\n\n$ASTER #Aster #Crypto",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/aster-ceo-2026-11-16.png",
@@ -1583,6 +1567,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-23T09:47:21.985818Z"
+    },
+    {
+      "id": "c5ee490cc136",
+      "text": "Nvidia shares jumped 10% in premarket on Trump's call to rehire Jensen Huang, but the board that ruled out his return has not moved.\n\nI read it as Bessent softening while the board holds: no vote, no decision yet.\n\nBoard vote or premarket print: which one names Nvidia's next CEO?\n\n$NVDAB #NVIDIA",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/nvda-trump-rehire-cryptopotato-2026-11-23.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-23T11:01:39.027546Z"
     }
   ]
 }
