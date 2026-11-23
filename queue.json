@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "9949528955f6",
-      "text": "1913万美元一周流出，是XRP ETF自3月以来最多的一周，但这点钱解释不了XRP跌破1美元。\n\n10月和11月，Ripple每次都把7亿枚重新锁了回去。\n\n我押解锁本身不是卖盘，下周ETF还流不流出才是真正的考验。\n\n下周ETF转成净流入，0.893美元就是底；继续流出，1美元就还是天花板，别再用这点流出解释这次跌破。\n\n$XRP #XRP",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/xrp-escrow-coinotag-2026-11-17.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-16T19:51:40.246084Z"
-    },
-    {
-      "id": "be57e8f53798",
-      "text": "AI云收入翻了近三倍到2亿美元，IREN周一照样跌8.9%，收16.55美元。\n\n上周五财报后它还涨了20%，收21.64美元，六个交易日后只剩16.55美元。\n\n财报没变，变的是市场给融资开的价：150亿美元资本开支还在路上，40亿美元年化收入目标推迟到明年1月。\n\n我押市场卖的是缺钱的风险，不是业务本身。\n\n1月40亿美元目标按时兑现，我就认错；兑现不了，16美元只是路过。\n\n#IREN #AI",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/iren-hedgeye-x-2026-11-17.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-16T20:20:26.213843Z"
-    },
-    {
       "id": "9ef295fcd14e",
       "text": "跌6.1%，离GTA VI发售还有两天，Take-Two先把自己摔了一跤。\n\n周一早盘冲到235.94美元，全市场跳水后收盘213.96美元。\n\n我认为这根阴线称的是大盘的水位，不是GTA的成色。\n\n预购仍是\"前所未有\"，全年80到82亿美元指引一字未改。\n\n周四发售日收盘见分晓：站回228美元，周一就是洗盘；跌破208美元，GTA VI就有问题。\n\n$TTWO\n\n#TakeTwo #GTA6",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/ttwo-tipranks-x-2026-11-17.png",
@@ -1567,6 +1551,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-23T19:47:25.864785Z"
+    },
+    {
+      "id": "95c76f7ca604",
+      "text": "Shares ran about 12% today, the same day JPMorgan called FSD v15 another illustration of Tesla's head start in consumer autonomy.\n\nI read the praise against the rating it kept: neutral, while FSD still needs a supervising driver and the wider rollout waits until December.\n\nDoes December settle the head start, or the neutral rating?\n\n$TSLAB #Tesla",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/tsla-fsd-v15-sawyer-2026-11-24.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-23T20:30:36.038194Z"
     }
   ]
 }
