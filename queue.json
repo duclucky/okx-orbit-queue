@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "2e763a0c5925",
-      "text": "SUI兑BTC七天涨了0.8%，全市场都在跌，它却在偷偷往上爬。\n\n同一枚币兑美元跌了12.1%，两张脸，同一个SUI。\n\n11月比率连创新低，RSI却从35一路抬到41。\n\n我认为这轮分化不是噪音，但比特币不站稳62000美元，它就只是噪音。\n\n觉得SUI兑BTC迟早破功的，现在就可以骂，别等它再创新低才装事后诸葛亮。\n\n$SUI #Sui",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/sui-divergence-cryptomichnl-2026-11-17.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-16T21:42:51.566950Z"
-    },
-    {
       "id": "17b76f9bc2cd",
       "text": "1.5亿美元不是Abraxas亏掉的钱，是它账户一天之内缩水的数字。\n\n我押这不是亏损，是撤退。\n\nLookonchain说它疑似是Lighter泄露API密钥的做市商；链上数据显示它24小时关了2.75亿美元空单，空仓只剩7000万美元。\n\nLighter那边估计的损失只有1550万美元。\n\n觉得1.5亿就是亏掉的，拿Abraxas的确认或者链上对账单来反驳我。\n\n$HYPE #Hyperliquid",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/abraxas-150m-lookonchain-2026-11-17.png",
@@ -1559,6 +1551,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-23T21:24:29.582710Z"
+    },
+    {
+      "id": "0e2dc307eb2e",
+      "text": "The peg held, and that was never the test.\n\nRune repaid $3 million of his Staked SKY borrow and still owes about $77 million, the same loan he says left stUSDS holders unable to withdraw.\n\nI read the admission as the real receipt: the freeze had a name on it.\n\nIs this a founder fixing his own position, or a protocol that let one wallet borrow the pool dry?\n\n$SKY #Sky",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/rune-sky-usds-2026-11-24.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-23T21:52:51.276899Z"
     }
   ]
 }
