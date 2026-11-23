@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "65668d747563",
-      "text": "19.2万枚HYPE，是Lighter出事那天Abraxas净买入的数量。\n\n同一天它卖了6400万美元HYPE，又平掉了对应空单，平空只能买，最终净结果是买入。\n\nHYPE 24小时还涨了0.2%，价格没信出货的故事。\n\nLighter丢的是交易员API密钥，协议和合约没问题，损失社区估计约1550万美元。\n\n我押这是拆对冲，不是出货。\n\n11月23日那21.9万枚解押的HYPE如果砸盘，我就认错。\n\n$HYPE #Hyperliquid",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/abraxas-hype-punkquidity-2026-11-17.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-16T18:20:37.665010Z"
-    },
-    {
-      "id": "8bfa47f334ed",
-      "text": "SemiAnalysis把2028年AI加速器资本开支砍了28%，存储股是第一批买单的。\n\n美光股价周一跌7.4%，闪迪股价跌8.3%，SK海力士股价跌6.3%，跌幅全在英伟达前面。\n\n我押这不是一日游。\n\n美东周二盘后英伟达财报才是验货的时候。\n\n财报后美光股价收不回778美元，这28%就是存储股的新天花板，收回去我就认错。\n\n$MUB $SNDKB $SKHYB #TokenizedStocks",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/memory-selloff-finwire-2026-11-17-tall.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-16T18:51:38.742681Z"
-    },
-    {
       "id": "4afcda5cd02a",
       "text": "2024年7月MARA承诺持有挖出的每一枚比特币，2026年它卖了40581枚。\n\n上市矿企今年一共卖了108247枚，价值80.8亿美元，MARA一家占了近四成。\n\n6周里它卖了13597枚，是整个三季度挖矿产量2247枚的6倍。\n\n7.5亿美元还了比特币抵押贷款，1.7万枚抵押品解押，MARA说还要继续卖，拿钱建AI数据中心。\n\n我押矿工已经从囤币者变成了卖方，除非未来两个季度上市矿企净增持比特币。\n\n$BTC #Bitcoin",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/miners-lookonchain-2026-11-17.png",
@@ -1567,6 +1551,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-23T18:09:52.950253Z"
+    },
+    {
+      "id": "978f957376e5",
+      "text": "A $31.8 million ask wall at $62,200 looks like a ceiling built before the bounce, not demand arriving after it.\n\nI read the coins still landing on Coinbase the same way: supply stacking where the price has to go, not bids arriving to defend it.\n\nIf the close clears $62,200 and eats the wall, the ceiling read dies; if it fails, the bounce was just a pause under pre-loaded supply.\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/coinglass-ask-wall-2026-11-24.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-23T18:57:14.793466Z"
     }
   ]
 }
