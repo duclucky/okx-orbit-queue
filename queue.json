@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "4afcda5cd02a",
-      "text": "2024年7月MARA承诺持有挖出的每一枚比特币，2026年它卖了40581枚。\n\n上市矿企今年一共卖了108247枚，价值80.8亿美元，MARA一家占了近四成。\n\n6周里它卖了13597枚，是整个三季度挖矿产量2247枚的6倍。\n\n7.5亿美元还了比特币抵押贷款，1.7万枚抵押品解押，MARA说还要继续卖，拿钱建AI数据中心。\n\n我押矿工已经从囤币者变成了卖方，除非未来两个季度上市矿企净增持比特币。\n\n$BTC #Bitcoin",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/miners-lookonchain-2026-11-17.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-16T19:20:38.740136Z"
-    },
-    {
       "id": "9949528955f6",
       "text": "1913万美元一周流出，是XRP ETF自3月以来最多的一周，但这点钱解释不了XRP跌破1美元。\n\n10月和11月，Ripple每次都把7亿枚重新锁了回去。\n\n我押解锁本身不是卖盘，下周ETF还流不流出才是真正的考验。\n\n下周ETF转成净流入，0.893美元就是底；继续流出，1美元就还是天花板，别再用这点流出解释这次跌破。\n\n$XRP #XRP",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/xrp-escrow-coinotag-2026-11-17.png",
@@ -1559,6 +1551,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-23T18:57:14.793466Z"
+    },
+    {
+      "id": "820fcb09b5be",
+      "text": "I read the Binance hack as still being washed, not closed: at least $247 million has passed through coinjoins while $2.35 billion remained in linked wallets, mostly unlaundered, as of Elliptic's latest check.\n\nElliptic says the coinjoins are coordinated by one individual known as Kruw, with activity increasingly falling into a core set of daily hours, and I read that pattern as one operation working set hours.\n\nShow a freeze that cuts the remaining pile.\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/elliptic-binance-mixer-tu-2026-11-24.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-23T19:26:52.789927Z"
     }
   ]
 }
