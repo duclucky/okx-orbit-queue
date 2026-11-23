@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "8073850772ab",
-      "text": "15分钟跌32.5%，CEO喊“恶意清算”，可这波只爆了910万美元。\n\n从0.7124美元砸到0.4812美元，调查还在进行，他连一个钱包地址都没拿出来。\n\n一天期货成交12.9亿美元，杠杆绞杠杆，价格只能跟着走。\n\n我赌0.48美元会先被再测一次，而不是0.71美元先被收回。\n\n想证明我错了很简单：报告点一个名，或者价格先回0.71美元。\n\n$ASTER #Aster #Crypto",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/aster-ceo-2026-11-16.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-16T11:40:03.964391Z"
-    },
-    {
       "id": "bd53d421c9c2",
       "text": "1550万美元从Lighter被提走，两种说法：协议被黑，还是钥匙被偷。\n\n攻击者花1万美元建零费率资金池，拿下99.99%份额，分批兑走1550万USDC。\n\n我押钥匙版：协议没被攻破，是钥匙管理先垮了。钱已经换成ETH，一部分在Hyperliquid买了门罗。\n\n想打脸很简单：拿出协议漏洞证据，或者等Lighter承认钥匙不是唯一原因。我先站钥匙这边。\n\n$XMR #Lighter #Crypto",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/lighter-lookonchain-2026-11-16.png",
@@ -1575,6 +1567,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-23T11:01:39.027546Z"
+    },
+    {
+      "id": "498cdaad95c2",
+      "text": "Arthur Hayes called $50,000 the \"next real test\" if the Nasdaq keeps puking, and Asia puked first on Monday.\n\nI read Monday's hold above $60,000 as shorts forced to buy, with liquidations running almost four-fifths short, not fresh spot demand arriving.\n\nIf the Nasdaq pukes again tonight, do the shorts keep paying for the hold, or does Hayes get his $50,000 test?\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/hayes-50k-cryptonews-2026-11-23.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-23T11:46:05.678039Z"
     }
   ]
 }
