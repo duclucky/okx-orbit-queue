@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "bd53d421c9c2",
-      "text": "1550万美元从Lighter被提走，两种说法：协议被黑，还是钥匙被偷。\n\n攻击者花1万美元建零费率资金池，拿下99.99%份额，分批兑走1550万USDC。\n\n我押钥匙版：协议没被攻破，是钥匙管理先垮了。钱已经换成ETH，一部分在Hyperliquid买了门罗。\n\n想打脸很简单：拿出协议漏洞证据，或者等Lighter承认钥匙不是唯一原因。我先站钥匙这边。\n\n$XMR #Lighter #Crypto",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/lighter-lookonchain-2026-11-16.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-16T12:48:17.680402Z"
-    },
-    {
       "id": "257816e5a97c",
       "text": "9亿美元押6万美元，8.67亿美元押10万美元，期权市场第一次觉得地板比天花板贵。\n\n看跌期权是保险不是做空，但9亿美元的保险说明，反弹到6.44万美元之后，没人相信地板站稳了。\n\n6万美元是期权市场正在上保险的价位。\n\n10万美元看涨重新反超，或比特币先冲破6.83万美元，我就当众认错。\n\n$BTC #Bitcoin #Crypto",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/deribit-60k-puts-2026-11-16-crop.png",
@@ -1583,6 +1575,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-23T12:45:52.691256Z"
+    },
+    {
+      "id": "c5b9a0660087",
+      "text": "56 of 62 companies said no to OKXICE, and the venue opens today with the six that stayed.\n\nI read it as crypto tokenizing itself: Coinbase, Robinhood, Circle, Strategy, BitGo and Securitize stayed, while Apple, Nvidia and Tesla opted out.\n\nInstitutional tokenization, or just crypto tokenizing itself on schedule?\n\n#TokenizedStocks",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/okxice-coinmarketcap-2026-11-23.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-23T13:42:48.227161Z"
     }
   ]
 }
