@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "0b1e9a456d39",
-      "text": "鲸鱼每天净存入5,500万美元，撑不起\"抛售潮\"这三个字。\n\n拿比特币每天317亿美元的成交量一除，只占0.17%。\n\nGlassnode自己都说了，这只是把币摆上货架，还没结账。\n\n如果这真是抛售潮，下周这个数字应该至少翻倍。\n\n我押它翻不了倍；如果还是5,500万，那些喊\"鲸鱼在砸盘\"的标题就是在故意吓人。\n\n$BTC #Bitcoin #Glassnode",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/glassnode-whales-2026-11-16-crop.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-16T07:44:24.131781Z"
-    },
-    {
       "id": "2a245ba9c9bb",
       "text": "SOL一个月跌了32%，70美元两天被打穿两次。\n\n有人说这是抄底区，RSI已经跌到20；可今天有人解质押卖了40,287枚SOL，买在108美元，亏了144万美元。\n\n我更信卖家那一边。\n\n日线收在67.38美元下方，下一站就是60美元。\n\n$SOL #Solana",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/sol-70-marzell-2026-11-16.png",
@@ -1583,6 +1575,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-23T07:42:15.677414Z"
+    },
+    {
+      "id": "713d8c719046",
+      "text": "7,186 ETH left Binance on the dip, 5,685 ETH came back after the bounce, and that is a round trip, not accumulation.\n\nI read the return as staging, not holding.\n\nShow me a fresh withdrawal bigger than the return leg, or admit the dip buy was staging?\n\n$ETH #Ethereum",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/chun-eth-round-trip-2026-11-23.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-23T08:41:40.060541Z"
     }
   ]
 }
