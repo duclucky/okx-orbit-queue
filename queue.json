@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "5df5406ea76d",
-      "text": "同一周，同一个\"抄底\"，两个版本差了3,660枚ETH。\n\nLookonchain说71,475枚，均价1,955美元；EmberCN说75,135枚，均价1,932美元。\n\n我押数据在打架：两个版本都只敢写\"疑似\"和\"linked\"，按现在1,814美元算，这批仓位已经浮亏超过1,000万美元。\n\nEmberCN的总数是2.53亿美元，换成Lookonchain的数字就只剩2.476亿美元。\n\n拿出一条链上记录，证明这是Voorhees的钱包，我就认这笔抄底。\n\n$ETH #Ethereum #Whale",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/eth-whales-lookonchain-2026-11-16-crop.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-16T07:02:25.678333Z"
-    },
-    {
       "id": "0b1e9a456d39",
       "text": "鲸鱼每天净存入5,500万美元，撑不起\"抛售潮\"这三个字。\n\n拿比特币每天317亿美元的成交量一除，只占0.17%。\n\nGlassnode自己都说了，这只是把币摆上货架，还没结账。\n\n如果这真是抛售潮，下周这个数字应该至少翻倍。\n\n我押它翻不了倍；如果还是5,500万，那些喊\"鲸鱼在砸盘\"的标题就是在故意吓人。\n\n$BTC #Bitcoin #Glassnode",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/glassnode-whales-2026-11-16-crop.png",
@@ -1583,6 +1575,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-23T06:51:20.420698Z"
+    },
+    {
+      "id": "a0a38a3ebb5b",
+      "text": "C$24,250 was not Bitcoin crashing but one Canadian order book trading alone, while Kraken's dollar book traded the same coin at $57,650 in the same interval.\n\nI read it as local liquidity, not a global price: Kraken says the trades stand and found no breach.\n\nCrash or empty book: which one explains a coin trading at two prices on one exchange?\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/kraken-cad-flash-crash-cointelegraph-2026-11-23.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-23T07:42:15.677414Z"
     }
   ]
 }
