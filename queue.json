@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "17b76f9bc2cd",
-      "text": "1.5亿美元不是Abraxas亏掉的钱，是它账户一天之内缩水的数字。\n\n我押这不是亏损，是撤退。\n\nLookonchain说它疑似是Lighter泄露API密钥的做市商；链上数据显示它24小时关了2.75亿美元空单，空仓只剩7000万美元。\n\nLighter那边估计的损失只有1550万美元。\n\n觉得1.5亿就是亏掉的，拿Abraxas的确认或者链上对账单来反驳我。\n\n$HYPE #Hyperliquid",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/abraxas-150m-lookonchain-2026-11-17.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-16T22:44:59.800627Z"
-    },
-    {
       "id": "4e3245218c4f",
       "text": "3月谷歌挖来桥水AI负责人当DeepMind首席战略官，8个月后，他去了Anthropic。\n\nAnthropic后天上市，最高募资644亿美元，超额认购6倍。\n\n我认为这不是一个人跳槽，是IPO在上市前先把对手的军师买走了。\n\n谷歌股价周一跌4.1%，收283.72美元，离20日低点只剩2.4%。\n\n周五前谷歌收不回295.77美元，8个月就走人的人就是信号。\n\n还在说这只是大盘水位的人，是没看懂谁在买谁的军师。\n\n$GOOGLB #Google #Anthropic",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/googlb-sekhon-x-2026-11-17.png",
@@ -1559,6 +1551,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-23T21:52:51.276899Z"
+    },
+    {
+      "id": "8016b5989d8e",
+      "text": "85,500 ETH landed on Binance while shorts paid longs to stay short.\n\nI read that as coins arriving into a squeeze that had already cost shorts $110 million in liquidations: the supply, not the demand, is what showed up.\n\nIf those coins were absorbed, the next print clears the day's high; if they were not, the squeeze was just a cover for inventory already sitting on the exchange.\n\n$ETH #Ethereum",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/whale-alert-eth-2026-11-24.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-23T22:52:42.483487Z"
     }
   ]
 }
