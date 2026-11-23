@@ -1575,6 +1575,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-23T15:03:04.586636Z"
+    },
+    {
+      "id": "76abc0bba4c0",
+      "text": "$1.75 billion in ETH leaving BlackRock wallets since October 1 is an exit, not a bad day.\n\nI read it as a steady bleed, not a single sell order: a net outflow counted over seven weeks is holders redeeming, not one fund dumping in a day.\n\nShow me a week of net inflows into those same wallets, or this is still an exit, not a pause.\n\n$ETH #Ethereum",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/blackrock-eth-lookonchain-2026-11-23.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-23T15:17:16.883563Z"
     }
   ]
 }
