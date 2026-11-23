@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "2a245ba9c9bb",
-      "text": "SOL一个月跌了32%，70美元两天被打穿两次。\n\n有人说这是抄底区，RSI已经跌到20；可今天有人解质押卖了40,287枚SOL，买在108美元，亏了144万美元。\n\n我更信卖家那一边。\n\n日线收在67.38美元下方，下一站就是60美元。\n\n$SOL #Solana",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/sol-70-marzell-2026-11-16.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-16T08:43:10.794892Z"
-    },
-    {
       "id": "2312b1aae576",
       "text": "他曾经把30万美元做到4,170万美元，然后全部亏光。\n\n这周他又拿65万美元做到650万美元，5天10倍。\n\n今天他刚开了40倍空单：252.64枚比特币，1,634万美元。\n\n我更看重那次亏光，而不是这次10倍。\n\n先上65,000就翻倍到3,259万美元，先下62,000就是本周最准的一单。他已经证明过自己亏得起。\n\n$BTC #Bitcoin",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/aguila-short-lookonchain-2026-11-16.png",
@@ -1583,6 +1575,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-23T08:41:40.060541Z"
+    },
+    {
+      "id": "db78454ea7d0",
+      "text": "Binance Bitcoin open interest fell nearly 40% in a year, less in percent than the 53% fall in 2022.\n\nI read it as a bigger market drained by closures and liquidations, not a deeper flush.\n\nShow me open interest back above its 180-day average, or admit thinner is not cleaner?\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/binance-oi-deleveraging-wu-2026-11-23.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-23T09:47:21.985818Z"
     }
   ]
 }
