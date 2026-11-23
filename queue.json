@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "a8675be204af",
-      "text": "2,219枚比特币被送进Kraken，1.438亿美元，一笔转账代表不了全市场的鲸鱼。\n\n它是周一三小时窗口里最大的一笔；同期流入交易所2.194亿美元，流出1.766亿美元。\n\n我认为一笔转账撑不起\"鲸鱼在抛售\"的结论，24小时净流入只有250枚。\n\n比特币五天跌了13.3%，周末最低61,946美元，恐慌先到，转账只是跟上。\n\n拿出24小时净流入过1,000枚的证据，再来谈抛售。\n\n$BTC\n\n#Bitcoin #WhaleAlert",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/whale-2219btc-tokenpost-2026-11-17.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-16T21:12:43.656153Z"
-    },
-    {
       "id": "2e763a0c5925",
       "text": "SUI兑BTC七天涨了0.8%，全市场都在跌，它却在偷偷往上爬。\n\n同一枚币兑美元跌了12.1%，两张脸，同一个SUI。\n\n11月比率连创新低，RSI却从35一路抬到41。\n\n我认为这轮分化不是噪音，但比特币不站稳62000美元，它就只是噪音。\n\n觉得SUI兑BTC迟早破功的，现在就可以骂，别等它再创新低才装事后诸葛亮。\n\n$SUI #Sui",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/sui-divergence-cryptomichnl-2026-11-17.png",
@@ -1559,6 +1551,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-23T21:07:56.895919Z"
+    },
+    {
+      "id": "0ea5c1d2278c",
+      "text": "Selling 27,300 ETH to repay $43.8 million of Aave debt was deleveraging under pressure, not conviction buying.\n\nI read the Friday sale as management choosing the smaller cut: more than half the pile went to shrink the loan before the loan could shrink it for them.\n\nShow me BTCS buying the pile back, and I will call it choice instead of pressure.\n\n$ETH #Ethereum",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/btcs-aave-27300-2026-11-24.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-23T21:24:29.582710Z"
     }
   ]
 }
