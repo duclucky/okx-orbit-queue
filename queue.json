@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "c3f71a5b7033",
-      "text": "亏着约97亿美元，BitMine这周又买了7,653枚ETH。\n\n上周买了9,587枚，这周只剩7,653枚。\n\n7,653枚按1,823美元算约1,400万美元，不到97亿美元浮亏的千分之二。\n\n我给浮亏更多权重：每周照表买入不是信念，是5%的目标在硬撑。\n\n离5%只差0.03个百分点，浮亏却已经是天文数字。\n\nETH先收回2,000美元，我再重估Tom Lee的说法；先跌破1,700美元，这7,653枚只是往洞里再扔一把土。\n\n$ETH #Ethereum #BitMine",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/bitmine-bitmnr-2026-11-16.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-16T15:57:23.064007Z"
-    },
-    {
-      "id": "d4630e0e99b4",
-      "text": "恐惧指数10，比特币周线却收在200周均线下方约2,600美元。\n\n比特币六周连跌，周末低点62,000美元，7月以来最低，日线RSI仅23。\n\n情绪说卖家已经卖完了，周线说趋势已经断了。\n\n我给周线更多权重：恐惧可以骗人，收盘价不会。\n\nBTC先收回68,000美元，我就承认10是见底；先跌破62,000美元，10只是半山腰。\n\n$BTC #Bitcoin",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/btc-200wma-2026-11-16.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-16T16:15:09.385336Z"
-    },
-    {
       "id": "e2fd14dfa57a",
       "text": "期权市场给英伟达财报定了±8.83%的波动，过去四次财报它平均只动了4.2%。\n\n我给4.2%这个均值更多权重，8.83%里至少有一半是恐惧的溢价。\n\n股票收盘后，代币还在交易，财报夜的第一个价格来自代币，不是股票。\n\n拿明天的实际波动来验，不到4%就是恐惧定价，觉得真会打到±8%的把仓位亮出来。\n\n$NVDAB #NVIDIA #TokenizedStocks",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/nvda-implied-move-tipranks-2026-11-16.png",
@@ -1583,6 +1567,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-23T15:43:58.452760Z"
+    },
+    {
+      "id": "684722550038",
+      "text": "457 BTC and 7,819 ETH look small next to a week of ETF redemptions, not like the buying that sets a floor.\n\nI give the ETF tape more weight than the treasury filings: Strategy sold its own shares in the same week, and both adds are fractions of piles already held.\n\nShow me a treasury week that outsizes an ETF outflow week, and I will call it the floor.\n\n$BTC $ETH #Bitcoin #Ethereum",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/strategy-457btc-bitcoinmagazine-2026-11-23.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-23T16:22:37.817985Z"
     }
   ]
 }
