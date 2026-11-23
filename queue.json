@@ -1551,6 +1551,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-23T00:51:40.519864Z"
+    },
+    {
+      "id": "8d1b544fb2d4",
+      "text": "$2 billion of USDS was swapped for USDC on November 19, and the peg held all day.\n\nI give the held peg no weight as a verdict: a fixed one-to-one swap is built to hold, while USDS supply fell nearly 40% in the same day.\n\nResilience proved, or holders pricing the dispute while the plumbing worked?\n\n$USDS #Sky",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/sky-usds-2b-2026-11-23.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-23T01:58:29.577697Z"
     }
   ]
 }
