@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "934c66ff1bf8",
-      "text": "Hayes喊ETH到2800美元，比现在高53%，他自己却说“信心一般”。\n\n今早一个据称关联他的钱包，把1500枚ETH、约273万美元送进了Coinbase。\n\n送币上交易所是准备卖的动作，不是囤币的动作。\n\n那个钱包里还剩1.25万枚ETH，约2300万美元，离Coinbase只有一步。\n\n我押ETH先破1712美元，而不是先到2800美元，觉得我说错的，拿那个钱包的下一笔来反驳我。\n\n$ETH #Ethereum",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/hayes-four-horsemen-x-2026-11-17.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-17T04:58:27.688879Z"
-    },
-    {
-      "id": "bde85639658a",
-      "text": "六个星期蒸发约2.1万亿美元市值，英伟达财报前夜，“80%会反弹”的喊声还在。\n\n今晚收盘后出三季报，预期营收1088亿美元，临时CEO科莱特·克雷斯第一次主讲。\n\n代币$NVDAB今天成交1.21亿美元，是代币化股票里成交量第一，财报的第一反应今晚一定先落在它身上。\n\n我押财报后先破148.80美元，而不是先回162.85美元，站80%那边的，先报你的价位。\n\n$NVDAB #NVIDIA",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/nvda-dicarlo-bounce-x-2026-11-17.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-17T05:47:32.018053Z"
-    },
-    {
       "id": "104a899d6ea4",
       "text": "Bitget黑客11天洗了1.61亿美元，9月24日被盗的3.875亿美元已经洗掉四成多，大多进了混币器。\n\n11月11日之后又走了1214枚，比之前6天的1052枚还多，越洗越快。\n\n我押混币器不是终点，是出货前的最后一站，洗完的币迟早要找买家。\n\nBTC先破62000美元，还是先回65000美元，就看这批洗完的币砸向哪里，Arkham下一条更新见分晓。\n\n$BTC #Bitcoin",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/bitget-hacker-arkham-x-2026-11-17.png",
@@ -1559,6 +1543,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-24T04:48:54.873567Z"
+    },
+    {
+      "id": "243e2ef0c58d",
+      "text": "Bitcoin counts toward a 12-month operating reserve now, but only after a 20% haircut in a staff letter, and that discount is the story.\n\nI read it as probation: the same letter still bars it from the cash-like liquidity portion.\n\nRecognition or probation: which will the first exchange filing prove?\n\n$BTC $ETH #CFTC",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/cftc-x-post-2026-11-24.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-24T05:49:40.016190Z"
     }
   ]
 }
