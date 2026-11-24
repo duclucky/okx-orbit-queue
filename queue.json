@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "593363645186",
-      "text": "3.4年，是Saylor刚亮出的数字：Strategy账上的美元够付3.4年的利息和股息。\n\n满屏都在喊“Strategy迟早被迫卖币”，可41%的Digital Credit期限已经被美元覆盖。\n\n850849枚BTC浮亏约93亿美元，账面难看，但浮亏不是账单。\n\nMSCI月底要把它踢出指数，可踢出指数不等于逼它卖币。\n\n觉得它迟早被迫卖币的，3.4年内拿一张它卖币还债的单据来打我脸，我就认。\n\n$BTC #Strategy",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/strategy-usd-strength-saylor-2026-11-17.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-17T09:41:41.703041Z"
-    },
-    {
-      "id": "50b478e2aad7",
-      "text": "3小时内转出74880枚ETH，约1.37亿美元，黑客不是换钱包，是在一边转一边洗。\n\n他手里还剩602402枚，约10.9亿美元，正在经THORChain换成BTC，绕开中心化交易所的冻结。\n\nETH今天从约1830美元滑到1793美元。\n\n我押这是在出货，24小时内下一笔转出就是证明。\n\n觉得他只是换个钱包放着的，拿一笔他换回ETH的记录来打我脸，我就认。\n\n$ETH #Ethereum",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/binance-hacker-lookonchain-2026-11-17.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-17T10:48:34.536838Z"
-    },
-    {
       "id": "a42b1e471dff",
       "text": "Solana 4小时图刚翻多，69.3美元守住才有82.4美元可谈。\n\n但日线还在跌，30天跌了29%，50日均线还在99.92美元。\n\n我只给4小时图半分权重，日线不翻多，这就是个反弹。\n\n24小时Solana爆仓912万美元，多空几乎五五开，市场自己也没选边。\n\n跌破69.3美元我就认错，但现在就喊下一站的人，是不是只看了4小时？\n\n$SOL #Solana",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/sol-reversal-cryptotice-2026-11-17.png",
@@ -1559,6 +1543,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-24T09:41:02.569988Z"
+    },
+    {
+      "id": "9b36f3bafb1c",
+      "text": "Coin Bureau calls it a nearly $2 billion founder cash-out on Anthropic's IPO day.\n\nI read the same filing differently: the seven sold 1.4% of their stock to underwriters in the offering, not shares dumped after listing.\n\nCash-out or housekeeping: which read survives the next founder filing?\n\n$ANTB #Anthropic",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/anthropic-founders-coinbureau-2026-11-24.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-24T10:52:30.442590Z"
     }
   ]
 }
