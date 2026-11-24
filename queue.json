@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "7150eb8d54d5",
-      "text": "这波下跌不是现货在抛，是期货在吐：两天多时间里，期货CVD少了5.16亿美元。\n\n同一窗口，现货CVD多了1亿美元。\n\nDaan说没什么值得注意，我不同意：现货没跟着卖，只是还没大买家接，这分化本身就是信号。\n\n我认为卖压来自期货的杠杆仓位，不是现货持币者。\n\n现货CVD翻负、价格跌破六万二，这篇作废；期货继续吐、现货继续吸，杠杆先认输。\n\n$BTC #Bitcoin #CVD",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/coinglass-cvd-btc-2026-11-18.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-17T22:56:06.685116Z"
-    },
-    {
       "id": "c651c80bbdba",
       "text": "两张牌照让$BP昨天涨了四成，可美国人到现在一张合约都开不了。\n\nCFTC批的是交易所和清算所，Backpack自己都说：没上线日期，只有等候名单。\n\n我不信这四成是买生意，是买头条：牌照是真的，产品是空的。\n\n更扎心的是，1.17美元的高点到现在只剩1.03美元，头条的溢价不到一天就开始漏气。\n\n上线日期公布之前，价格回不到高点，就别说这四成买的是生意。\n\n$BP #Backpack #CFTC",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/cftc-backpack-coindesk-x-2026-11-18.png",
@@ -1567,6 +1559,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-24T22:45:08.749000Z"
+    },
+    {
+      "id": "352f292c0bf8",
+      "text": "The 18.8% yield BitMart sold two weeks before its wind-down was not a product, it was cover for a $319.5 million hole valued at 2021 prices.\n\nI think a platform with almost nothing liquid against that hole sold yield to stay open, and the revised plan, not the pitch, decides what creditors get.\n\nShow me a creditor paid at today's prices and I will call the hole an old story.\n\n#BitMart #Crypto",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/bitmart-shortfall-2026-11-25.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-24T23:36:42.463400Z"
     }
   ]
 }
