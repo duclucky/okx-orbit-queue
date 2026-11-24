@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "f76725dd5eda",
-      "text": "2000万枚ENA被送上币安，一个月亏掉57.44%，这不是调仓，是投降。\n\nENA今天还涨了2%，市场没把这2000万枚当回事。\n\n他一个月前花1029万美元、按0.27美元买了3796万枚，现在亏了591万美元，手里还剩1796万枚。\n\nENA离20日低点0.11美元只差一口气，守不住就是新低。\n\n我押这是投降：剩下那1796万枚不动，这就是阶段底；动了，我就认错。\n\n$ENA #Ethena",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/ena-whale-lookonchain-2026-11-17.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-17T12:41:55.153550Z"
-    },
-    {
       "id": "8bf25b3538f5",
       "text": "IBIT连流11天、共23.5亿美元之后，昨天终于流入7650万美元。\n\n可这只补回了3%，全市场净流入也只有790万美元，GBTC还在流出3460万。\n\n过去一个月，全市场ETF已经净减3.1万枚比特币。\n\n之前7天全市场连流19.1亿美元，昨天这笔钱只是在补缺口，不是真需求。\n\n我押这不是反转：明天IBIT再流出，3%就只是噪音；连着两天流入，我认这是底。\n\n$BTC #Bitcoin",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/farside-ibit-2026-11-17.png",
@@ -1559,6 +1551,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-24T12:40:46.234728Z"
+    },
+    {
+      "id": "180596cd5655",
+      "text": "$4.71 billion had already left US spot Bitcoin ETFs through Monday, past June's $4.51 billion full-month record.\n\nI give the monthly redemption total more weight than any single day's print: June needed a full month to set that record, and November broke it early.\n\nShow me November closing back below the old record, or admit the exit is the month, not the day.\n\n$BTC #ETF",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/etf-record-phemex-2026-11-24.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-24T13:43:11.944721Z"
     }
   ]
 }
