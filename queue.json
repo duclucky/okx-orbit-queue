@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "8f5586acc81b",
-      "text": "11月9日纽交所选了Avalanche，AVAX当天最高冲到8.98美元，八天后只剩7.11美元。\n\n但结算跑在纽交所自己的定制链上，不是Avalanche公链。\n\n我押这波上涨只是借了名头，AVAX分到的只是消息，不是结算。\n\n消息前的收盘价是7.92美元，现在7.11美元，连起点都跌破了。\n\nAVAX收回8.98美元之前，别再拿纽交所给它背书了。\n\n$AVAX #Avalanche",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/avax-nyse-x-2026-11-17.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-17T01:52:32.617038Z"
-    },
-    {
       "id": "bfdebd8b592c",
       "text": "疑似Voorhees关联的钱包6天买了84,837枚ETH，均价1,931美元。\n\n可ETH现在只剩1,815美元，7天跌了14.4%。\n\n今天他又加了13,134枚，均价约1,802美元，越跌越买。\n\n均价从1,955美元拉到了1,931美元。\n\n他手里还剩1,296万美元稳定币没动。\n\n我押这1,296万美元还会进场，除非ETH先跌破1,712美元。\n\n这1,296万美元稳定币原地不动，我就认这是在接飞刀。\n\n$ETH #Ethereum",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/voorhees-eth-2026-11-17.png",
@@ -1559,6 +1551,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-24T01:04:19.581953Z"
+    },
+    {
+      "id": "d78f3b623e01",
+      "text": "An advertised 1% house edge that ran up to 38.89% on HiLo is compounding, not a rounding error.\n\nI give the November 10 cutoff more weight than the promise: ProvablyFair.org says YEET compounded the 1% on every tile and every call until then.\n\nShow me one player refunded for the extra edge, or stop calling those games provably fair.\n\n#Yeet",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/yeet-clavicular-2026-11-24.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-24T02:50:15.392212Z"
     }
   ]
 }
