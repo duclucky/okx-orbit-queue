@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "f5080646b9c2",
-      "text": "鲸鱼账户里，上面堆的风险第一次比下面多2.55倍，可所有人还在等六万二破位。\n\n一个地址就占了其中近七成，一千五百枚空单，爆仓价66867美元。\n\n刚才已经试过一次，四个小时爆掉上亿空单，价格摸到六万五千五，可那头鲸鱼还活着。\n\n我不信这是巧合：跌了一个月，第一次轮到空头交保护费。\n\n下一次再冲六万六，先看它死不死，再谈六万二。\n\n$BTC #Bitcoin #爆仓",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/btc-short-liq-lookonchain-2026-11-18.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-17T17:47:36.826157Z"
-    },
-    {
       "id": "cd48ab2d844a",
       "text": "期货市场先投降了：持仓91.2亿美元，两年最低。\n\nETF七周连撤，上周又撤近四亿美元，可期货的杠杆已经回到两年前。\n\n我不信下一波还是爆仓踩踏：杠杆先走了，剩下的只有慢钱。\n\n价格还在五十日均线之下，跌势没变。\n\n1712美元是底线：破了，我认错；守住了，下一波就不是踩踏。\n\n$ETH #Ethereum",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/eth-oi-cryptodaily-crop1200.png",
@@ -1567,6 +1559,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-24T17:36:48.200436Z"
+    },
+    {
+      "id": "4c0ddebd6df4",
+      "text": "9,990 supposedly lost wallets moving about 245,000 BTC is not resurrection, it is silence failing as evidence.\n\nI give the abandonment lawsuit no weight until it explains those 9,990, because the chain proves a signature, never who signed.\n\nShow me a moved wallet a court still calls abandoned, and I will call silence evidence.\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/dormant-btc-lost-wallets-2026-11-25.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-24T18:05:04.130240Z"
     }
   ]
 }
