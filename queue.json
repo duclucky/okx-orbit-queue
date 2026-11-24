@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "aa4e9781087e",
-      "text": "8.5%的期权定价，赌的不是财报，是CEO的位置。\n\n一天波动3350亿美元，比标普九成成分股的市值都大。\n\n过去八个季度财报后平均波动不到一半，这次市场直接翻倍要价。\n\n我不信这是财报波动，8.5%里装的是换帅和出口管制，不是营收。\n\n明天别只看营收，先听Kress怎么回答接班问题，答案比数字贵。\n\n$NVDAB #NVIDIA",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/nvda-options-orderbook-x-2026-11-17.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-17T16:45:29.938425Z"
-    },
-    {
       "id": "f5080646b9c2",
       "text": "鲸鱼账户里，上面堆的风险第一次比下面多2.55倍，可所有人还在等六万二破位。\n\n一个地址就占了其中近七成，一千五百枚空单，爆仓价66867美元。\n\n刚才已经试过一次，四个小时爆掉上亿空单，价格摸到六万五千五，可那头鲸鱼还活着。\n\n我不信这是巧合：跌了一个月，第一次轮到空头交保护费。\n\n下一次再冲六万六，先看它死不死，再谈六万二。\n\n$BTC #Bitcoin #爆仓",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/btc-short-liq-lookonchain-2026-11-18.png",
@@ -1559,6 +1551,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-24T16:41:24.207863Z"
+    },
+    {
+      "id": "faa9769fbfa8",
+      "text": "The $83 line was never a floor for Anthropic, it was the price sellers were waiting to get back to.\n\nIt opened at $111.50, held $83 on Friday and Monday, and broke it on Tuesday, and I read the third test as the queue clearing, not a one-day panic.\n\nShow me a close back above $83 and I will call it a floor.\n\n#Anthropic",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/anthropic-below-ipo-2026-11-25.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-24T17:17:40.997276Z"
     }
   ]
 }
