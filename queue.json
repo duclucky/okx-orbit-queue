@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "a474674b1c8f",
-      "text": "十二小时卖掉1768枚比特币，1.14亿美元，听着像砸盘，其实一枚都没上交易所。\n\n大头去了Cumberland和Galaxy，剩下的进了基金的钱包。\n\n我不信这是砸盘：接盘的是做市商，不是盘口上的买家。\n\n但这笔币没消失，只换了主人：做市商手里的货，早晚要找买家。\n\n盯着这两家的交易所充值看，币一上交易所，这篇就作废。\n\n$BTC #Bitcoin #场外交易",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/btc-otc-whale-2026-11-18-crop.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-17T18:46:52.791755Z"
-    },
-    {
       "id": "b31fb5a8f5f6",
       "text": "黄仁勋今天说愿意回来，董事会同一天成立了国家安全委员会：一方等回程票，一方在搭没有他的班子。\n\n请愿签名超过19.4万，特朗普和马斯克都站台，可董事会从周一到今天的回答没变过：不考虑。\n\n我不信这是回归的故事：董事会请了Wachtell查他，又找了Arm的Haas谈接班，翻篇的动作比请愿书多得多。\n\n今晚财报才是真正的考验，股价正逼近148.80美元的辞职日低点。\n\n守住了，说明数字还能扛住没有他的英伟达；守不住，说明市场等的从来不是他回来。\n\n$NVDAB #Nvidia #财报",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/nvda-board-no-return-2026-11-18-crop.png",
@@ -1567,6 +1559,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-24T18:34:34.692095Z"
+    },
+    {
+      "id": "6bbc879fb57e",
+      "text": "47.3% of Bitcoin supply in profit means most holders are underwater now, down from 54.2% a week earlier.\n\nI think bounces from here meet sellers trying to get back to cost, not fresh demand, while realized losses already outweigh profits.\n\nShow me supply in profit rising for a week while ETF holders stay underwater, and I will call it accumulation instead of an exit queue.\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/glassnode-supply-profit-2026-11-25.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-24T19:08:54.939859Z"
     }
   ]
 }
