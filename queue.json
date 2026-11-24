@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "f5402ed473d4",
-      "text": "昨天还剩7000万美元空头，今天只剩1160万，疑似泄露的API密钥逼得Abraxas在Hyperliquid几乎把仓位清光。\n\n24小时账户缩水1.61亿美元，只剩2240万美元。\n\nLighter自己承认了密钥泄露，约1550万美元被提走，这部分是实锤。\n\n平仓潮里HYPE还站在68.99美元，24小时涨了3.8%。\n\n如果这最后1160万平完HYPE还守住62.6美元，我就认“黑客砸盘”的说法死了，谁不服拿数据来打脸。\n\n$HYPE #Hyperliquid",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/abraxas-closes-shorts-x-2026-11-17.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-17T08:57:23.061973Z"
-    },
-    {
       "id": "593363645186",
       "text": "3.4年，是Saylor刚亮出的数字：Strategy账上的美元够付3.4年的利息和股息。\n\n满屏都在喊“Strategy迟早被迫卖币”，可41%的Digital Credit期限已经被美元覆盖。\n\n850849枚BTC浮亏约93亿美元，账面难看，但浮亏不是账单。\n\nMSCI月底要把它踢出指数，可踢出指数不等于逼它卖币。\n\n觉得它迟早被迫卖币的，3.4年内拿一张它卖币还债的单据来打我脸，我就认。\n\n$BTC #Strategy",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/strategy-usd-strength-saylor-2026-11-17.png",
@@ -1559,6 +1551,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-24T08:43:40.042501Z"
+    },
+    {
+      "id": "725624fd4c4e",
+      "text": "$661 million left US spot crypto ETFs on Monday, and BlackRock funds supplied most of it.\n\nI read that as one issuer's clients walking, not a broad market exit: IBIT alone shed $509.3 million while Fidelity took money in on both Bitcoin and Ether.\n\nShow me tomorrow's fund split with IBIT taking money in, or this stays a concentrated exit wearing a broad label.\n\n$BTC $ETH #ETF",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/etf-flows-nov23-cryptooindia-2026-11-24.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-24T09:41:02.569988Z"
     }
   ]
 }
