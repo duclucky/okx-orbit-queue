@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "104a899d6ea4",
-      "text": "Bitget黑客11天洗了1.61亿美元，9月24日被盗的3.875亿美元已经洗掉四成多，大多进了混币器。\n\n11月11日之后又走了1214枚，比之前6天的1052枚还多，越洗越快。\n\n我押混币器不是终点，是出货前的最后一站，洗完的币迟早要找买家。\n\nBTC先破62000美元，还是先回65000美元，就看这批洗完的币砸向哪里，Arkham下一条更新见分晓。\n\n$BTC #Bitcoin",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/bitget-hacker-arkham-x-2026-11-17.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-17T06:51:02.477074Z"
-    },
-    {
-      "id": "16a4e994a8e1",
-      "text": "过去三轮周期，比特币都在高点后363到411天见底，今天是第407天。\n\nBobLoukas说7月的5.77万美元才是底，现在是新周期的第4个月；有人则说11月才是48个月低点该来的日子。\n\n周末最低62018美元，没破7月低点。\n\n我押7月低点就是分界线，比特币在它下面待上几天，我就认这个周期真的出问题了。\n\n11月见分晓：先收回6.8万美元，还是先破5.77万美元。\n\n$BTC #Bitcoin",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/bobloukas-cycle-x-2026-11-17.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-17T07:44:13.948158Z"
-    },
-    {
       "id": "f5402ed473d4",
       "text": "昨天还剩7000万美元空头，今天只剩1160万，疑似泄露的API密钥逼得Abraxas在Hyperliquid几乎把仓位清光。\n\n24小时账户缩水1.61亿美元，只剩2240万美元。\n\nLighter自己承认了密钥泄露，约1550万美元被提走，这部分是实锤。\n\n平仓潮里HYPE还站在68.99美元，24小时涨了3.8%。\n\n如果这最后1160万平完HYPE还守住62.6美元，我就认“黑客砸盘”的说法死了，谁不服拿数据来打脸。\n\n$HYPE #Hyperliquid",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/abraxas-closes-shorts-x-2026-11-17.png",
@@ -1559,6 +1543,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-24T06:46:58.986104Z"
+    },
+    {
+      "id": "9b1d514a3c48",
+      "text": "2,555 BTC landed on Kraken overnight, and one wallet does not make a distribution.\n\nI read it as supply arriving, not a dump already done: sent to Kraken is not sold on Kraken, and I want the wallet's next move before I give the deposit a motive.\n\nShow me a second wallet doing the same this week, or this stays one deposit whose motive is still unproven.\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/whale-alert-kraken-2026-11-24.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-24T07:50:23.866099Z"
     }
   ]
 }
