@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "cd48ab2d844a",
-      "text": "期货市场先投降了：持仓91.2亿美元，两年最低。\n\nETF七周连撤，上周又撤近四亿美元，可期货的杠杆已经回到两年前。\n\n我不信下一波还是爆仓踩踏：杠杆先走了，剩下的只有慢钱。\n\n价格还在五十日均线之下，跌势没变。\n\n1712美元是底线：破了，我认错；守住了，下一波就不是踩踏。\n\n$ETH #Ethereum",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/eth-oi-cryptodaily-crop1200.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-17T18:15:22.638154Z"
-    },
-    {
       "id": "a474674b1c8f",
       "text": "十二小时卖掉1768枚比特币，1.14亿美元，听着像砸盘，其实一枚都没上交易所。\n\n大头去了Cumberland和Galaxy，剩下的进了基金的钱包。\n\n我不信这是砸盘：接盘的是做市商，不是盘口上的买家。\n\n但这笔币没消失，只换了主人：做市商手里的货，早晚要找买家。\n\n盯着这两家的交易所充值看，币一上交易所，这篇就作废。\n\n$BTC #Bitcoin #场外交易",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/btc-otc-whale-2026-11-18-crop.png",
@@ -1567,6 +1559,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-24T18:05:04.130240Z"
+    },
+    {
+      "id": "b1bc0871a3a1",
+      "text": "Nvidia shares traded as low as $150.50 on Tuesday, under Monday's low, a day after closing at $165.05.\n\nI think Monday priced Jensen Huang's return and Tuesday is pricing the probe behind his exit, with December hearings still ahead.\n\nA close above $165.05 makes Monday a re-rating, and a close below $150.50 makes it relief.\n\n$NVDAB #NVIDIA",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/nvda-tuesday-low-2026-11-25.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-24T18:34:34.692095Z"
     }
   ]
 }
