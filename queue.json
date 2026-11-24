@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "87ba83bc1a2f",
-      "text": "过去24小时，6,881枚比特币净流入交易所，卖方今天先赢了一局。\n\n同一天，4.16亿USDT进了币安，1,533枚比特币却从Kraken提了出来。\n\n鲸鱼每天净送约5,500万美元比特币上交易所，这不是一天的噪音。\n\n上一篇我定的检验标准是下一次净流量超过1,000枚，现在是6,881枚。\n\n明天净流量翻成负数，我就认错；还是正数，抄底的喊声可以停了。\n\n$BTC #Bitcoin",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/whale-netflow-alphafinance-2026-11-17.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-17T01:02:07.633040Z"
-    },
-    {
       "id": "8f5586acc81b",
       "text": "11月9日纽交所选了Avalanche，AVAX当天最高冲到8.98美元，八天后只剩7.11美元。\n\n但结算跑在纽交所自己的定制链上，不是Avalanche公链。\n\n我押这波上涨只是借了名头，AVAX分到的只是消息，不是结算。\n\n消息前的收盘价是7.92美元，现在7.11美元，连起点都跌破了。\n\nAVAX收回8.98美元之前，别再拿纽交所给它背书了。\n\n$AVAX #Avalanche",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/avax-nyse-x-2026-11-17.png",
@@ -1559,6 +1551,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-24T00:00:32.688457Z"
+    },
+    {
+      "id": "4ff950b0f955",
+      "text": "A 16% fall on split day was real trading, not split arithmetic: SanDisk shares closed at $79.24.\n\nI read Monday as a fade, not a recovery: above the reference intraday, below it at the close.\n\nShow me a close back above that reference, or admit the rebound never reclaimed the split price.\n\n$SNDKB #SanDisk",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/sndk-coinotag-2026-11-24.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-24T01:04:19.581953Z"
     }
   ]
 }
