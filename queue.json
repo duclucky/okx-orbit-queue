@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "a42b1e471dff",
-      "text": "Solana 4小时图刚翻多，69.3美元守住才有82.4美元可谈。\n\n但日线还在跌，30天跌了29%，50日均线还在99.92美元。\n\n我只给4小时图半分权重，日线不翻多，这就是个反弹。\n\n24小时Solana爆仓912万美元，多空几乎五五开，市场自己也没选边。\n\n跌破69.3美元我就认错，但现在就喊下一站的人，是不是只看了4小时？\n\n$SOL #Solana",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/sol-reversal-cryptotice-2026-11-17.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-17T11:44:52.139323Z"
-    },
-    {
       "id": "f76725dd5eda",
       "text": "2000万枚ENA被送上币安，一个月亏掉57.44%，这不是调仓，是投降。\n\nENA今天还涨了2%，市场没把这2000万枚当回事。\n\n他一个月前花1029万美元、按0.27美元买了3796万枚，现在亏了591万美元，手里还剩1796万枚。\n\nENA离20日低点0.11美元只差一口气，守不住就是新低。\n\n我押这是投降：剩下那1796万枚不动，这就是阶段底；动了，我就认错。\n\n$ENA #Ethena",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/ena-whale-lookonchain-2026-11-17.png",
@@ -1551,6 +1543,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-24T10:52:30.442590Z"
+    },
+    {
+      "id": "27718ffa306a",
+      "text": "Binance's market share held steady after the hack, except open interest, which slipped from 44.9% to 43.8%.\n\nI read that as traders trimming exposure without leaving the venue: order-book depth and derivatives volume barely moved in the same print.\n\nShow me the next share print with open interest back above 44.9%, and I will drop the leak read.\n\n#Derivatives",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/coinglass-binance-share-2026-11-24.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-24T11:47:33.951178Z"
     }
   ]
 }
