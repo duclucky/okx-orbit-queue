@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "8bf25b3538f5",
-      "text": "IBIT连流11天、共23.5亿美元之后，昨天终于流入7650万美元。\n\n可这只补回了3%，全市场净流入也只有790万美元，GBTC还在流出3460万。\n\n过去一个月，全市场ETF已经净减3.1万枚比特币。\n\n之前7天全市场连流19.1亿美元，昨天这笔钱只是在补缺口，不是真需求。\n\n我押这不是反转：明天IBIT再流出，3%就只是噪音；连着两天流入，我认这是底。\n\n$BTC #Bitcoin",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/farside-ibit-2026-11-17.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-17T13:50:33.173749Z"
-    },
-    {
       "id": "9923366b27f4",
       "text": "闪迪今天盘中打到794美元，11月5日低点806美元已经被刺穿，8拆1周五开跑也救不了这个位置。\n\n周一才跌8.58%到809美元，一天之后低点就没了。\n\n拆股改的是股数，不是NAND涨价撑起来的毛利。\n\n一季度收入涨378%，出货量只涨10%；美光同日也跌7.62%，今天又跌到708美元。\n\nMorningstar已经把公允价值砍到870美元，说涨价周期之后是严重下行。\n\n我押今天收盘守不住806美元：收在806之上是超跌，收在之下就是周期见顶。\n\n$SNDKB $MUB #SanDisk #TokenizedStocks",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/sndkb-chart-2026-11-17.png",
@@ -1559,6 +1551,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-24T13:43:11.944721Z"
+    },
+    {
+      "id": "e1283bf4e980",
+      "text": "A reported $3.5 trillion merger just got five named negotiators, and still no deal anyone can verify.\n\nI read that as process, not progress: the report names the committees, Reuters could not verify it, and SpaceX's tokenized share still has no ratio to price.\n\nName the exchange ratio and I will call it a merger; until then it is a headline wearing a price tag.\n\n$SPCXB #SpaceX",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/spacex-tesla-msn-2026-11-24-crop.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-24T14:54:15.722468Z"
     }
   ]
 }
