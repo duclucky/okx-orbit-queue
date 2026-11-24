@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "4e3245218c4f",
-      "text": "3月谷歌挖来桥水AI负责人当DeepMind首席战略官，8个月后，他去了Anthropic。\n\nAnthropic后天上市，最高募资644亿美元，超额认购6倍。\n\n我认为这不是一个人跳槽，是IPO在上市前先把对手的军师买走了。\n\n谷歌股价周一跌4.1%，收283.72美元，离20日低点只剩2.4%。\n\n周五前谷歌收不回295.77美元，8个月就走人的人就是信号。\n\n还在说这只是大盘水位的人，是没看懂谁在买谁的军师。\n\n$GOOGLB #Google #Anthropic",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/googlb-sekhon-x-2026-11-17.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-16T23:59:01.124607Z"
-    },
-    {
       "id": "87ba83bc1a2f",
       "text": "过去24小时，6,881枚比特币净流入交易所，卖方今天先赢了一局。\n\n同一天，4.16亿USDT进了币安，1,533枚比特币却从Kraken提了出来。\n\n鲸鱼每天净送约5,500万美元比特币上交易所，这不是一天的噪音。\n\n上一篇我定的检验标准是下一次净流量超过1,000枚，现在是6,881枚。\n\n明天净流量翻成负数，我就认错；还是正数，抄底的喊声可以停了。\n\n$BTC #Bitcoin",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/whale-netflow-alphafinance-2026-11-17.png",
@@ -1559,6 +1551,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-23T22:52:42.483487Z"
+    },
+    {
+      "id": "2494389bfe50",
+      "text": "$11.19 billion in whale sells beat $9.51 billion in buys over 7 days, while Bitcoin bounced off its weekend low.\n\nI give the tape more weight than the bounce: executed trades, not transfers.\n\nShow me the next 7-day print buy-led, or stop calling this bounce accumulation.\n\n$BTC #Whales",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/coinlobster-whales-weekly-2026-11-24.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-24T00:00:32.688457Z"
     }
   ]
 }
