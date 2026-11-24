@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "9923366b27f4",
-      "text": "闪迪今天盘中打到794美元，11月5日低点806美元已经被刺穿，8拆1周五开跑也救不了这个位置。\n\n周一才跌8.58%到809美元，一天之后低点就没了。\n\n拆股改的是股数，不是NAND涨价撑起来的毛利。\n\n一季度收入涨378%，出货量只涨10%；美光同日也跌7.62%，今天又跌到708美元。\n\nMorningstar已经把公允价值砍到870美元，说涨价周期之后是严重下行。\n\n我押今天收盘守不住806美元：收在806之上是超跌，收在之下就是周期见顶。\n\n$SNDKB $MUB #SanDisk #TokenizedStocks",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/sndkb-chart-2026-11-17.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-17T14:57:20.700453Z"
-    },
-    {
-      "id": "1453e033e7b7",
-      "text": "一边6天买了84837枚ETH，均价1931美元；另一边今天9.05万枚ETH被送上币安，约1.62亿美元。\n\n6天花了1.54亿美元，买家手里只剩1296万美元稳定币，不够平均一天的买速。\n\nVoorhees 15号已经否认这是他的钱包，可链上还在按他的名字记账。\n\nETH现在1811美元，买家成本1931美元，账面浮亏超过1000万美元。\n\n我押买家先断粮：没子弹的抄底，撑不过下一轮下跌。\n\n明天看两件事：买家补不补稳定币，币安那9.05万枚动不动。\n\n$ETH #Ethereum #Whale",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/lookonchain-feed-82577-2026-11-17.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-17T15:12:35.791085Z"
-    },
-    {
       "id": "960c22f02724",
       "text": "ZEC一天涨10.7%，Hayes的1800美元满天飞，可X上翻了一圈，找不到一个像样的理由。\n\n这轮涨是空头被迫买回来的，不是现货抢进来的。\n\n期货成交碾压现货，油门在衍生品手里，不在买家手里。\n\n我不信这是反转，九月那轮也是这么涨上去的，逼空烧完，价格照样回来了。\n\n明天别盯着涨幅，先看现货有没有人真的在买。\n\n$ZEC #Zcash",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/zec-squeeze-cointurk-2026-11-17.png",
@@ -1559,6 +1543,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-24T14:54:15.722468Z"
+    },
+    {
+      "id": "96d8976e870c",
+      "text": "Nasdaq futures down 2.5% on a tariff report tells me Monday's 4.7% S&P rally was priced on one headline, not on breadth.\n\nI give the report the deciding weight: no rate is final and no announcement has landed, yet futures moved before either.\n\nShow me a final tariff rate that leaves Monday's close standing, and I will call Monday real.\n\n#Tariffs #Nasdaq",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/kobeissi-tariff-futures-2026-11-24.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-24T15:17:38.609588Z"
     }
   ]
 }
