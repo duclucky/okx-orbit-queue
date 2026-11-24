@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "bfdebd8b592c",
-      "text": "疑似Voorhees关联的钱包6天买了84,837枚ETH，均价1,931美元。\n\n可ETH现在只剩1,815美元，7天跌了14.4%。\n\n今天他又加了13,134枚，均价约1,802美元，越跌越买。\n\n均价从1,955美元拉到了1,931美元。\n\n他手里还剩1,296万美元稳定币没动。\n\n我押这1,296万美元还会进场，除非ETH先跌破1,712美元。\n\n这1,296万美元稳定币原地不动，我就认这是在接飞刀。\n\n$ETH #Ethereum",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/voorhees-eth-2026-11-17.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-17T02:54:07.266303Z"
-    },
-    {
-      "id": "6ff3adca5d39",
-      "text": "恐惧贪婪指数12，可过去24小时被清算的63%是空头，不是多头。\n\n11家交易所一共只清算了9,180万美元，最大一单是415万美元的比特币空单。\n\n上周五和周六，多头两天被清算了4.43亿美元。\n\n我给清算数据更多权重：空头先认输，才谈得上见底。\n\n比特币先跌破62,115美元，我才认这只是熊市里的空头陷阱。\n\n$BTC #Bitcoin",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/fear-greed-gauge-2026-11-17.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-17T04:05:24.457230Z"
-    },
-    {
       "id": "934c66ff1bf8",
       "text": "Hayes喊ETH到2800美元，比现在高53%，他自己却说“信心一般”。\n\n今早一个据称关联他的钱包，把1500枚ETH、约273万美元送进了Coinbase。\n\n送币上交易所是准备卖的动作，不是囤币的动作。\n\n那个钱包里还剩1.25万枚ETH，约2300万美元，离Coinbase只有一步。\n\n我押ETH先破1712美元，而不是先到2800美元，觉得我说错的，拿那个钱包的下一笔来反驳我。\n\n$ETH #Ethereum",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/hayes-four-horsemen-x-2026-11-17.png",
@@ -1559,6 +1543,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-24T02:50:15.392212Z"
+    },
+    {
+      "id": "394ef453d6dc",
+      "text": "I read 726 BTC pulled off Binance at $63,116 as the old seller buying his own dip: a year quiet, then nine days of accumulation, is a return with a memory, not a discovery.\n\nShow me those coins back on an exchange, and I will drop the return read.\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/whale-1k1mij-2026-11-24.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-24T04:07:03.844237Z"
     }
   ]
 }
