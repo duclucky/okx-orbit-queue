@@ -1551,6 +1551,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-24T04:07:03.844237Z"
+    },
+    {
+      "id": "4953489ce35a",
+      "text": "276.7 BTC from a miner to Galaxy Digital is not the same trade as 172.25 BTC into a treasury from Anchorage.\n\nI give the miner's send more weight: a transfer to Galaxy puts coins where selling happens.\n\nWhich repeats first: another MARA send to Galaxy, or another Twenty One receipt from Anchorage?\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/mara-twentyone-2026-11-24.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-24T04:48:54.873567Z"
     }
   ]
 }
