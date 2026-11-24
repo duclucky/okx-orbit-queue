@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "b33677e94d8f",
-      "text": "杠杆的门开到最大的那一周，正好是市场去杠杆最狠的一个月。\n\n去年一月上线时只能借十万美元，如今累计放出34亿美元，还有17亿美元没还，纽约昨天补上最后一块拼图。\n\n抵押比特币、以太坊、索拉娜借USDC，不用卖币就能拿到现金。\n\n我不信这是单纯的利好：不用卖币是真，可每一笔借款也是一颗未来的爆仓雷。\n\n比特币再探六万二那天就见分晓：清算先爆，这篇作废；借款还在涨，利好才是真的。\n\n$BTC $ETH $SOL #Coinbase #借贷",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/coinbase-borrow-panews-2026-11-18.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-17T20:45:54.773544Z"
-    },
-    {
       "id": "12b9ab4e66c0",
       "text": "财报漂亮得不像话，盘后却几乎没动：数字是旧公司的，问题是新公司的。\n\n三季度营收115.8亿美元，超预期七十亿；每股盈利2.68美元，超预期近一成。\n\n可这一季十月底就结束了，黄仁勋十一月才辞职，SEC的调查今天才爆出来。\n\n我不信这是市场没看懂：再好的数字，也回答不了谁来掌舵、SEC要查什么。\n\n周三开盘见分晓：先听今晚Kress的电话会，再看股价往哪边走。\n\n$NVDAB #Nvidia #财报",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/nvda-q3-earnings-guy-2026-11-18.png",
@@ -1567,6 +1559,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-24T20:35:58.298629Z"
+    },
+    {
+      "id": "ca95fabb0d94",
+      "text": "A 16.7% fall after a beat is not the optics business failing, it is the market repricing how long 45% optics growth lasts.\n\nI think Morgan Stanley keeping its rating while cutting its target says demand is real and the multiple is not, and Tuesday priced durability, not demand.\n\nShow me January optics growing as Morgan Stanley expects, and I will call Tuesday a valuation reset instead of a peak.\n\n#Semtech",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/semtech-valuation-reset-2026-11-25-crop.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-24T21:13:04.517231Z"
     }
   ]
 }
