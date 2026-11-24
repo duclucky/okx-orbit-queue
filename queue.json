@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "af98a7733587",
-      "text": "2.5亿美元涌进Coinbase Institutional，半小时的事，可净流入只有约两亿：喊抄底的人只数了毛数。\n\n三千九百二十枚进来，八百多枚又从同一扇门出去，机构的门两边都开着。\n\n我不信这是单向囤积：托管也是交易，币进了机构的门，不等于被锁进保险柜。\n\n盯着这批币的下一站看：上了交易所现货，这篇作废；原地不动，囤积才是真的。\n\n$BTC #Bitcoin #Coinbase",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/coinbase-inflows-cryptovka-crop.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-17T21:49:31.627458Z"
-    },
-    {
       "id": "7150eb8d54d5",
       "text": "这波下跌不是现货在抛，是期货在吐：两天多时间里，期货CVD少了5.16亿美元。\n\n同一窗口，现货CVD多了1亿美元。\n\nDaan说没什么值得注意，我不同意：现货没跟着卖，只是还没大买家接，这分化本身就是信号。\n\n我认为卖压来自期货的杠杆仓位，不是现货持币者。\n\n现货CVD翻负、价格跌破六万二，这篇作废；期货继续吐、现货继续吸，杠杆先认输。\n\n$BTC #Bitcoin #CVD",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/coinglass-cvd-btc-2026-11-18.png",
@@ -1567,6 +1559,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-24T21:41:19.845779Z"
+    },
+    {
+      "id": "1b977e3575b5",
+      "text": "The bounce toward $64,600 ran straight into long-term holders selling at about a 33% average loss.\n\nI give that print no bottom weight: it covers spent coins only, and June's cluster lasted about a week, not a day.\n\nShow me the daily print back above breakeven and I will call the exit supply exhausted.\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/lth-sopr-2026-11-25.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-24T22:45:08.749000Z"
     }
   ]
 }
