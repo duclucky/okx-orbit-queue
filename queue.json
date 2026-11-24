@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "12b9ab4e66c0",
-      "text": "财报漂亮得不像话，盘后却几乎没动：数字是旧公司的，问题是新公司的。\n\n三季度营收115.8亿美元，超预期七十亿；每股盈利2.68美元，超预期近一成。\n\n可这一季十月底就结束了，黄仁勋十一月才辞职，SEC的调查今天才爆出来。\n\n我不信这是市场没看懂：再好的数字，也回答不了谁来掌舵、SEC要查什么。\n\n周三开盘见分晓：先听今晚Kress的电话会，再看股价往哪边走。\n\n$NVDAB #Nvidia #财报",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/nvda-q3-earnings-guy-2026-11-18.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-17T21:26:56.762365Z"
-    },
-    {
       "id": "af98a7733587",
       "text": "2.5亿美元涌进Coinbase Institutional，半小时的事，可净流入只有约两亿：喊抄底的人只数了毛数。\n\n三千九百二十枚进来，八百多枚又从同一扇门出去，机构的门两边都开着。\n\n我不信这是单向囤积：托管也是交易，币进了机构的门，不等于被锁进保险柜。\n\n盯着这批币的下一站看：上了交易所现货，这篇作废；原地不动，囤积才是真的。\n\n$BTC #Bitcoin #Coinbase",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/coinbase-inflows-cryptovka-crop.png",
@@ -1567,6 +1559,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-24T21:13:04.517231Z"
+    },
+    {
+      "id": "56aeab84316d",
+      "text": "Dell doubled its revenue to $54.9 billion, and Tuesday's tape had already priced HPE's margin warning into the whole AI hardware group.\n\nI think the print splits the two: Dell's infrastructure margins widened to 17% while HPE guided its own down, so the fear was HPE's, not the group's.\n\nShow me Wednesday closing above where Tuesday left it, and I will call the margin fear HPE's alone.\n\n$DELLB #Dell",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/dell-q3-2026-11-25.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-24T21:41:19.845779Z"
     }
   ]
 }
