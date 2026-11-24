@@ -1551,6 +1551,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-24T11:47:33.951178Z"
+    },
+    {
+      "id": "a70f2e4f49b8",
+      "text": "In seven weeks, Ethereum's share of tokenized assets dropped from 53.2% to 50%.\n\nI read that as money leaving Ethereum faster than the rest: the total shrank, and Ethereum's slice shrank faster.\n\nIf the next Token Terminal print does not climb back above 53.2%, the rails story is runoff, not dominance.\n\n$ETH #TokenizedAssets",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/eth-tokenized-assets-2026-11-24.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-24T12:40:46.234728Z"
     }
   ]
 }
