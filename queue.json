@@ -1551,6 +1551,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-24T15:17:38.609588Z"
+    },
+    {
+      "id": "aced9437efa9",
+      "text": "Bitcoin's 30-day average hash rate is 8% below last year's level, the first annual decline since the 2021 China ban, and no government ordered this one.\n\nI read that as price forcing rigs off: hashprice at a record low is a margin call on the weakest miners, not a policy shock.\n\nShow me the 30-day average turning back up before the next difficulty retarget, and I will drop the shutdown read.\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/hashrate-glassnode-2026-11-24.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-24T15:42:45.702789Z"
     }
   ]
 }
