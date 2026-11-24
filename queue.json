@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "4c3d9f04865b",
-      "text": "富国银行成了最大的IBIT持有者，23.5亿美元，可这顶帽子是客户的钱堆出来的。\n\n八成五的持仓走经纪账户，客户的钱占了大头，标题把客户的仓位算成了银行的信仰。\n\n更扎心的是，这笔仓位是在比特币一个季度涨四成多时翻倍的，追着涨势建起来的。\n\n现在同样数量的份额只值17.9亿美元，一个半月蒸发了五亿多。\n\n我不信这是机构信心的证据：客户买单和银行押注，是两回事。\n\n明年二月四季度13F见分晓：份额守住了，这篇作废；份额塌了，说明客户也在割肉。\n\n$BTC #Bitcoin #ETF",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/wells-fargo-ibit-2026-11-18-final.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-17T19:54:23.221309Z"
-    },
-    {
       "id": "0e22e0ea1691",
       "text": "同一晚，比特币往外跑，以太坊往里冲：一个市场给出两个方向，喊底的人只挑了其中一半。\n\n九小时里，一万一千多枚比特币离开Kraken，约7.07亿美元；同一窗口，17.35万枚以太坊涌进币安和Kraken，约三亿美元。\n\n交易所流水是同一张牌桌的两面，只看比特币出逃就喊囤积，等于只数赢的那一半筹码。\n\n我不信这是抄底的信号：真抄底不会一边搬走比特币，一边把以太坊送上架。\n\n明天同一窗口再看一次：两边还反着走，这篇作废；同向了，今晚才算有了方向。\n\n$BTC $ETH #Bitcoin #Ethereum",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/btc-kraken-outflow-whalealert-2026-11-18.png",
@@ -1567,6 +1559,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-24T19:34:33.511647Z"
+    },
+    {
+      "id": "cbeffa907228",
+      "text": "A 16% fall after a beat and a raised outlook is the market pricing the margin, not the demand.\n\nI think more AI servers at a 14% margin guide means costs rising faster than pricing, and the assembler pays for the boom instead of winning it.\n\nShow me a quarter where AI volume rises and the margin guide rises with it, and I will call demand the whole story.\n\n#HPE",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/hpe-margin-crash-2026-11-25-crop.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-24T20:05:15.906276Z"
     }
   ]
 }
