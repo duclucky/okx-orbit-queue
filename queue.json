@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "8e560705b759",
-      "text": "近5000亿美元订单，认购量超过SpaceX，可这些订单没有一张是必须买的。\n\n机构四千亿，散户近一千亿，七块钱里只有一块能分到货，剩下的只是意向。\n\n我不信这叫需求：订单是免费的，开盘价才是真金白银。\n\n今晚那篇我说有人在盘前做空浮盈400多万，同一只股票，有人庆祝订单，有人拿钱做空。\n\n明天开盘见分晓：ANT高开，我认这5000亿是真的；低开，我认订单就是一张纸。\n\n#Anthropic #IPO",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/anthropic-500b-kobeissi-2026-11-18.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-18T16:46:53.232049Z"
-    },
-    {
       "id": "8e73f02435d2",
       "text": "今晚那篇我说5000亿订单是纸，可链上今天先收了5亿真金白银。\n\n币安钱包的ANTx八小时认购卖完，Ondo的ANTon明天首日上线，全天候可以铸造赎回。\n\n我不信这叫散户接盘：五亿是实打实的真钱，不是意向书。\n\n明天开盘见分晓：ANT高开，我认订单是真的；低开，我认这5亿买的是情绪。\n\n$ANTx $ANTon #Anthropic #IPO",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/antx-500m-sale-2026-11-18.png",
@@ -1647,6 +1639,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-25T16:34:20.463844Z"
+    },
+    {
+      "id": "43445025f3ca",
+      "text": "The $65.84 low on Binance stopped just above Saturday's low, after Monday's spike gave almost everything back.\n\nTwo readings fit the same print: the weekend low held its second test, or the spike was borrowed and the slide is not done.\n\nI give the first reading more weight: a low that stops above the last low, on a day the whole market slid, is buyers defending a line, not an accident.\n\nWeekend low holding, or slide not done: which side are you on?\n\n$SOL #Solana",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/sol-6584-retest-2026-11-26.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-25T17:10:48.709080Z"
     }
   ]
 }
