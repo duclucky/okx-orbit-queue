@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "66d43984f2b9",
-      "text": "1.7万亿美元不是估值，是一个永续合约的报价。\n\n彭博引用的Anthropic\"市值\"，来自Hyperliquid的永续合约：报价97.59美元，比七十八美元的发行价上限高出四分之一。\n\n我不信这个数字能叫定价：五个上市前永续合约一天只成交一亿美元，一个没有股票的市场，给出的只是交易员的情绪。\n\nANT上市首日收在七十八美元以下，我认这1.7万亿只是溢价；收在九十七美元以上，银行家才是低估的那一方。\n\n$HYPE #Hyperliquid #Anthropic",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/ant-perp-17t-castlelabs-2026-11-19.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-18T18:19:26.534223Z"
-    },
-    {
       "id": "daf74ae2ab65",
       "text": "261万美元已实现亏损，Machi登上亏损榜首，但这个榜排的是金额，不是水平。\n\n赢钱榜的榜首是赚得最多的。\n亏钱榜的榜首是亏得最多的。\n同一把尺子，量的都是金额。\n\n我不信榜首等于最差交易员：第二名只差两万美元，这个榜首一笔交易就能换人。\n\n按收益率重排这张榜，Machi还排第一，我认他就是最差的那一个。\n\n#Machi #Papertrade",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/machi-papertrade-261m-2026-11-19.png",
@@ -1647,6 +1639,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-25T18:03:46.353231Z"
+    },
+    {
+      "id": "88e8fc90ad46",
+      "text": "Galaxy withdrew its call that the bear market ended in June, and $58,525 is the close that tests the June low.\n\nThe reclaim of the fifty-week average failed after seven weekly closes above it, and price undercut the summer low instead.\n\nI think a firm taking back its own call carries more weight than a fresh one, and holding above that line leaves the $48,500 math with nothing to stand on.\n\nGalaxy's lower bottom or a 21Shares rebound, Wednesday's close settles it.\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/galaxy-58525-2026-11-26.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-25T18:36:26.209106Z"
     }
   ]
 }
