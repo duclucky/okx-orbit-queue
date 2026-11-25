@@ -1567,6 +1567,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-25T04:36:43.588784Z"
+    },
+    {
+      "id": "0ae927fc68d7",
+      "text": "A count of 18 to 19 accounts kills the exit-sale story around Ansem's $2.57 million drain.\n\nThe first read said a trader sold his own coins and blamed hackers, then Bullpen admitted unauthorized transfers across its early beta accounts.\n\nI give the platform's count more weight than the accusations, because an imported private key turns an account takeover into wallet control.\n\nHack or staged exit, the next Bullpen update settles it.\n\n#Bullpen",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/bullpen-ansem-2026-11-25.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-25T05:31:56.262460Z"
     }
   ]
 }
