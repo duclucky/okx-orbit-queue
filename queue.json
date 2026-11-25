@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "7098e6a111c6",
-      "text": "一边是监管说\"迫在眉睫的公共安全危害\"，一边是股价涨了1.18%：市场觉得Waymo只占Alphabet销售额的0.3%，不值一提。\n\n可五月刚因为冲进施工区被限制过，十一月又冲进去一次，这不是运气差，是同一道题考了两次都没过。\n\n我不信这只是Waymo的麻烦：自己把全美高速都停了，说明它现在也不信自己的车能上高速。\n\n加州什么时候放行，我认错；拖到年底还不开，0.3%就不再是挡箭牌了。\n\n$GOOGLB #Waymo #Alphabet",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/waymo-dmv-ban-2026-11-18.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-18T15:19:04.803235Z"
-    },
-    {
       "id": "231f7799ec9f",
       "text": "那篇我说先看那笔多单死不死，今天他自己动手了：十分钟砍掉9918万美元。\n\n四十倍杠杆，爆仓线本来只剩一步之遥，他不等市场动手，先认赔离场。\n\n我不信这是认输：他还留着一部分仓位，爆仓线已经推到57865美元。\n\n比特币再探57865美元，我认这刀白砍了；守住了，我认四十倍也能活着等下一波。\n\n$BTC #Bitcoin #爆仓",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/aguila-cut-9918-2026-11-18.png",
@@ -1647,6 +1639,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-25T15:07:14.910324Z"
+    },
+    {
+      "id": "0098d4f15815",
+      "text": "42,000 BTC left exchanges while Bitcoin fell 26%, and that is not a supply squeeze working.\n\nI read the month as selling from coins already parked on exchanges, with the busiest deposit week since February doing the damage from inside the venue.\n\nAccumulation or parked coins doing the selling, the next reserve print settles it.\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/btc-reserves-2026-11-25.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-25T15:36:35.615845Z"
     }
   ]
 }
