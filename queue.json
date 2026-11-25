@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "7bc6e4f06fd5",
-      "text": "3万亿美元表外承诺，都说会议纪要没新东西，可这才是纪要里真正的新闻。\n\n上周五的金融稳定报告数过这笔账，这周三的纪要又把AI循环融资写进隐患，几乎所有委员还认为要继续加息。\n\n我不信AI的风险在需求：英伟达的季度刚证明需求没问题，可加息是直接加在杠杆上的。\n\n英伟达明天站回一百五十五美元，我认需求这篇还没完；五十基点的概率继续往上走，融资的账就该先算。\n\n#美联储 #FOMC",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/fomc-minutes-ai-debt-zerohedge-2026-11-19.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-18T19:44:02.229530Z"
-    },
-    {
-      "id": "52d135b3e101",
-      "text": "75.35美元这道坎，SOL昨天摸到了，却没能收在上面，今天又滑回七十三美元。\n\n周一ETF净流入1170万美元，所有人都说机构回来了，可周二流入直接归零。\n\n我不信这是机构回来了：费率还是负的，空头在付钱等着，价格却先软了。\n\nSOL收回75.35美元，我认这名字值钱；再跌回七十一美元，说明昨天那根阳线只是影线。\n\n$SOL #Solana #ETF",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/sol-rally-5pct-kucoin-2026-11-19.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-18T20:10:17.998273Z"
-    },
-    {
       "id": "342c12ba2632",
       "text": "2.48亿美元比特币，前后脚从Kraken提走，可提币不是买入。\n\n按老规矩这叫囤币，可两天前鲸鱼们刚往交易所存了5.4亿美元，方向四十八小时就翻了个面。\n\n我不信这能叫看多：币从交易所出来只是换了个钱包，既没人出价，也没人接盘。\n\n这批币要是几天内又回到交易所，我认囤币这说法就是自作多情；一直不动，我再信也不迟。\n\n$BTC #Whale #Kraken",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/kraken-btc-outflow-248m-2026-11-19.png",
@@ -1647,6 +1631,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-25T19:35:23.386284Z"
+    },
+    {
+      "id": "da7ff9d41d1d",
+      "text": "Nvidia shares closed Wednesday at $147.87, under the $148.80 low from the day Jensen Huang resigned.\n\nThe comeback rally is now priced below the floor it started from. I read the intraday poke above that line, closed back under it, as the old floor acting as a ceiling.\n\nFriday's close back above the line would undo this read; a close under it keeps the ceiling in place.\n\nCeiling holding, or floor reclaiming: which side are you on?\n\n$NVDAB #Nvidia",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/nvda-14787-close-2026-11-26.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-25T20:10:23.581450Z"
     }
   ]
 }
