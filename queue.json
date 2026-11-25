@@ -1583,6 +1583,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-25T06:06:13.030745Z"
+    },
+    {
+      "id": "4260fcfed4a1",
+      "text": "$28.68 million into DAI is an exit, not a rotation.\n\nI read it that way because DAI is where money waits, not where it works, and the sale was struck at about $1,669 before ETH traded below it by morning.\n\nExit or rotation, does that DAI sit, or buy back in?\n\n$ETH #Ethereum",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/whale-eth-dai-2026-11-25.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-25T06:36:12.753228Z"
     }
   ]
 }
