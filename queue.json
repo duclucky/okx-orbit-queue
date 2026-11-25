@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "c574b63017e2",
-      "text": "按基金会自己的说法，它拿了CoinGecko多数股权；CoinGecko自己的公告只写“获得支持”，180000家机构用的数据，归属就这么含糊过去了。\n\n价格、比例、董事会，一个字都没公布。\n\n四天前它还在拿独立当卖点，踩被币安收购的CMC。\n\n我不信一句“方法公开”就能保住中立：规则公开，不等于没人能改规则。\n\n等第一张Solana排名异常的截图出现，再谈独立也不迟。\n\n$SOL #Solana #CoinGecko",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/coingecko-solana-ambcrypto-2026-11-18.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-18T09:42:59.399321Z"
-    },
-    {
       "id": "7a41b6b4e88a",
       "text": "昨天74,880枚刚开始走THORChain，今天又搬78,415枚，一批比一批大。\n\n这批货分进了七个钱包，源地址只剩零头。\n\n我不信这是随手分仓：分仓不用一天一批，更不用把老窝搬空。\n\n剩下的货迟早也要走同一条路，问题只是快慢，不是走不走。\n\n明天再来一批，就别再叫它警报，叫它日程。\n\n$ETH #Ethereum #THORChain",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/hacker-78415-lookonchain-2026-11-18.png",
@@ -1607,6 +1599,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-25T09:37:16.992370Z"
+    },
+    {
+      "id": "71f64197dcd6",
+      "text": "CleanSpark stopped being a holder the quarter it sold 394 more Bitcoin than it mined.\n\nI read one miner's de-risking as a treasury spending itself: it already sells nearly all it mines for costs, so every extra coin comes out of the stack, not a surplus.\n\nDe-risking or a shrinking treasury: which one does the next update show?\n\n#CleanSpark",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/cleanspark-derisk-2026-11-25.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-25T10:07:13.991075Z"
     }
   ]
 }
