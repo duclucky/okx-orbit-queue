@@ -1639,6 +1639,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-25T19:13:06.511125Z"
+    },
+    {
+      "id": "a9d0a58ee472",
+      "text": "A whale bought wrapped Bitcoin at $59,610, then borrowed $8.8 million against it on Aave the same day.\n\nI give the borrow more weight than the buy: a spot buyer does not pledge the coins the same day.\n\nConviction buy or leveraged long, the wallet's next move settles it.\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/wbtc-aave-whale-2026-11-26.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-25T19:35:23.386284Z"
     }
   ]
 }
