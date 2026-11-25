@@ -1583,6 +1583,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-25T07:06:10.038486Z"
+    },
+    {
+      "id": "2c8342cdcec0",
+      "text": "At least 15 reviews missed the flaw behind 1,778.84 stolen BTC, because they checked that the safe code existed, not that seed generation ever reached it.\n\nThe swap was silent, the seeds looked normal, and I think a review count proves nothing when the live path went untraced.\n\nNext audit or dice rolls, which one do you trust with your seed?\n\n#Coldcard",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/coldcard-postmortem-2026-11-25.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-25T07:35:29.239447Z"
     }
   ]
 }
