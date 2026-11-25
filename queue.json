@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "6ff32062569b",
-      "text": "避险资产先崩了：黄金跌破3800美元，白银比一月高点跌了62%，比特币却还站在六万四千六百美元。\n\n没有利息的黄金，遇到美债收益率新高就成了提款机：涨的是美元，不是避险需求。\n\n我不信这是风险厌恶：真怕风险的人不会只卖黄金不卖比特币。\n\n金价收不回3800美元，避险叙事就先破了；比特币先破六万二，我认错。\n\n$BTC #Bitcoin #黄金",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/gold-silver-crash-coinbureau-2026-11-18.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-18T08:57:15.576611Z"
-    },
-    {
       "id": "c574b63017e2",
       "text": "按基金会自己的说法，它拿了CoinGecko多数股权；CoinGecko自己的公告只写“获得支持”，180000家机构用的数据，归属就这么含糊过去了。\n\n价格、比例、董事会，一个字都没公布。\n\n四天前它还在拿独立当卖点，踩被币安收购的CMC。\n\n我不信一句“方法公开”就能保住中立：规则公开，不等于没人能改规则。\n\n等第一张Solana排名异常的截图出现，再谈独立也不迟。\n\n$SOL #Solana #CoinGecko",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/coingecko-solana-ambcrypto-2026-11-18.png",
@@ -1599,6 +1591,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-25T08:36:42.720045Z"
+    },
+    {
+      "id": "d210021f8e98",
+      "text": "South Korea's Kospi fell 5.8% on a tariff report with no rate in it yet: 16 economies named, no rate announced.\n\nI read Wednesday as Tuesday's report repriced in Asia, not new information: Greer's findings were still unseen, and chip stocks led the fall.\n\nWhen Greer names a real rate, does Asia bounce or fall further?\n\n#Tariffs",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/tariff-asia-fall-2026-11-25.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-25T09:14:20.334566Z"
     }
   ]
 }
