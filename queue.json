@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "4084e190e0f8",
-      "text": "四小时爆掉1.48亿美元多单，可持仓量不降反升：这不是多头投降，是空头在接棒。\n\n价格跌破六万三，爆掉的九成以上是追多的杠杆，可新开的仓位大半是空单。\n\n我不信六万二是下一张多米诺：已实现亏损已经到了过去几次局部底部的水位，六万二到六万六这个区间刚吃掉六万六千枚抛压。\n\n比特币跌破62000美元，我认这刀砍得对；守住了，空头就得先证明自己不是下一批燃料。\n\n$BTC #Bitcoin #爆仓",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/btc-liq-66k-62k-kucoin-2026-11-19.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-18T17:42:47.409212Z"
-    },
-    {
       "id": "66d43984f2b9",
       "text": "1.7万亿美元不是估值，是一个永续合约的报价。\n\n彭博引用的Anthropic\"市值\"，来自Hyperliquid的永续合约：报价97.59美元，比七十八美元的发行价上限高出四分之一。\n\n我不信这个数字能叫定价：五个上市前永续合约一天只成交一亿美元，一个没有股票的市场，给出的只是交易员的情绪。\n\nANT上市首日收在七十八美元以下，我认这1.7万亿只是溢价；收在九十七美元以上，银行家才是低估的那一方。\n\n$HYPE #Hyperliquid #Anthropic",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/ant-perp-17t-castlelabs-2026-11-19.png",
@@ -1647,6 +1639,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-25T17:34:49.619046Z"
+    },
+    {
+      "id": "5257ace4c3fc",
+      "text": "The $24.61 low in SOXL shares did not hold as a break: the shares traded back to $29.07 in the same session.\n\nI read the round trip as the daily reset overshooting, not the chip selloff deepening, because the fund resets its exposure off the close.\n\nWednesday's close decides whether the break was real.\n\nWick that recovered, or a break that only paused: which side are you on?\n\n$SOXLB #SOXL",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/soxl-2461-wick-2026-11-26.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-25T18:03:46.353231Z"
     }
   ]
 }
