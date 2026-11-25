@@ -1623,6 +1623,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-25T12:11:13.112696Z"
+    },
+    {
+      "id": "f368ee2626e1",
+      "text": "$1.9 billion of open interest came off in a day, and this was no capitulation: traders walked away instead of being carried out.\n\nI give the liquidation share more weight than the red candles: forced closes explain under a fifth of the drop, while volume fell with it.\n\nForced washout or a walk-away, the next liquidation print settles it.\n\n#Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/oi-voluntary-unwind-2026-11-25.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-25T12:32:45.847027Z"
     }
   ]
 }
