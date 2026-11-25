@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "0864869df369",
-      "text": "Ackman put Nvidia's board on trial before 2.5 million readers, and the stock still closed at $150.96.\n\nHis charge is process, not innocence: Jensen forced out without due diligence, then the door shut before the facts.\n\nIt jumped on the headline and still closed down, so the market heard the argument and hasn't bought the remedy.\n\nIf the board answers, or the stock retakes Tuesday's close, the fight starts here.\n\nBreak the resignation-day low and the board won in silence.\n\n$NVDAB #NVIDIA",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/ackman-nvda-board-2026-11-19.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-18T22:45:11.065873Z"
-    },
-    {
       "id": "194980077d5c",
       "text": "$80,070 is what Q3's ETF buyers paid per coin, and that cohort now sits more than a fifth underwater.\n\n$3.09 billion has left the funds since October, nearly half of everything Q3 brought in.\n\nI think the institutional bid became the exit: the money that chased the rally is redeeming it, and the funds have taken in money on just two days since October 30.\n\nThree straight inflow days and I will call the exit over. Show me the first one.\n\n$BTC #Bitcoin",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/etf-bitfinex-80070-2026-11-19.png",
@@ -1655,6 +1647,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-25T22:39:20.109725Z"
+    },
+    {
+      "id": "caad95f9e26a",
+      "text": "Ripple approaching $900 million in annualized revenue cannot get XRP back above $1, and that split is the story.\n\nI give the sellers more weight: large holders cut exposure through November while an escrow release waits days away.\n\nGarlinghouse's explanation is the tell: money that left for IPOs does not return because a payments business grows.\n\nRecord business or a market that stopped paying: which side are you on?\n\n$XRP #XRP",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/xrp-under-1-dollar-2026-11-26.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-25T23:11:23.195311Z"
     }
   ]
 }
