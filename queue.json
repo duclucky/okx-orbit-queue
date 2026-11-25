@@ -1647,6 +1647,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-25T22:10:23.659588Z"
+    },
+    {
+      "id": "6bbe447bf72a",
+      "text": "The $57,300 low did not hold as a breakdown: Bitcoin traded back to $60,004 in the same session.\n\nI read the round trip as longs being flushed out at the low, not spot sellers stepping in, because the day's liquidations were dominated by longs.\n\nFlush cleared, or capitulation only paused: a close under $57,300 settles it.\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/btc-57300-flush-2026-11-26.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-25T22:39:20.109725Z"
     }
   ]
 }
