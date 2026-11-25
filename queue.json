@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ff577647e8b3",
-      "text": "昨晚那篇我说先听电话会，电话会给了答案：Kress把明年增长提到75%，董事会开场就说黄仁勋不回来了。\n\n财报再漂亮，盘后也没动；电话会一开，股价冲到162.95美元。\n\n我不信这是财报行情：那个季度十月底就结束了，涨的是“没有他也能增长”这句话。\n\n请愿书十九万四千人要他回来，董事会一句话就翻篇了。\n\n周三开盘见分晓：守住一百六十二美元，说明市场信了；跌回一百五十五美元，说明盘后是薄市里的冲动。\n\n$NVDAB #Nvidia #财报",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/nvda-kress-call-2026-11-18-crop.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-18T02:53:54.253092Z"
-    },
-    {
       "id": "eb0baa697208",
       "text": "矿工不是在扛价，是在出清：MARA今年卖比特币的均价是74446美元。\n\n今天它又转出366枚，八小时前的事，比特币现价只有六万四千多美元。\n\n均价比现价高出一万美元，卖得最多的那家卖在了更高的位置，而且还没停手。\n\n我不信这是“运营周转”四个字就能打发的事：股东信写得明白，卖币是为了还比特币抵押贷款，债要还，币就得卖。\n\n比特币回到74446美元之前，别跟我说矿工卖完了。\n\n$BTC #Bitcoin #MARA",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/mara-lookonchain-2026-11-18.png",
@@ -1567,6 +1559,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-25T02:36:03.348423Z"
+    },
+    {
+      "id": "26f013d4c469",
+      "text": "$176 million from Ceffu custody to a Binance deposit in 2 minutes is staging, not storage.\n\nCustody does not rush coins through an unlabeled wallet to a deposit address to leave them idle.\n\nI think the dry-powder read invents a buyer the chain never shows, and the deposit's next move settles it.\n\nDry powder or a staged sale, which does the next transfer prove?\n\n$USDT #USDT",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/ceffu-usdt-176m-2026-11-25-crop.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-25T03:43:22.467473Z"
     }
   ]
 }
