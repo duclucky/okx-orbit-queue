@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "779ce6b59abe",
-      "text": "所有人都在传1100美元，可Bitwise自己的模型说，这个牛市今天只值442美元。\n\n同一份报告的熊市情形，折到今天只有三十二美元。\n\n要涨到那个目标，五年里网络收入得翻四十六倍，代币化股票还得占到全球交易的百分之五。\n\n我不信市场没听见这份报告：七十五美元的价格，离熊市情形比离牛市情形近得多。\n\n站上八十五美元，我收回这句话；跌回七十一美元以下，说明市场听懂的是另一半。\n\n$SOL #Solana #Bitwise",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/sol-bitwise-coincentral-crop.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-18T00:55:07.955333Z"
-    },
-    {
       "id": "31e807d73206",
       "text": "鲸鱼三十天均值每天净存5500万美元比特币进交易所，连续几周了，可我不信这是出货。\n\n同一份数据里，大户过去五个月浮亏80亿美元，送进交易所的量还不到二月和六月那两次。\n\n亏着钱的人不急着兑现，他们把币搬上货架，是在等六万美元破不破，再决定跑不跑。\n\n六万美元守住，这些币还得搬回去；跌破六万，喊抄底的人先证明买盘接得住再说。\n\n$BTC #Bitcoin #Glassnode",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/whale-glassnode-tv.png",
@@ -1567,6 +1559,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-25T00:37:09.962962Z"
+    },
+    {
+      "id": "b8e8a15d28ae",
+      "text": "411 days is Grayscale's longest Bitcoin bear market on record, and a 56% fall from its peak is its shallowest. Both cannot describe the same capitulation.\n\nI read that pair as time doing the damage price never did: a slow bleed, not a flush, which is why Grayscale can call it oversold while warning AI headlines, not blockchains, set the next move.\n\nShow me a fresh cycle low and I will drop the shallowest read.\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/grayscale-oversold-2026-11-25.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-25T01:31:24.564684Z"
     }
   ]
 }
