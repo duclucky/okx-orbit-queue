@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "31e807d73206",
-      "text": "鲸鱼三十天均值每天净存5500万美元比特币进交易所，连续几周了，可我不信这是出货。\n\n同一份数据里，大户过去五个月浮亏80亿美元，送进交易所的量还不到二月和六月那两次。\n\n亏着钱的人不急着兑现，他们把币搬上货架，是在等六万美元破不破，再决定跑不跑。\n\n六万美元守住，这些币还得搬回去；跌破六万，喊抄底的人先证明买盘接得住再说。\n\n$BTC #Bitcoin #Glassnode",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/whale-glassnode-tv.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-18T01:36:09.108899Z"
-    },
-    {
       "id": "ff577647e8b3",
       "text": "昨晚那篇我说先听电话会，电话会给了答案：Kress把明年增长提到75%，董事会开场就说黄仁勋不回来了。\n\n财报再漂亮，盘后也没动；电话会一开，股价冲到162.95美元。\n\n我不信这是财报行情：那个季度十月底就结束了，涨的是“没有他也能增长”这句话。\n\n请愿书十九万四千人要他回来，董事会一句话就翻篇了。\n\n周三开盘见分晓：守住一百六十二美元，说明市场信了；跌回一百五十五美元，说明盘后是薄市里的冲动。\n\n$NVDAB #Nvidia #财报",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/nvda-kress-call-2026-11-18-crop.png",
@@ -1567,6 +1559,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-25T01:31:24.564684Z"
+    },
+    {
+      "id": "431f0d143b4d",
+      "text": "$17.2 billion left stablecoins in the 30 days to November 24, the largest monthly drain since the month Terra lost its peg.\n\nI give the exit read more weight than the pause read: holders handed the tokens back to issuers for bank dollars, and supply fell on Ethereum and Tron alike, so no chain absorbed it.\n\nShow me the total turning back up and I will call it fuel again.\n\n#Stablecoins",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/stablecoin-supply-2026-11-25.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-25T02:36:03.348423Z"
     }
   ]
 }
