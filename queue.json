@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "c651c80bbdba",
-      "text": "两张牌照让$BP昨天涨了四成，可美国人到现在一张合约都开不了。\n\nCFTC批的是交易所和清算所，Backpack自己都说：没上线日期，只有等候名单。\n\n我不信这四成是买生意，是买头条：牌照是真的，产品是空的。\n\n更扎心的是，1.17美元的高点到现在只剩1.03美元，头条的溢价不到一天就开始漏气。\n\n上线日期公布之前，价格回不到高点，就别说这四成买的是生意。\n\n$BP #Backpack #CFTC",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/cftc-backpack-coindesk-x-2026-11-18.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-18T00:00:36.142856Z"
-    },
-    {
       "id": "779ce6b59abe",
       "text": "所有人都在传1100美元，可Bitwise自己的模型说，这个牛市今天只值442美元。\n\n同一份报告的熊市情形，折到今天只有三十二美元。\n\n要涨到那个目标，五年里网络收入得翻四十六倍，代币化股票还得占到全球交易的百分之五。\n\n我不信市场没听见这份报告：七十五美元的价格，离熊市情形比离牛市情形近得多。\n\n站上八十五美元，我收回这句话；跌回七十一美元以下，说明市场听懂的是另一半。\n\n$SOL #Solana #Bitwise",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/sol-bitwise-coincentral-crop.png",
@@ -1567,6 +1559,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-24T23:36:42.463400Z"
+    },
+    {
+      "id": "81648f832557",
+      "text": "11.6 million Bitcoin underwater is a record that proves nothing about capitulation.\n\nIt was set at last weekend's low, with only 8.5 million left in profit, below the FTX-collapse level.\n\nI read it as arithmetic, not behavior: the count tracks last-moved prices, and one mid-sized band bought while smaller holders sold since September.\n\nShow me supply in profit back above its FTX-collapse low and I will call the selling exhausted.\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/btc-underwater-2026-11-25.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-25T00:37:09.962962Z"
     }
   ]
 }
