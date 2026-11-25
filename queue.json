@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "eb0baa697208",
-      "text": "矿工不是在扛价，是在出清：MARA今年卖比特币的均价是74446美元。\n\n今天它又转出366枚，八小时前的事，比特币现价只有六万四千多美元。\n\n均价比现价高出一万美元，卖得最多的那家卖在了更高的位置，而且还没停手。\n\n我不信这是“运营周转”四个字就能打发的事：股东信写得明白，卖币是为了还比特币抵押贷款，债要还，币就得卖。\n\n比特币回到74446美元之前，别跟我说矿工卖完了。\n\n$BTC #Bitcoin #MARA",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/mara-lookonchain-2026-11-18.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-18T03:47:03.184391Z"
-    },
-    {
       "id": "ffc20440b639",
       "text": "今天凌晨那篇我说先看那笔空单死不死，结果它昨天晚上就死了。\n\n它没等到六万六，交易员自己平掉了，亏了二十多万美元。\n\n他又开了1.29亿美元的多单，四十倍杠杆，两千枚比特币。\n\n爆仓价63375美元，离现价只剩一步之遥。\n\n我不信这是翻多：一天亏掉两百六十八万美元的人，换个方向就叫看对了？\n\n六万三千三百七十五守不住，这1.29亿就是空头的燃料；守住了，我认他翻对了。\n\n$BTC #Bitcoin #爆仓",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/aguila-flip-hyperbot-2026-11-18.png",
@@ -1567,6 +1559,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-25T03:43:22.467473Z"
+    },
+    {
+      "id": "c2d92649a30a",
+      "text": "$1.17 billion of \"recovered\" USDC is already frozen: Circle blocked it, and the DOJ filing only asks a court for title to it.\n\nI read it against the $2.35 billion Elliptic still counts in wallets tied to the theft: the filing covers the coins that cannot move, not the ones that can.\n\nShow me the forfeiture order and the substitute issuance, and I will call this tranche recovered.\n\n$USDC #Stablecoins",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/doj-usdc-forfeiture-2026-11-25.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-25T04:36:43.588784Z"
     }
   ]
 }
