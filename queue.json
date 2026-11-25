@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "e35c6b47fa2b",
-      "text": "昨天我说先看他补不补子弹，今天答案来了：又买了7215枚。\n\n上次账上只剩1296万稳定币，这个数差不多就是那点钱。\n\n账上的钱花完了，下一笔要是还有，就得是新钱。\n\n我不信这叫信仰：一个买到弹尽粮绝的钱包，拿什么带市场翻身？\n\n明天他要是还买，我认错；要是不买了，这故事就到此为止。\n\n$ETH #Ethereum #Whale",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/voorhees-92052-crop.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-18T07:48:55.200014Z"
-    },
-    {
       "id": "6ff32062569b",
       "text": "避险资产先崩了：黄金跌破3800美元，白银比一月高点跌了62%，比特币却还站在六万四千六百美元。\n\n没有利息的黄金，遇到美债收益率新高就成了提款机：涨的是美元，不是避险需求。\n\n我不信这是风险厌恶：真怕风险的人不会只卖黄金不卖比特币。\n\n金价收不回3800美元，避险叙事就先破了；比特币先破六万二，我认错。\n\n$BTC #Bitcoin #黄金",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/gold-silver-crash-coinbureau-2026-11-18.png",
@@ -1591,6 +1583,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-25T07:35:29.239447Z"
+    },
+    {
+      "id": "9414392bf569",
+      "text": "The 320 million shares scaring AMD holders do not exist yet: they are $0.01 warrants OpenAI and Meta earn only by buying GPUs.\n\nI read Tuesday's fall as pricing a future share count, and a close back above Tuesday's open before any warrant vests would prove the filing was only the excuse.\n\nOverhang or paperwork, the first gigawatt delivery settles it.\n\n$AMDB #AMD",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/amd-warrants-2026-11-25.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-25T08:03:18.857032Z"
     }
   ]
 }
