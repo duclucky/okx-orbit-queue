@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "91c86678dd19",
-      "text": "有人说币安一天爆了40亿美元，可全网二十四小时加起来只有2.47亿，连它说的零头都不到。\n\n最惨的那天，全市场也不过二十亿，币安一家不可能比全市场还多。\n\n我不信这个数：黑天鹅是上个月底的事，恐慌是旧闻，标题是新的。\n\n过去几小时全网几乎没人爆仓，机器早就停了，视频还在喊崩盘。\n\n要是真有币安单日40亿的数据，拿出来，我认错。\n\n$BTC #Bitcoin #爆仓",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/4b-liq-claim-2026-11-18.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-18T11:40:45.581090Z"
-    },
-    {
       "id": "8c08e20c0a61",
       "text": "那十七小时，顶级交易员的多头占比从63%掉到32%，这不是看空，是追空。\n\n比特币那段时间明明在涨：排名每小时重选，量的是过去二十四小时谁赢了，不是接下来谁对。\n\n我不信这批空单是判断：真看空的人，不会等价格涨起来才动手。\n\n明天早上多头占比要是回到一半以上，我认这就是追空；要是它继续掉、价格也跟着掉，我认他们是对的。\n\n$BTC #Hyperliquid #Bitcoin",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/satoshi-index-63-32-2026-11-18.png",
@@ -1623,6 +1615,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-25T11:34:36.336205Z"
+    },
+    {
+      "id": "6d5bccc841bb",
+      "text": "A $13.25 million HYPE sale is not what moved Hyperliquid, the exit behind it is.\n\nAbraxas closed every Hyperliquid position after almost two years, then bought $7.09 million of ETH, and I read that as risk management after the Lighter breach, not a verdict on HYPE.\n\nRisk management or a verdict on the venue: which side is HYPE on?\n\n$HYPE $ETH #Hyperliquid",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/abraxas-decrypt-2026-11-25.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-25T12:11:13.112696Z"
     }
   ]
 }
