@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "342c12ba2632",
-      "text": "2.48亿美元比特币，前后脚从Kraken提走，可提币不是买入。\n\n按老规矩这叫囤币，可两天前鲸鱼们刚往交易所存了5.4亿美元，方向四十八小时就翻了个面。\n\n我不信这能叫看多：币从交易所出来只是换了个钱包，既没人出价，也没人接盘。\n\n这批币要是几天内又回到交易所，我认囤币这说法就是自作多情；一直不动，我再信也不迟。\n\n$BTC #Whale #Kraken",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/kraken-btc-outflow-248m-2026-11-19.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-18T20:44:28.571110Z"
-    },
-    {
-      "id": "c8a402769493",
-      "text": "盘后那波冲动没能活过一个交易日：收盘150.96美元，一百五十五美元没站回去。\n\n开盘一百五十九点一九美元是昨晚的情绪，收盘才是今天的判决，卖家一路压到收盘，成交量三亿多股。\n\n我不信这是抄底的机会：辞职日的低点一百四十八点八美元还在两美元之下，可也没人敢在今天把它买回来。\n\n明天站回一百五十五美元，我认今天只是洗盘；再往下走两美元，辞职日的低点就轮到它说话了。\n\n$NVDAB #NVIDIA #财报",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/nvda-close-chart-2026-11-19.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-18T21:07:15.181538Z"
-    },
-    {
       "id": "90636b7f7385",
       "text": "83美元，Anthropic把IPO价定在七十八美元上限之上，可比永续合约喊出的97.59美元低了一成五。\n\n五千亿美元的认购意向是真的，可它没能把价格推到合约的高度：银行家认了需求，却不认一万七千亿那个估值。\n\n我不信这是双赢：发行价涨了说明需求真实，合约溢价被砍掉一成五说明那个\"估值\"从来只是杠杆市场的回声。\n\n今晚ANT开盘站上97.59美元，我认永续合约才是对的；跌破八十三美元，说明银行家连定价这一步都定高了。\n\n#Anthropic #IPO",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/ant-ipo-83-watcherguru-2026-11-19.png",
@@ -1647,6 +1631,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-25T20:34:58.943474Z"
+    },
+    {
+      "id": "af8e2ba44a8e",
+      "text": "The wick read is under pressure: the poke stretched to $71.07 on Binance, and SOL was still holding above the level at $70.68 two hours later.\n\nI read that as the test flipping: buyers no longer have to prove the level, sellers have to take it back before the close.\n\nReclaim holding, or ceiling rejecting again: which side are you on?\n\n$SOL #Solana",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/sol-7107-hold-2026-11-26.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-25T21:08:38.944368Z"
     }
   ]
 }
