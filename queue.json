@@ -1639,6 +1639,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-25T21:08:38.944368Z"
+    },
+    {
+      "id": "1867ef46cd03",
+      "text": "Core PCE rising to 3.3% from 3.1% is the print that matters from Wednesday, because the headline merely matched its forecast.\n\nI give the core number more weight than the headline: it is the gauge the Fed watches, and December 9 comes before the next PCE release.\n\nHot core or in-line headline, the December 9 decision settles it.\n\n#PCE",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/pce-fed-hike-2026-11-26.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-25T21:39:35.182702Z"
     }
   ]
 }
