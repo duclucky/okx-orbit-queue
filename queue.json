@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "eb5108f9135d",
-      "text": "明天才上市，今天已经有人做空它浮盈400多万美元。\n\n认购近七倍的IPO，Hyperliquid的盘前合约里却躺着9387万美元空单，分两个钱包。\n\n同一个数字有两种解释：对冲手里的申购额度，或者赌盘前价格跑过头了。\n\n我站后一种：浮盈先到账，说明盘前价格已经先滑下来了。\n\n明天开盘见分晓：ANT大涨，我认错；鲸鱼继续加仓，说明盘前的高点就是顶。\n\n#Anthropic #IPO",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/anthropic-short-2026-11-18.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-18T14:39:24.948650Z"
-    },
-    {
       "id": "7098e6a111c6",
       "text": "一边是监管说\"迫在眉睫的公共安全危害\"，一边是股价涨了1.18%：市场觉得Waymo只占Alphabet销售额的0.3%，不值一提。\n\n可五月刚因为冲进施工区被限制过，十一月又冲进去一次，这不是运气差，是同一道题考了两次都没过。\n\n我不信这只是Waymo的麻烦：自己把全美高速都停了，说明它现在也不信自己的车能上高速。\n\n加州什么时候放行，我认错；拖到年底还不开，0.3%就不再是挡箭牌了。\n\n$GOOGLB #Waymo #Alphabet",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/waymo-dmv-ban-2026-11-18.png",
@@ -1639,6 +1631,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-25T14:09:21.753255Z"
+    },
+    {
+      "id": "4254d8613239",
+      "text": "Glassnode: \"Bitcoin is trading in a short gamma zone... Between $58K & $64K, they now sell as it falls and buy as it rises.\"\n\nI give the $57,989.73 print more weight than the zone: Bitcoin already traded below the $58K floor in today's session.\n\nDealers speeding the fall, or a zone that already broke: which side explains the next move?\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/glassnode-gamma-2026-11-25.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-25T14:43:44.466228Z"
     }
   ]
 }
