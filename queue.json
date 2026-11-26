@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "9c4ffef54849",
-      "text": "Bitcoin touched $62,068 and bounced. The line I called not the next domino took its test.\n\nPerpetual open interest is $41.6 billion, the lowest in about a year. The leverage for a cascade is already gone.\n\nI don't call this a bottom: one bounce is a sample, not a trend. But a line that holds with the leverage gone is not the next domino.\n\nIf sixty-two thousand breaks on the next test, the bounce was noise. If it holds, show me the leverage meant to break it.\n\n$BTC #Bitcoin",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/mando-btc-62k-bounce-2026-11-19.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-19T12:43:52.360162Z"
-    },
-    {
       "id": "e000a2859730",
       "text": "Arthur Hayes called four tokens a pump, then moved $5.04 million USDC out of his wallet.\n\nHis own words: conviction 'meh', size 'small to medium'. A dip-buyer does not move his stables out.\n\nTwo days ago, a wallet linked to him sent 1,500 ETH to Coinbase: two exit-shaped moves since the call.\n\nIf his wallet buys any of the four in two days, the dip-buy story wins and I am wrong. If more moves out, the call was the exit.\n\n$ETH $ZEC $NEAR #ArthurHayes #Ethereum",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/hayes-usdc-504m-2026-11-19.png",
@@ -1767,6 +1759,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-26T12:38:01.674192Z"
+    },
+    {
+      "id": "eb2dd39720ad",
+      "text": "A report Nvidia stopped server shipments to 4 countries is still unconfirmed, and I read it as a compliance pause, not lost demand.\n\nThe report says Dell and Supermicro told buyers the orders will not ship while Nvidia works out the new export controls, after Nvidia shares fell to $141.17 on Wednesday and closed back above that low.\n\nCompliance pause or demand lost: which side are you on?\n\n$NVDAB #Nvidia",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/nvda-halt-st-2026-11-26.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-26T13:11:32.004030Z"
     }
   ]
 }
