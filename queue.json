@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "fda21b60eb87",
-      "text": "Binance took in $500M for the hottest IPO of the year, then gave it all back and handed the tokens out free.\n\nEvery dollar is being refunded. The allocation behind it: about 2,957 shares.\n\nGenerosity, or a failed sale? Over nine times oversubscribed, and the pipe delivered almost nothing.\n\nI favor the second. The shares faded from their open the same day.\n\nWatch the first prints tonight. If the token holds above the share, demand was real, supply was the problem.\n\n$ANTB #Anthropic #IPO",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/antb-refund-binancewallet-2026-11-19.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-19T18:18:30.833251Z"
-    },
-    {
       "id": "d6242991ee38",
       "text": "Two days ago I said 1,768 BTC sold off-exchange was no dump.\n\nMarket makers took it, not the book.\n\nI said watch their exchange deposits, because that would void the post.\n\nA Cumberland-linked wallet sent 1,380 BTC to Binance in five days.\n\nThe deposit is the receipt: the desk's wallet is feeding the exchange.\n\nI was wrong: a deposit is not a sale, but inventory left the desk.\n\nDeposits stop, the dump read was early; keep coming, the coins are headed for the book.\n\n$BTC #Bitcoin #Whale",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/cumberland-binance-1380btc-lookonchain-2026-11-18.png",
@@ -1791,6 +1783,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-26T18:06:57.501378Z"
+    },
+    {
+      "id": "c46f7d2d47a2",
+      "text": "0.88x on Strategy's own dashboard is a capitulation print, not a bargain.\n\nI give JPMorgan's label no weight until the multiple climbs back above 1x.\n\nBelow parity, issuing shares to buy Bitcoin stops adding Bitcoin per share, so the machine that built the pile jams.\n\nCapitulation washout or a jammed machine: which one does the next print prove?\n\n$BTC #Strategy",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/strategy-mnav-088-2026-11-27.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-26T18:32:26.237271Z"
     }
   ]
 }
