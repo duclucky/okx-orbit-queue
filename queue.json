@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "1cef7bd94250",
-      "text": "Take-Two swung more than eight percent on launch day and sits flat: both dare lines got visited before lunch.\n\nOne reading says launch day is the event. The other says the event was yesterday, when shares jumped on a review score and one analyst's estimate.\n\nI back the second: the first real sales number lands tomorrow, and the seventeen million quoted today is pre-orders, not sales.\n\nClose above $228 tonight, the launch trade has legs. Fade below $208, yesterday was the top.\n\n$TTWO #GTA6",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/ttwo-tv-2026-11-19.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-19T16:16:45.478313Z"
-    },
-    {
       "id": "79c006d5ef2c",
       "text": "The hacker who sold Tornado Cash ETH near eighteen hundred just bid $21.51 million to buy it back at $1,551, and that is not an exit.\n\nThe same wallet that dumped is now the bid fourteen percent lower, with the orders already sitting on Hyperliquid.\n\nI read this as a buy-back, not a laundering exit: the seller set his own floor.\n\nETH touches $1,551 and those orders fill, the hacker is the floor. If they get pulled first, it was never a bid at all.\n\n$ETH #Ethereum #Hyperliquid",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/hacker-long-eth-lookonchain-2026-11-19.png",
@@ -1791,6 +1783,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-26T16:07:04.171324Z"
+    },
+    {
+      "id": "c86e44c27d54",
+      "text": "Bitcoin perpetuals traded 8 times spot volume on Binance in October, the highest ratio since the contracts launched in 2019.\n\nI read that as leverage setting the price, not spot demand: CME open interest fell 12,200 BTC between November 16 and 25 while aggregate open interest rose, so the leverage building is not happening on the institutional venue.\n\nLeverage-led or spot-led, the next forced unwind settles it.\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/btc-perps-8x-2026-11-26.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-26T16:36:34.827824Z"
     }
   ]
 }
