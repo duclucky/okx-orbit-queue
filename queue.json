@@ -1759,6 +1759,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-26T12:06:19.201135Z"
+    },
+    {
+      "id": "218a4588acf0",
+      "text": "$7 billion in Bitcoin options expire Friday, and the puts dominating them were bought as insurance, not as a bet.\n\nI read the 0.89 put-call ratio as hedgers who already won: the bulk of November's puts were struck above where Bitcoin trades now.\n\nWhen that insurance lapses, holders either re-hedge or carry the exposure naked.\n\nHedge expiring harmlessly, or a fall already priced in: Friday's settlement decides it.\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/btc-options-7b-expiry-2026-11-26.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-26T12:38:01.674192Z"
     }
   ]
 }
