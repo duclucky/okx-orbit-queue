@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ee9e502c8047",
-      "text": "Six whales were liquidated 30 times, and the count is the story, not the size.\n\n618.24 BTC, thirty-eight million dollars, liquidated from sixty-three thousand down to sixty-two thousand.\n\nI don't read that as six unlucky entries. Thirty liquidations across six wallets means the longs were on all the way down, not caught at one level.\n\nIf the same wallets are long again tomorrow, the habit is the trade. If Bitcoin breaks sixty-two thousand, the staircase starts lower.\n\n$BTC #Bitcoin #Hyperliquid",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/hyperliquid-6whales-618btc-2026-11-19.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-19T06:47:00.748094Z"
-    },
-    {
       "id": "8505136b67ed",
       "text": "Managers cut tech 25 points in a month, the fastest dump in twenty years, and I don't buy the panic.\n\nTech overweight fell from thirty-seven to twelve, but cash fell to three point six percent. No run to safety. They rotated.\n\nI read this as a funding question, not a tech verdict: 52% expect a hyperscaler capex cut within six months. That is the bet, not the dump.\n\nIf a hyperscaler cuts capex, the overinvesting crowd was right. If none does by spring, it was just a rotation.\n\n#AI #Tech",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/bofa-tech-dump-mlq-2026-11-19.png",
@@ -1719,6 +1711,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-26T06:36:15.853695Z"
+    },
+    {
+      "id": "de1cc02dbcf7",
+      "text": "The $61,622 spike is not a reclaim, it is a timestamp: it printed minutes after the UTC close, before any report explained it.\n\nI read it as a derivatives-led spike in a thin book, not spot demand arriving, because the price was already slipping back below the high with nothing new to hold it up.\n\nThin-minute spike or real buying, the next UTC close settles it.\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/btc-61622-spike-2026-11-26.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-26T07:01:18.034803Z"
     }
   ]
 }
