@@ -1703,6 +1703,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-26T05:06:12.357408Z"
+    },
+    {
+      "id": "e0e7f70fb7fe",
+      "text": "Yesterday's $28.68 million exit into DAI bought back in: the same whale re-entered higher and ended 199 ETH lighter.\n\nI give the buyback more weight than the sale: a wallet that returns the same day never meant to leave, and the return came at a higher price than the exit.\n\nPanic exit or planned trade: which side are you on?\n\n$ETH #Ethereum",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/whale-eth-buyback-2026-11-26.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-26T05:41:04.093141Z"
     }
   ]
 }
