@@ -1783,6 +1783,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-26T14:37:23.366481Z"
+    },
+    {
+      "id": "8961e9ca5daf",
+      "text": "The credit watch, not the chip cycle, is Nvidia's new test: S&P put its AA rating on CreditWatch Negative while shares closed Wednesday at $149.30.\n\nI read the watch as a board judgment, not a chip judgment: S&P cited board independence and succession planning, and said it knows of no remedial action yet.\n\nMoody's held steady the same day, so the question is the board's answer, not chip demand.\n\nBoard fix or a cut to AA-: which side are you on?\n\n$NVDAB #Nvidia",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/nvda-creditwatch-2026-11-26.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-26T15:06:23.672117Z"
     }
   ]
 }
