@@ -1767,6 +1767,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-26T23:23:39.171210Z"
+    },
+    {
+      "id": "8a7120ef993b",
+      "text": "The Sapling scare is housekeeping dressed as a break: 400,000 ZEC is 2% of supply, and Zakura wants it moved while the proof system still works.\n\nI give the break story no weight until someone shows a working attack or a date, because Sapling's pairing proofs are the only part exposed and Ironwood, which does not use pairings, already holds most shielded ZEC.\n\nPrecaution or a priced-in break, the next Sapling balance print settles it.\n\n$ZEC #Zcash",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/zec-sapling-400k-2026-11-27.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-26T23:26:18.256069Z"
     }
   ]
 }
