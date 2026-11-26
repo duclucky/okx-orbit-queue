@@ -1671,6 +1671,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-26T01:12:27.159848Z"
+    },
+    {
+      "id": "ca4aca8ffe2a",
+      "text": "Bitcoin closed Wednesday at $60,387, the top of the day's range.\n\nI give the close more weight than the gauge: a session that ends at its high is buyers holding the bid, not sellers lining up the next leg.\n\nThe Fear and Greed gauge printed 11, down from 13, against that close.\n\nSession won, or fear right: tonight's UTC close settles it.\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/btc-close-60387-2026-11-26.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-26T01:37:32.177894Z"
     }
   ]
 }
