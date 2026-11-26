@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "b1cc680d76e7",
-      "text": "Machi still tops the loss board at $2.61 million, yet the same board shows half a million claimed back.\n\nLosing mints PAPER, staking PAPER pays USDC. The losers are also the farmers.\n\nI think the board ranks losses, not losers: net, HypeTrader lost more than Machi.\n\nOne wallet lost nearly a million and claimed $2.38 million back, finishing over a million ahead.\n\nRe-rank it net of rewards and the crown moves. Prove the rewards are not real money.\n\n#Machi #Papertrade",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/machi-rewards-accounts-2026-11-19.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-19T01:44:17.589528Z"
-    },
-    {
       "id": "d167d7ede3de",
       "text": "US buyers have priced Bitcoin below the rest of the world for 75 straight days.\n\nCoinbase still trades at a discount to Binance today, minus 0.14 percent, while the ETFs bled for a second straight session.\n\nI think the bottom-callers are counting levels while the actual buyer is missing: a market cannot bottom on offshore bids alone.\n\nShow me one session where Coinbase trades above Binance, and I will believe the bottom is in.\n\n$BTC #Bitcoin",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/coinbase-premium-75d-2026-11-19.png",
@@ -1679,6 +1671,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-26T01:37:32.177894Z"
+    },
+    {
+      "id": "0b179c1f3879",
+      "text": "The $357.64 low was fear pricing a merger ratio and a driving decision that do not exist yet.\n\nI give the close more weight than the low: Tesla shares ended Wednesday at $380.14, with buyers taking back most of the session's drop instead of letting the fear print stand.\n\nFear priced in, or fear only deferred: Friday's close settles it.\n\n$TSLAB #Tesla",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/tsla-35764-low-2026-11-26.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-26T02:10:32.408990Z"
     }
   ]
 }
