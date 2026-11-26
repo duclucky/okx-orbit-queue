@@ -1783,6 +1783,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-26T17:20:49.289575Z"
+    },
+    {
+      "id": "b7e83495f294",
+      "text": "WatcherGuru: \"Bitcoin Price on Thanksgiving ... 2026: $60,400.\"\n\nI read that $60,400 as a snapshot hiding its own month: Bitcoin is down 22% in November, so the table shows the price the drawdown left behind.\n\nLong-table gains or November's drawdown: which one is the real Bitcoin?\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/btc-thanksgiving-drawdown-2026-11-27.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-26T17:45:29.613495Z"
     }
   ]
 }
