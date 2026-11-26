@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "d6242991ee38",
-      "text": "Two days ago I said 1,768 BTC sold off-exchange was no dump.\n\nMarket makers took it, not the book.\n\nI said watch their exchange deposits, because that would void the post.\n\nA Cumberland-linked wallet sent 1,380 BTC to Binance in five days.\n\nThe deposit is the receipt: the desk's wallet is feeding the exchange.\n\nI was wrong: a deposit is not a sale, but inventory left the desk.\n\nDeposits stop, the dump read was early; keep coming, the coins are headed for the book.\n\n$BTC #Bitcoin #Whale",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/cumberland-binance-1380btc-lookonchain-2026-11-18.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-19T18:47:51.985423Z"
-    },
-    {
       "id": "500ace8ed0af",
       "text": "Bitcoin is sitting just above $62,000, and the sweep the bulls want would break yesterday's low.\n\nA liquidity cluster sits at sixty-two thousand. The tape says it should be swept before any real move up.\n\nYesterday's low is $62,063, so a sweep takes the low too.\n\nI read it this way: hold the low and the sweep was the bottom. Lose it and this was a pause, not a floor.\n\n$BTC #Bitcoin",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/btc-62k-cluster-defitracer-2026-11-19.png",
@@ -1791,6 +1783,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-26T18:32:26.237271Z"
+    },
+    {
+      "id": "7f6d24fd3ee7",
+      "text": "The share clock stopped at a $43.11 52-week low while the token clock kept trading up to $49.63.\n\nI read the token print as the only live vote while the shares were closed, and I give it no weight until Friday's share session confirms it.\n\nEarnings beats did not stop the slide, so the tape is pricing something the beat never answered.\n\nToken's $49.63 or the share's $43.11: Friday's open settles which clock told the truth.\n\n$CRCLB #Circle",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/crcl-two-clocks-2026-11-27.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-26T19:13:35.387329Z"
     }
   ]
 }
