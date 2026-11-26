@@ -1,38 +1,6 @@
 {
   "jobs": [
     {
-      "id": "b25331729cb0",
-      "text": "Nvidia broke $148.80 today, two days after reporting $115.8 billion in revenue.\n\nThat is the wrong order for an earnings story: the number was a record, the shares made a new low for the year.\n\nThe day's news was a Commerce rule cutting Chinese remote access to Nvidia chips.\n\nI read the break as a China repricing, not an earnings verdict: the level that held the resignation week fell on access, not demand.\n\nShow me the license list moving before you call this an earnings fade.\n\n$NVDAB #Nvidia",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/nvda-52week-low-alphainchq-2026-11-19.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-19T20:18:18.806821Z"
-    },
-    {
-      "id": "3f261acdbef6",
-      "text": "Pump.fun sold its SOL at $157 on average, more than double today's $73.\n\nThe launchpad that mints the memecoins did not hold its own fees. It converted them.\n\nAnother thirty-three thousand SOL went out yesterday.\n\nI read it this way: the platform that profits from SOL demand converts it, it does not keep it.\n\nShow me a month where Pump.fun holds its fees and I will call it a believer.\n\n$SOL #Solana",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/pumpfun-sol-sales-lookonchain-2026-11-19.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-19T21:23:31.054648Z"
-    },
-    {
-      "id": "1a3252f7d91b",
-      "text": "Strategy's Bitcoin pile is worth about $11 billion less than it paid for it.\n\nMSTR lost 30% in five sessions, and the index funds have not started selling yet.\n\nMSCI throws the stock out after the November close, and every fund tracking the index has to sell.\n\nI read this as a forced seller lining up behind a broken premium, not a bottom.\n\nShow me the stock holding through the removal and I will call the selling priced in.\n\n$MSTRB #Strategy #Bitcoin",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/mstr-11b-whalescan-2026-11-19.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-19T22:01:11.494936Z"
-    },
-    {
-      "id": "b2d4e79d385a",
-      "text": "Altcoin open interest still sits at 39% of the total after Bitcoin fell 28%.\n\nThree points of share left, and the rest of the leverage is still sitting there.\n\nThe dip-buyers call alts cheap.\n\nI call them crowded: the longs never left, they just got cheaper.\n\nShow me the dominance actually falling and I will call the leverage cleared.\n\n$BTC #Altcoins #Bitcoin",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/alt-oi-42-39-ash-2026-11-19.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-19T22:41:30.233555Z"
-    },
-    {
       "id": "92e7f282a5e2",
       "text": "FTX sold its Anthropic stake for $1.34 billion, and it would be worth about $40 billion today.\n\nThe estate paid the creditors back in full, with interest, and still handed the buyers the decade's biggest AI windfall.\n\nA sale can pay everyone back and still be a disaster.\n\nI read this as the worst timing miss in bankruptcy history, not a job well done.\n\nShow me the shares back below the IPO price and I will call the sale smart.\n\n$ANTB #Anthropic #FTX",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/ftx-anthropic-40b-watcherguru-2026-11-19.png",
@@ -1791,6 +1759,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-26T19:45:12.861055Z"
+    },
+    {
+      "id": "112b2544af3f",
+      "text": "This $60,000 reclaim is borrowed buying, not demand: downside volatility hit 46%, more than twice the upside pace.\n\nI give the bounce no weight until short covering turns into spot buying after the desks reopen.\n\nShorts closing have to buy, so the tape rises while the order books still favor sellers.\n\nShort covering or real demand, Friday's ETF print settles it.\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/btc-talos-short-covering-2026-11-27.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-26T23:23:39.171210Z"
     }
   ]
 }
