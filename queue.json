@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "79c006d5ef2c",
-      "text": "The hacker who sold Tornado Cash ETH near eighteen hundred just bid $21.51 million to buy it back at $1,551, and that is not an exit.\n\nThe same wallet that dumped is now the bid fourteen percent lower, with the orders already sitting on Hyperliquid.\n\nI read this as a buy-back, not a laundering exit: the seller set his own floor.\n\nETH touches $1,551 and those orders fill, the hacker is the floor. If they get pulled first, it was never a bid at all.\n\n$ETH #Ethereum #Hyperliquid",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/hacker-long-eth-lookonchain-2026-11-19.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-19T16:50:43.884979Z"
-    },
-    {
-      "id": "bcd92517a21b",
-      "text": "The perp was right: Anthropic opened at $111.50, above the $97.59 Hyperliquid marked yesterday.\n\nBankers priced it at eighty-three dollars; the perp found the price before any share traded.\n\nI said the market found this price first. The whale shorting ninety-four million went from four million up to two million down, and the open made it worse.\n\nBelow the mark, the indication was noise and I was wrong. It printed above it: the perp was price discovery all along.\n\n$HYPE #Hyperliquid #Anthropic",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/ant-first-trade-nypost-2026-11-19.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-19T17:09:37.504713Z"
-    },
-    {
       "id": "8913500871b1",
       "text": "Monday's $7.9M inflow bought exactly one day of relief.\n\nTwo days later, $546M walked out of the Bitcoin ETFs, and BlackRock's IBIT alone accounted for most of it.\n\nA redemption is not sentiment, it is a sell order the funds have to fill.\n\nI read this as a pause, not a turn.\n\nIf tonight's print is a third straight outflow, the relief was noise.\n\nShow me an inflow and I will call it a turn.\n\n$BTC #Bitcoin #ETF",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/etf-one-day-inflow-tokenpost-2026-11-18.png",
@@ -1791,6 +1775,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-26T16:36:34.827824Z"
+    },
+    {
+      "id": "3f2c97c3917f",
+      "text": "The credit market, not the stock market, priced Nvidia's governance risk on Wednesday: five-year default insurance cost 147.27 basis points.\n\nI read the split as lenders repricing what shareholders dismissed: S&P put the AA rating on watch, the shares still closed at $149.30, and the insurance print was an intraday record.\n\nCredit priced it or equity dismissed it: which market does Friday's open prove right?\n\n$NVDAB #Nvidia",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/nvda-cds-147-2026-11-26.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-26T17:20:49.289575Z"
     }
   ]
 }
