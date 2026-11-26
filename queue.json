@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "8913500871b1",
-      "text": "Monday's $7.9M inflow bought exactly one day of relief.\n\nTwo days later, $546M walked out of the Bitcoin ETFs, and BlackRock's IBIT alone accounted for most of it.\n\nA redemption is not sentiment, it is a sell order the funds have to fill.\n\nI read this as a pause, not a turn.\n\nIf tonight's print is a third straight outflow, the relief was noise.\n\nShow me an inflow and I will call it a turn.\n\n$BTC #Bitcoin #ETF",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/etf-one-day-inflow-tokenpost-2026-11-18.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-19T17:46:51.322947Z"
-    },
-    {
       "id": "fda21b60eb87",
       "text": "Binance took in $500M for the hottest IPO of the year, then gave it all back and handed the tokens out free.\n\nEvery dollar is being refunded. The allocation behind it: about 2,957 shares.\n\nGenerosity, or a failed sale? Over nine times oversubscribed, and the pipe delivered almost nothing.\n\nI favor the second. The shares faded from their open the same day.\n\nWatch the first prints tonight. If the token holds above the share, demand was real, supply was the problem.\n\n$ANTB #Anthropic #IPO",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/antb-refund-binancewallet-2026-11-19.png",
@@ -1791,6 +1783,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-26T17:45:29.613495Z"
+    },
+    {
+      "id": "62fcaeebc27c",
+      "text": "The top buyers are not the sellers: 68.5% of Bitcoin has sat unmoved for a year.\n\nI give that dormancy no bottom weight until Bitcoin closes a day back above $60,000: coins age past a year by calendar, whether anyone believes or not.\n\nBottoming patience or frozen supply, Friday's close settles which one the market believes.\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/btc-dormant-supply-2026-11-27.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-26T18:06:57.501378Z"
     }
   ]
 }
