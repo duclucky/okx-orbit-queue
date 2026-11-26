@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "f7171fd26122",
-      "text": "Three holds of $1,750 in four days is not strength, it is attrition.\n\nThe price clock says the level held. The flow clock says November ETF outflows have not paused once.\n\nI give the flow clock more weight than the price clock. Support that needs rescuing three times in four days is not holding, it is tiring.\n\nShow me an ETF inflow day with a close above $1,843, and I will call $1,750 a bottom.\n\n$ETH #Ethereum",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/eth-1750-2026-11-19.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-19T03:41:43.194877Z"
-    },
-    {
       "id": "14f3c51875a3",
       "text": "$1.37M banked on a short, then straight back to long on forty-times leverage: that is not conviction, that is restlessness.\n\nYesterday he cut his long in ten minutes, and today he is long again in the same market, already underwater.\n\nI don't buy conviction from a trader who cannot hold a position for a day.\n\nHe is chasing the tape, not reading it.\n\nIf $59,324 prints, the flip dies, and if it holds, he gets to call it genius.\n\n$BTC #AguilaTrades #Hyperliquid",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/aguila-flip-long-2026-11-19.png",
@@ -1687,6 +1679,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-26T03:06:24.279726Z"
+    },
+    {
+      "id": "8182997b6553",
+      "text": "$31.20 million of shorts were liquidated in the 00:00 UTC hour, ten hours after $41.81 million of longs were liquidated in the 14:00 UTC hour.\n\nI read the flip as one flush building the next: the longs were forced out at the low, and the shorts who faded the bounce were forced out at the reclaim.\n\nFlush hour or squeeze hour, which one told the truth?\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/liq-flip-2026-11-26.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-26T03:42:48.221098Z"
     }
   ]
 }
