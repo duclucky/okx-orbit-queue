@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "e000a2859730",
-      "text": "Arthur Hayes called four tokens a pump, then moved $5.04 million USDC out of his wallet.\n\nHis own words: conviction 'meh', size 'small to medium'. A dip-buyer does not move his stables out.\n\nTwo days ago, a wallet linked to him sent 1,500 ETH to Coinbase: two exit-shaped moves since the call.\n\nIf his wallet buys any of the four in two days, the dip-buy story wins and I am wrong. If more moves out, the call was the exit.\n\n$ETH $ZEC $NEAR #ArthurHayes #Ethereum",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/hayes-usdc-504m-2026-11-19.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-19T13:46:25.509649Z"
-    },
-    {
       "id": "bb2e64f10e1b",
       "text": "The perp was right before a single share traded: Anthropic is indicated to open at $99.60, above the $97.59 the perp marked yesterday.\n\nOne reading says the bankers underpriced it. The other says an indication is not a trade.\n\nI back the first: the whale shorting the perp swung from four million up to two million down in one day.\n\nFirst trade below the mark, the indication was noise and I am wrong. Above it, the market found this price first.\n\n$HYPE #Hyperliquid #Anthropic",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/ant-whale-short-flip-2026-11-19.png",
@@ -1775,6 +1767,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-26T13:33:03.370399Z"
+    },
+    {
+      "id": "0efb2fe3f27a",
+      "text": "Fidelity filed another LINK fund while the funds already trading are on track for their first outflow month since launch, with $1.5 million out so far.\n\nI read the filing as access, not demand: a new wrapper does not create buyers, and the bounce has yet to clear $9.72.\n\nNew wrapper brings demand, or the old funds keep leaking: which side are you on?\n\n$LINK #Chainlink",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/link-fidelity-etf-2026-11-26.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-26T14:07:34.262297Z"
     }
   ]
 }
