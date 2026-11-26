@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "d167d7ede3de",
-      "text": "US buyers have priced Bitcoin below the rest of the world for 75 straight days.\n\nCoinbase still trades at a discount to Binance today, minus 0.14 percent, while the ETFs bled for a second straight session.\n\nI think the bottom-callers are counting levels while the actual buyer is missing: a market cannot bottom on offshore bids alone.\n\nShow me one session where Coinbase trades above Binance, and I will believe the bottom is in.\n\n$BTC #Bitcoin",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/coinbase-premium-75d-2026-11-19.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-19T02:39:00.749772Z"
-    },
-    {
       "id": "f7171fd26122",
       "text": "Three holds of $1,750 in four days is not strength, it is attrition.\n\nThe price clock says the level held. The flow clock says November ETF outflows have not paused once.\n\nI give the flow clock more weight than the price clock. Support that needs rescuing three times in four days is not holding, it is tiring.\n\nShow me an ETF inflow day with a close above $1,843, and I will call $1,750 a bottom.\n\n$ETH #Ethereum",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/eth-1750-2026-11-19.png",
@@ -1687,6 +1679,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-26T02:33:18.022725Z"
+    },
+    {
+      "id": "42aa6ee3100b",
+      "text": "The $26.3 million Anthropic buy on Wednesday is ARK's second day of buying the stock while selling crypto stocks.\n\nI read the repeat as rotation, not exit: Tuesday's buy was $61.6 million, and a fund leaving crypto does not come back the next day to buy more of a falling stock.\n\nRotation or exit, the next disclosure settles it.\n\n#ARK #Anthropic",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/ark-rotation-2026-11-26.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-26T03:06:24.279726Z"
     }
   ]
 }
