@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "500ace8ed0af",
-      "text": "Bitcoin is sitting just above $62,000, and the sweep the bulls want would break yesterday's low.\n\nA liquidity cluster sits at sixty-two thousand. The tape says it should be swept before any real move up.\n\nYesterday's low is $62,063, so a sweep takes the low too.\n\nI read it this way: hold the low and the sweep was the bottom. Lose it and this was a pause, not a floor.\n\n$BTC #Bitcoin",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/btc-62k-cluster-defitracer-2026-11-19.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-19T19:21:20.406496Z"
-    },
-    {
       "id": "b25331729cb0",
       "text": "Nvidia broke $148.80 today, two days after reporting $115.8 billion in revenue.\n\nThat is the wrong order for an earnings story: the number was a record, the shares made a new low for the year.\n\nThe day's news was a Commerce rule cutting Chinese remote access to Nvidia chips.\n\nI read the break as a China repricing, not an earnings verdict: the level that held the resignation week fell on access, not demand.\n\nShow me the license list moving before you call this an earnings fade.\n\n$NVDAB #Nvidia",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/nvda-52week-low-alphainchq-2026-11-19.png",
@@ -1791,6 +1783,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-26T19:13:35.387329Z"
+    },
+    {
+      "id": "b2782f3999bf",
+      "text": "An estimated 8.1% difficulty rise reverses the 9.13% cut from November 14, and I read it as the cut echoing back, not hashrate returning.\n\nBlocks ran fast because the cut made them cheap, so the protocol is correcting its own pace, not rewarding miners.\n\nHigher difficulty on a lower price squeezes the same rigs twice, so I give the strong-network read no weight until hashprice turns.\n\nHashrate returning or the cut echoing back: which side are you on?\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/btc-difficulty-8pct-2026-11-27.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-26T19:45:12.861055Z"
     }
   ]
 }
