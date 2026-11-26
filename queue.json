@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "194980077d5c",
-      "text": "$80,070 is what Q3's ETF buyers paid per coin, and that cohort now sits more than a fifth underwater.\n\n$3.09 billion has left the funds since October, nearly half of everything Q3 brought in.\n\nI think the institutional bid became the exit: the money that chased the rally is redeeming it, and the funds have taken in money on just two days since October 30.\n\nThree straight inflow days and I will call the exit over. Show me the first one.\n\n$BTC #Bitcoin",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/etf-bitfinex-80070-2026-11-19.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-18T23:51:27.956929Z"
-    },
-    {
       "id": "42ae1ee66f6d",
       "text": "$392 million liquidated in a day, four out of five of them longs, while Bitfinex longs sit at a three-year high.\n\nThe crowd calls that smart money positioning for a pump.\n\nI call it fuel: the same longs keep piling in while miners sell and the price keeps falling.\n\nI think the buyers here are leveraged and the sellers are not, so every dip ends in liquidations, not a bounce.\n\nBitcoin breaks $62,000 and the longs were the fuel.\n\nHold it, and I will call the Bitfinex whale right.\n\n$BTC #Bitcoin",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/bitfinex-longs-3y-cryptorover-2026-11-19.png",
@@ -1663,6 +1655,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-25T23:36:38.950007Z"
+    },
+    {
+      "id": "0e72a0745b0e",
+      "text": "The $370.40 low tested AMD's filing story, and the session never reclaimed Tuesday's $425.13 open.\n\nI give the low more weight than the excuse read: the warrants vest only when customers buy GPUs, so nothing could sell on Wednesday, yet AMD still printed a fresh low under Tuesday's low.\n\nExcuse fading, or overhang holding: Friday's close against Tuesday's open settles it.\n\n$AMDB #AMD",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/amd-37040-low-2026-11-26.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-26T00:09:07.811066Z"
     }
   ]
 }
