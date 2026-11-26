@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "e9d70dd34041",
-      "text": "GTA VI scored ninety-nine out of a hundred, and the shares jumped 6.22% the day before launch.\n\nOne reading says the launch is a guaranteed win. The other says it was already bought, on reviews and one analyst's estimate.\n\nI don't buy it: the sixty-five million copies need a PC release next year that Take-Two has not confirmed, and the first real sales number lands tomorrow.\n\nHold above $228 tonight, and the launch trade has legs. Fade, and yesterday was the top.\n\n$TTWO #GTA6 #TakeTwo",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/ttwo-gta6-kucoin-2026-11-19.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-19T05:43:51.616673Z"
-    },
-    {
       "id": "ee9e502c8047",
       "text": "Six whales were liquidated 30 times, and the count is the story, not the size.\n\n618.24 BTC, thirty-eight million dollars, liquidated from sixty-three thousand down to sixty-two thousand.\n\nI don't read that as six unlucky entries. Thirty liquidations across six wallets means the longs were on all the way down, not caught at one level.\n\nIf the same wallets are long again tomorrow, the habit is the trade. If Bitcoin breaks sixty-two thousand, the staircase starts lower.\n\n$BTC #Bitcoin #Hyperliquid",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/hyperliquid-6whales-618btc-2026-11-19.png",
@@ -1711,6 +1703,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-26T05:41:04.093141Z"
+    },
+    {
+      "id": "44170c010609",
+      "text": "The $112.93 low was fear pricing a merger that eats SpaceX holders, on the day the FCC cleared a million-satellite plan for the standalone company.\n\nI give the close more weight than the low: shares ended at $127.44, above Tuesday's close, after a morning of dilution warnings.\n\nDilution math or Starmind approval, Friday's close settles it.\n\n$SPCXB #SpaceX",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/spcx-11293-low-2026-11-26.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-26T06:13:18.146983Z"
     }
   ]
 }
