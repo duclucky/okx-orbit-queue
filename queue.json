@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "200cdb5d032b",
-      "text": "He closed a $95.5 million short in six minutes, and his book is now flat.\n\nShort, long, short, flat in one day is not a view, it is a slot machine.\n\nI don't buy the genius-flip story: the $59,324 liquidation line never even printed, he killed the trade himself.\n\nOpen a fourth position and hold it past one level, and I will call it a view. Until then he is renting leverage by the hour.\n\n$BTC #AguilaTrades #Hyperliquid",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/aguila-flat-hyperbotai-2026-11-19.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-19T09:48:59.597005Z"
-    },
-    {
       "id": "a31dbd69f99d",
       "text": "Two whales unstaked 2.31 million SOL and sent it to Coinbase Prime today: $169.4 million that can now be sold.\n\nStaked SOL cannot be sold. Unstaking is step one of a sale, and the exchange deposit is step two.\n\nI don't buy the custody story: you don't give up staking yield and move coins to an exchange just to park them.\n\nIf SOL closes below seventy-two dollars, the deposit was a sale in slow motion. If it holds seventy-five, the whales were just moving house.\n\n$SOL #Solana #CoinbasePrime",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/sol-unstake-231m-2026-11-19.png",
@@ -1735,6 +1727,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-26T09:11:45.397864Z"
+    },
+    {
+      "id": "f4870e6effbd",
+      "text": "A net $68.5 million left US spot ETH ETFs on November 25, and every dollar of it came from one fund.\n\nI read that as one fund's holders moving, not eleven funds' holders leaving: the other ten printed zero.\n\nETH ended November 25 at $1,692.65, above where it opened.\n\nOne fund's exit or a market-wide exit: which does Friday's print show?\n\n$ETH #Ethereum",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/etha-only-outflow-2026-11-26-crop.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-26T10:02:54.545392Z"
     }
   ]
 }
