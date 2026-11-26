@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "42ae1ee66f6d",
-      "text": "$392 million liquidated in a day, four out of five of them longs, while Bitfinex longs sit at a three-year high.\n\nThe crowd calls that smart money positioning for a pump.\n\nI call it fuel: the same longs keep piling in while miners sell and the price keeps falling.\n\nI think the buyers here are leveraged and the sellers are not, so every dip ends in liquidations, not a bounce.\n\nBitcoin breaks $62,000 and the longs were the fuel.\n\nHold it, and I will call the Bitfinex whale right.\n\n$BTC #Bitcoin",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/bitfinex-longs-3y-cryptorover-2026-11-19.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-19T00:55:31.471895Z"
-    },
-    {
       "id": "b1cc680d76e7",
       "text": "Machi still tops the loss board at $2.61 million, yet the same board shows half a million claimed back.\n\nLosing mints PAPER, staking PAPER pays USDC. The losers are also the farmers.\n\nI think the board ranks losses, not losers: net, HypeTrader lost more than Machi.\n\nOne wallet lost nearly a million and claimed $2.38 million back, finishing over a million ahead.\n\nRe-rank it net of rewards and the crown moves. Prove the rewards are not real money.\n\n#Machi #Papertrade",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/machi-rewards-accounts-2026-11-19.png",
@@ -1671,6 +1663,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-26T00:34:05.838337Z"
+    },
+    {
+      "id": "e2d933d01a7b",
+      "text": "The $2.8 billion that left Ethereum ETFs in eight straight weeks reads as holders choosing cash over staking, not a verdict on Ethereum.\n\nI give the carry gap more weight than the headline drain: staking pays less than cash, so each hike widens the reason to redeem, and the selling spread across issuers, not one fund quitting.\n\nCarry trade unwinding, or ETF demand gone for good: a close above $1,707 settles it.\n\n$ETH #Ethereum",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/eth-etf-28b-2026-11-26.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-26T01:12:27.159848Z"
     }
   ]
 }
