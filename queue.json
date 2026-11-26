@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "a31dbd69f99d",
-      "text": "Two whales unstaked 2.31 million SOL and sent it to Coinbase Prime today: $169.4 million that can now be sold.\n\nStaked SOL cannot be sold. Unstaking is step one of a sale, and the exchange deposit is step two.\n\nI don't buy the custody story: you don't give up staking yield and move coins to an exchange just to park them.\n\nIf SOL closes below seventy-two dollars, the deposit was a sale in slow motion. If it holds seventy-five, the whales were just moving house.\n\n$SOL #Solana #CoinbasePrime",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/sol-unstake-231m-2026-11-19.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-19T10:44:55.355409Z"
-    },
-    {
       "id": "ea37b7f96f22",
       "text": "The Bitcoin company spent $228.1 million last week buying back preferred stock, and STRC still closed Wednesday at $96.11.\n\nIt sold its own stock and sent nearly seven times more to the preferred than to Bitcoin.\n\nI don't buy the peg defense: a buyback that worked would hold par, not four under it.\n\nIf STRC reclaims a hundred dollars, the defense worked and I am wrong.\n\nIf it closes below ninety-six, show me the next two hundred million.\n\n$MSTR $STRC #Strategy #Bitcoin",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/strc-buyback-ftm-2026-11-19.png",
@@ -1743,6 +1735,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-26T10:06:49.307794Z"
+    },
+    {
+      "id": "c543c17c4251",
+      "text": "Coin Bureau: \"$VVV plunges more than -15% as explosive privacy allegations rock the billion-dollar company marketed as a private, self-hosted AI platform.\"\n\nI read the deposit as a fraction, not an exit: the wallet possibly linked to Voorhees still holds 675,000 VVV staked, over eight times what it sent to Coinbase.\n\nFounder exit, or a fraction moving while the stake stays put: which side are you on?\n\n$VVV #Venice",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/vvv-coinbureau-quote-2026-11-26.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-26T10:47:32.662427Z"
     }
   ]
 }
