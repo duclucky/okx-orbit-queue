@@ -1743,6 +1743,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-26T10:47:32.662427Z"
+    },
+    {
+      "id": "edcd19c16a7c",
+      "text": "The $548.13 low was priced on the NAND half of TrendForce's report, not the whole company: Micron shares closed at $601.25.\n\nI give the DRAM half more weight than the selloff, because the same report keeps DRAM undersupplied next year while NAND enters a down cycle, after Chinese cloud buyers cut next year's orders.\n\nIf Friday's close takes out the low, the DRAM half was the wrong half to weight.\n\nDRAM tightness or NAND down cycle: which half does Friday's close price?\n\n$MUB #Micron",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/mu-54813-low-2026-11-26.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-26T11:07:06.831392Z"
     }
   ]
 }
