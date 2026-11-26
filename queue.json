@@ -1767,6 +1767,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-26T13:11:32.004030Z"
+    },
+    {
+      "id": "25e4f7b5e36f",
+      "text": "Attackers hijacked more than 1,000 mining sites in a second and took under $17,000, and that small haul is the point.\n\nBraiins traced the work to an impostor pool reached by faked internet routes, using an unencrypted protocol that cannot check who the pool really is.\n\nI read the attack as a warning about the protocol, not a theft: the hijacked power grew more than tenfold in two weeks, and the next wave is the test.\n\nOne-off trick or an open protocol, the next wave settles it.\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/braiins-hijack-2026-11-26.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-26T13:33:03.370399Z"
     }
   ]
 }
