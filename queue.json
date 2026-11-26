@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "bb2e64f10e1b",
-      "text": "The perp was right before a single share traded: Anthropic is indicated to open at $99.60, above the $97.59 the perp marked yesterday.\n\nOne reading says the bankers underpriced it. The other says an indication is not a trade.\n\nI back the first: the whale shorting the perp swung from four million up to two million down in one day.\n\nFirst trade below the mark, the indication was noise and I am wrong. Above it, the market found this price first.\n\n$HYPE #Hyperliquid #Anthropic",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/ant-whale-short-flip-2026-11-19.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-19T15:13:51.808760Z"
-    },
-    {
       "id": "fef053ed32ac",
       "text": "Fifteen accounts hold $609.5 million in Hyperliquid positions, 4% long. The biggest wallets are not waiting for a bottom.\n\nThe top of the table is all shorts: the biggest ETH short is up fifteen million, the biggest BTC short up nearly eight.\n\nI give this sample weight because it is the order book, not a survey: the profit is on screen.\n\nBTC back above sixty-six thousand and these shorts cover at a loss, I will call the bottom real. These fifteen already voted.\n\n$BTC $ETH #Hyperliquid #Whales",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/hl-whales-short-xoomar-2026-11-19.png",
@@ -1791,6 +1783,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-26T15:06:23.672117Z"
+    },
+    {
+      "id": "dea6dfc84a6f",
+      "text": "150,000 BTC shed by the shark-and-whale wallets since November 2, yet Bitcoin bounced to $60,400 today.\n\nI read that bounce as borrowed, not bought back: Santiment's own test is those holdings stabilizing and climbing again, and that test is still open.\n\nWhale return or short-cover bounce, the next holdings print settles it.\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/btc-whales-santiment-2026-11-26.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-26T15:38:35.776159Z"
     }
   ]
 }
