@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "8505136b67ed",
-      "text": "Managers cut tech 25 points in a month, the fastest dump in twenty years, and I don't buy the panic.\n\nTech overweight fell from thirty-seven to twelve, but cash fell to three point six percent. No run to safety. They rotated.\n\nI read this as a funding question, not a tech verdict: 52% expect a hyperscaler capex cut within six months. That is the bet, not the dump.\n\nIf a hyperscaler cuts capex, the overinvesting crowd was right. If none does by spring, it was just a rotation.\n\n#AI #Tech",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/bofa-tech-dump-mlq-2026-11-19.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-19T07:46:23.802884Z"
-    },
-    {
       "id": "68b2bf20326f",
       "text": "The Binance hacker's laundering batches are getting bigger, not smaller: $137 million Tuesday, $248 million today.\n\nMore than two billion dollars is still unlaundered, split across thousands of wallets.\n\nI don't read this as a seller about to dump ETH: no exchange deposit has been confirmed, the coins just keep getting split into fresh wallets.\n\nIf the next batch is bigger still, the machine is scaling up. If the moves stop, the overhang was the story all along.\n\n$ETH #Ethereum",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/hacker-137602eth-lookonchain-x-2026-11-19.png",
@@ -1727,6 +1719,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-26T07:36:52.010795Z"
+    },
+    {
+      "id": "36da6d8b6a42",
+      "text": "A record cost to insure Alphabet's debt did not hold its shares down: they printed $262.73 and refused to stay there.\n\nI read Wednesday as credit charging for the AI buildout while equity buyers stepped in at the new low, closing Alphabet shares at $273.10, above the open.\n\nFunding warning or distress verdict, Friday's open settles it.\n\n$GOOGLB #Alphabet",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/googl-cds-record-2026-11-26.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-26T08:04:48.231965Z"
     }
   ]
 }
