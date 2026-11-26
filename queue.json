@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "14f3c51875a3",
-      "text": "$1.37M banked on a short, then straight back to long on forty-times leverage: that is not conviction, that is restlessness.\n\nYesterday he cut his long in ten minutes, and today he is long again in the same market, already underwater.\n\nI don't buy conviction from a trader who cannot hold a position for a day.\n\nHe is chasing the tape, not reading it.\n\nIf $59,324 prints, the flip dies, and if it holds, he gets to call it genius.\n\n$BTC #AguilaTrades #Hyperliquid",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/aguila-flip-long-2026-11-19.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-19T04:50:06.179547Z"
-    },
-    {
       "id": "e9d70dd34041",
       "text": "GTA VI scored ninety-nine out of a hundred, and the shares jumped 6.22% the day before launch.\n\nOne reading says the launch is a guaranteed win. The other says it was already bought, on reviews and one analyst's estimate.\n\nI don't buy it: the sixty-five million copies need a PC release next year that Take-Two has not confirmed, and the first real sales number lands tomorrow.\n\nHold above $228 tonight, and the launch trade has legs. Fade, and yesterday was the top.\n\n$TTWO #GTA6 #TakeTwo",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/ttwo-gta6-kucoin-2026-11-19.png",
@@ -1703,6 +1695,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-26T04:36:24.392923Z"
+    },
+    {
+      "id": "225b5b942df8",
+      "text": "The $2.3 trillion in the SBI Solana Global headline belongs to the parents, not to Solana: no capital figure and no launch date were announced with it.\n\nI read the announcement as paperwork finishing a July plan, with SOL still holding above $70: the structure is real, the flow is not yet.\n\nName change or new demand, the first live service settles it.\n\n$SOL #Solana",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/sbi-solana-global-2026-11-26.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-26T05:06:12.357408Z"
     }
   ]
 }
