@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "fef053ed32ac",
-      "text": "Fifteen accounts hold $609.5 million in Hyperliquid positions, 4% long. The biggest wallets are not waiting for a bottom.\n\nThe top of the table is all shorts: the biggest ETH short is up fifteen million, the biggest BTC short up nearly eight.\n\nI give this sample weight because it is the order book, not a survey: the profit is on screen.\n\nBTC back above sixty-six thousand and these shorts cover at a loss, I will call the bottom real. These fifteen already voted.\n\n$BTC $ETH #Hyperliquid #Whales",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/hl-whales-short-xoomar-2026-11-19.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-19T16:05:26.926994Z"
-    },
-    {
       "id": "1cef7bd94250",
       "text": "Take-Two swung more than eight percent on launch day and sits flat: both dare lines got visited before lunch.\n\nOne reading says launch day is the event. The other says the event was yesterday, when shares jumped on a review score and one analyst's estimate.\n\nI back the second: the first real sales number lands tomorrow, and the seventeen million quoted today is pre-orders, not sales.\n\nClose above $228 tonight, the launch trade has legs. Fade below $208, yesterday was the top.\n\n$TTWO #GTA6",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/ttwo-tv-2026-11-19.png",
@@ -1791,6 +1783,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-26T15:38:35.776159Z"
+    },
+    {
+      "id": "6dd799a86013",
+      "text": "An ICO wallet selling its last 45,000 ETH is not panic, it is an exit finished on its own terms at $1,674.\n\nI read it as the overhang clearing, not a believer giving up: a wallet that sold everything cannot sell again.\n\nCleared overhang or an early believer walking away: which side are you on?\n\n$ETH #Ethereum",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/eth-ico-whale-2026-11-26.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-26T16:07:04.171324Z"
     }
   ]
 }
