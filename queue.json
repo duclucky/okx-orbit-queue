@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "83c2b7fbc8c1",
-      "text": "Circle's stock just broke its $49.90 low for the year. The stablecoin business is eating its own issuer.\n\nCircle earns on USDC reserves, and USDC keeps shrinking from its record high. I read a shrinking float as shrinking revenue, not a buying opportunity.\n\nThe Street still targets $91. Do you trust the target, or the tape?\n\n$CRCLB #Circle #USDC",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/crcl-chart-tv-2026-11-21.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-20T20:18:36.841264Z"
-    },
-    {
       "id": "5e83c703df7d",
       "text": "7,000 broke intraday. The S&P 500 traded under it on Friday, more than 10% below its October high.\n\nI read that as the index finally following tech down. The sector went first; the average just caught up.\n\nMonday tests 7,000 again. Does it bounce, or break lower?\n\n#SP500 #Stocks",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/sp500-under-7000-watcherguru-2026-11-21.png",
@@ -2175,6 +2167,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-27T20:07:57.867852Z"
+    },
+    {
+      "id": "f1cd1a3f11cb",
+      "text": "Tesla closed Friday at $400, and I read that as a filing and a draft agenda priced, not a car sold.\n\nThe EMAG filing surfaced Friday, and the EU draft agenda set a December 15 vote on Tesla's assisted-driving system, while the token tracked the shares at $398.57.\n\nI give the move no car-demand weight: neither catalyst ships a vehicle this quarter, and the merger story is still only committees and banks.\n\nRobotaxi option or car business, the December 15 vote settles it.\n\n$TSLAB #Tesla",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/tslab-emag-fsd-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-27T20:19:43.304441Z"
     }
   ]
 }
