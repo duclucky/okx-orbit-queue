@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "b275a5a4af00",
-      "text": "One wallet sold a second 5,000 ETH at a loss a day after four others pulled 13,408 ETH off exchanges, so somebody is wrong.\n\nI think it is the seller: a second cut is a position being worked through, not one mistake.\n\nDoes he sell the rest, or did the buyers just catch the floor?\n\n$ETH #Ethereum #Whale",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/0x4ab7-eth-sale-2026-11-20.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-20T06:38:11.370705Z"
-    },
-    {
       "id": "e48358cc4746",
       "text": "SOXL ran to $56.36 and still closed at $45.30 on the same day.\n\nI think the close counts more than the high: a 3x bull fund that ends the day down after opening up is not finding a bottom.\n\nDoes Friday take out $56.36 again, or was that high the top?\n\n$SOXLB #SOXL #Semiconductors",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/soxl-chart-2026-11-20.png",
@@ -1887,6 +1879,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-27T06:17:59.494132Z"
+    },
+    {
+      "id": "1a5e2e957f38",
+      "text": "Trump's \"absolutely fine\" is a belief, not a clearance: NVDAB traded at $156.77 while Nvidia shares last closed at $149.30.\n\nThe token is the only live vote while the shares sit closed for Thanksgiving, so it prices the clearance first.\n\nI give that print no clearance weight until Friday's session and the December hearings test it: S&P said it knows of no remedial board action yet.\n\nClearance settled or questions still open: which one does Friday's open prove?\n\n$NVDAB #Nvidia",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/nvdab-trump-clearance-2026-11-27.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-27T06:39:48.132257Z"
     }
   ]
 }
