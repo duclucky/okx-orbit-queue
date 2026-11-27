@@ -2207,6 +2207,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-27T22:11:40.593784Z"
+    },
+    {
+      "id": "0e335b26e601",
+      "text": "$1,649.15 was the line the flip had to hold. Friday printed $1,634.03.\n\nI read that as the flip failing its own test on day one: a half-size long is not a conversion when its trigger breaks in the first session.\n\nConversion or second exit, the wallet's next print settles it.\n\n$ETH #Ethereum #Whale",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/eth-flip-line-test-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-27T22:23:15.997251Z"
     }
   ]
 }
