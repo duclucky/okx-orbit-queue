@@ -2159,6 +2159,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-27T19:12:32.800709Z"
+    },
+    {
+      "id": "921df753cb57",
+      "text": "Saylor: \"Our ambition is for Stretch to become the three-month benchmark for Digital Credit built on Bitcoin.\"\n\nStretch has no maturity to benchmark: it is a perpetual preferred share, and Strategy spent $211.8 million repurchasing it in one week.\n\nI read that as an issuer buying its own yardstick, because a share with no term cannot price a three-month term.\n\nBenchmark or branding: does the next three months price Stretch on its own, or does Strategy keep buying it near par?\n\n$BTC #Strategy",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/saylor-strc-benchmark-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-27T19:19:11.229116Z"
     }
   ]
 }
