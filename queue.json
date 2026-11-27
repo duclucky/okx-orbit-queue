@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "92e7f282a5e2",
-      "text": "FTX sold its Anthropic stake for $1.34 billion, and it would be worth about $40 billion today.\n\nThe estate paid the creditors back in full, with interest, and still handed the buyers the decade's biggest AI windfall.\n\nA sale can pay everyone back and still be a disaster.\n\nI read this as the worst timing miss in bankruptcy history, not a job well done.\n\nShow me the shares back below the IPO price and I will call the sale smart.\n\n$ANTB #Anthropic #FTX",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/ftx-anthropic-40b-watcherguru-2026-11-19.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-19T23:51:15.708977Z"
-    },
-    {
       "id": "528bce0f08a6",
       "text": "Bitcoin closed at $61,987, below the prior session's low of $62,063.\n\nThe sweep the bulls wanted happened, and the day still closed under the line.\n\nA sweep that closes below the low is not a bottom, it is a pause with the door open.\n\nI read it this way: the box was a pause, not a floor.\n\nShow me a daily close back above $62,063 and I will call the pause a wick.\n\n$BTC #Bitcoin",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/btc-close-below-62063-chart-2026-11-20.png",
@@ -1783,6 +1775,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-26T23:37:48.609521Z"
+    },
+    {
+      "id": "0b50ca0500e2",
+      "text": "A $49.16 share print with no Intel news behind it is the macro tape, not an Intel warning.\n\nShares recovered to $54.47 by the close, following the Nasdaq's own intraday recovery, not a company headline.\n\nI read the close as the real print, and a Friday close back at the low proves that read wrong.\n\nBorrowed panic or real warning, the $49.16 retest settles it.\n\n$INTCB #Intel",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/intcb-macro-tape-2026-11-27.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-27T00:13:31.970602Z"
     }
   ]
 }
