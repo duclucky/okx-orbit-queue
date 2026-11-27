@@ -2063,6 +2063,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-27T13:32:51.322349Z"
+    },
+    {
+      "id": "9a9c89a4c55d",
+      "text": "One wallet holding 1.22% of PEPE's supply is a sample of one, not whale demand returning.\n\nIt kept withdrawing from Binance since November 17, while only 36% of tracked whale transfers were withdrawals, so the crowd sent more to exchanges than it took off.\n\nI give the single wallet no market weight until the tracked crowd's withdrawals beat its deposits: one address is a bet, not a tape.\n\nOne wallet's conviction or the tracked crowd's deposits, the next flow print settles it.\n\n$PEPE #PEPE",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/pepe-whale-secureshift-2026-11-27.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-27T13:48:54.448811Z"
     }
   ]
 }
