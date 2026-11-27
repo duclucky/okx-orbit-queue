@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "e7e34fe3d833",
-      "text": "Hunterbrook said AMD 'has a China problem of its own,' and the stock fell 18% in two days.\n\nIts own report admits the findings do not establish a violation, and AMD denies the claims. I read it as a disclosed short doing its job: the fund is short AMD and long a basket of comparable securities.\n\nDoes Congress's chip file prove the short right, or does AMD take back $489 first?\n\n$AMDB #AMD #Hunterbrook",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/amd-chart-tv-2026-11-21.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-20T18:17:59.705950Z"
-    },
-    {
       "id": "822cbe44f526",
       "text": "$259 million in BTC left Coinbase Institutional in its two biggest transfers overnight, and $98 million moved the other way.\n\nI read it as the same door swinging both ways: the coins are moving through, not being locked away.\n\nIf those unknown wallets sit still, the accumulation read wins.\n\nShow me them holding.\n\n$BTC #Bitcoin #WhaleAlert",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/coinbase-outflow-2277btc-2026-11-21.png",
@@ -2143,6 +2135,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-27T18:13:10.613168Z"
+    },
+    {
+      "id": "c1e3407d8ae4",
+      "text": "15 AI math papers landed this week and none of them breaks a Bitcoin key: the panic is priced on papers nobody has seen.\n\nA factoring result attacks RSA, not the elliptic curves Bitcoin signs with, so it opens no wallet.\n\nI give the published pile no weight as a break: only a published elliptic-curve result earns it.\n\nPublished break or unpublished rumor, the next lab disclosure settles it.\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/k33-bitcoin-crypto-fears-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-27T18:20:40.318859Z"
     }
   ]
 }
