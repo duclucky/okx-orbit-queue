@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "5e83c703df7d",
-      "text": "7,000 broke intraday. The S&P 500 traded under it on Friday, more than 10% below its October high.\n\nI read that as the index finally following tech down. The sector went first; the average just caught up.\n\nMonday tests 7,000 again. Does it bounce, or break lower?\n\n#SP500 #Stocks",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/sp500-under-7000-watcherguru-2026-11-21.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-20T20:47:42.682396Z"
-    },
-    {
       "id": "fc8a88c5e5ec",
       "text": "7,000 broke, and the close did not save it. The S&P 500 finished Friday at 6,910.39.\n\nThat is the seventh straight down day, the longest since February 2020. I read that as the break holding into the close, not a bounce.\n\nDoes Monday reclaim 7,000, or does the correction deepen?\n\n#SP500 #Stocks",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/spx-chart-2026-11-21.png",
@@ -2183,6 +2175,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-27T20:36:40.794794Z"
+    },
+    {
+      "id": "bcf3b7ef3a01",
+      "text": "A record 90-day correlation of 0.56 does not make Bitcoin digital gold: the two assets set it by falling together, not by sheltering together.\n\nThe same 90 sessions took gold, Bitcoin and the Nasdaq down together, so I read the record as a joint selloff, not a haven arriving.\n\nI give the digital-gold read no weight until the link survives a split that holds: Friday split them, gold up while Bitcoin fell.\n\nDigital gold or joint selloff, which does the next Galaxy print prove?\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/btc-gold-correlation-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-27T20:51:29.112996Z"
     }
   ]
 }
