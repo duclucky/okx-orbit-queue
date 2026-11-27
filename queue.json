@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "0576040ee76b",
-      "text": "$702 million liquidated in a day, and $603 million of it was longs.\n\nI read it as leverage eating its own, not capitulation: the sellers did not give up, the longs got wiped out.\n\nShow me a day the shorts take the bigger hit and I will call it a washout.\n\n#Bitcoin #Liquidations",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/liq-702m-cryptojack-2026-11-20.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-20T10:37:36.248079Z"
-    },
-    {
       "id": "ca9d5423f190",
       "text": "Hyperliquid made $19.2 million in a week, and I do not read it as growth.\n\nOpen interest fell 17.2% over the same days, and I read that as fees from traders closing out, not joining in.\n\nShow me open interest recovering and I will call it growth.\n\n$HYPE #Hyperliquid",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/hype-revenue-aixbt-2026-11-20.png",
@@ -1991,6 +1983,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-27T10:35:06.966121Z"
+    },
+    {
+      "id": "a41f1efaee5f",
+      "text": "A payment under $0.35 should not buy anyone's location, yet in the lab it found the node behind the wallet 30 times out of 30.\n\nBitcoin Core resends a stuck payment so it is not lost, and that resend is the tell: the node that speaks up is the node watching the address.\n\nI give the flaw full weight as a mechanism and none as a proven live attack until one replication runs on the real network.\n\nLab curiosity or a live privacy hole, the first live-network replication settles it.\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/btc-rebroadcast-flaw-2026-11-27.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-27T10:48:38.177709Z"
     }
   ]
 }
