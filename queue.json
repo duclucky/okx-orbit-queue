@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "a1064003ebba",
-      "text": "$158 million of Bitcoin longs died in the last day, and funding is near zero.\n\nThat is fresh dip buyers dying the next morning, not one crowded long getting squeezed.\n\nBitcoin is sitting on $61,326, the line it has to hold.\n\nI think the bottom calls are early until a day prints with small liquidations and a close back above that line.\n\nIf the longs die again tomorrow, the flush was never the bottom.\n\n$BTC #Bitcoin #Liquidations",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/btc-20d-low-grind-2026-11-20.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-20T04:48:57.531379Z"
-    },
-    {
       "id": "3361ca4d4c50",
       "text": "Thursday took $582.3M out of the Bitcoin ETFs, the largest of three straight days of selling.\n\nI called that $7.9M inflow one day of relief, and the redemptions only sped up after it.\n\nMonday was the turn, or Monday was the noise?\n\n$BTC #Bitcoin #ETF",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/etf-nov19-alphafinance-2026-11-20.png",
@@ -1847,6 +1839,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-27T04:33:55.320478Z"
+    },
+    {
+      "id": "2921afee2636",
+      "text": "A $50,000 touch by December 31 went from 7.5% to 28% in 30 days, and I do not read that as the crowd panicking alone.\n\nI give the move weight because the options book prices the same drop identically: two venues, one shared price for the fall, not two panics.\n\nPriced risk or panic premium, December 31 settles it.\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/polymarket-50k-2026-11-27.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-27T04:50:31.061915Z"
     }
   ]
 }
