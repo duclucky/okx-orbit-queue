@@ -2215,6 +2215,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-27T22:44:18.882491Z"
+    },
+    {
+      "id": "daa6ac3cdd51",
+      "text": "Two funds valued Ripple's private shares at $90 and $300 on the same date, and neither number is a trade.\n\nI give neither mark weight as Ripple's price: with no public quote, both are model marks, and one fund paid more than its own mark in March.\n\nBack the $90 mark or the $300 mark, the next filing settles it.\n\n#Ripple #SEC",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/ripple-fund-marks-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-27T22:50:56.019406Z"
     }
   ]
 }
