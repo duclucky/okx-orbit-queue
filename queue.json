@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "8177e1bb7a47",
-      "text": "Anthropic is down 10% before the open, one day after the biggest IPO in history.\n\nIt is a thin premarket print, but I give it weight: Apple is hiring for its own AI agent, and the pop started leaking the same night.\n\nDoes ANT hold $83 at the open, or does day two print below its own IPO price?\n\n$ANTB #Anthropic",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/ant-hyperliquid-senpi-2026-11-20.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-20T13:52:14.661030Z"
-    },
-    {
       "id": "7a011d47ba70",
       "text": "Whale Scan just called $57,800 as Bitcoin's next stop.\n\nI don't buy the next leg yet: open interest fell by a tenth in a week, and the leveraged sellers are mostly gone.\n\nDoes $57,800 print before $66,000, or is this the call that marks the fear peak?\n\n$BTC #Bitcoin",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/whalescan-57800-2026-11-20.png",
@@ -2071,6 +2063,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-27T13:48:54.448811Z"
+    },
+    {
+      "id": "f104e025fd08",
+      "text": "$155.52 is a thin-tape print, not a rebound yet.\n\nIt sits 4.2% above Wednesday's close, but pre-market trading is thin, and a small number of trades can set the price of even the biggest stocks.\n\nI give that gain no rebound weight until the 1 p.m. close holds it: pre-market readings missed the size of the move on both Monday and Wednesday.\n\nThin tape or a real rebound: which one does the 1 p.m. close prove?\n\n$NVDAB #Nvidia",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/nvdab-premarket-2026-11-27.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-27T14:10:17.356233Z"
     }
   ]
 }
