@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "8ef767fa3204",
-      "text": "Bitcoin lost $60,000 today, and the next stop being called is $57,800.\n\nAn hour ago I said I don't buy the next leg yet, and the leg came anyway.\n\nI read what is still selling as the mechanical kind, ETF redemptions, not leveraged longs.\n\nDoes it reclaim sixty thousand into the close, or does the next stop print first?\n\n$BTC #Bitcoin",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/btc-60k-test-tv-5d-2026-11-20.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-20T15:50:48.610422Z"
-    },
-    {
       "id": "b54c1356290d",
       "text": "Nvidia printed a $135.62 low on Friday, a new low for the year.\n\nThe dip-buyers point at an RSI in the teens. The tape points at six straight losses and a stock still falling.\n\nI read this as the legal overhang deepening, not an oversold dip: the low sits about $13 below the level that held the resignation week.\n\nDoes the oversold crowd buy the dip, or does the next close print lower still?\n\n$NVDAB #Nvidia",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/nvda-drawdown-4y-stocksavvyshay-2026-11-20.png",
@@ -2111,6 +2103,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-27T15:48:47.944676Z"
+    },
+    {
+      "id": "147c093f81ee",
+      "text": "Friday's share took $84.73, past the $81.01 the token voted while the market was shut.\n\nTrendForce and BNP call the balance turning, while SanDisk's chief calls the demand increase structural and Micron says most of next year's output is already committed.\n\nI give the cycle call no weight until a contract-price print turns, and a close back below $81.01 voids today's receipt.\n\nReceipt confirmed or cycle turning: which one does the next contract-price print settle?\n\n$SNDKB #SanDisk",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/sndkb-receipt-2026-11-27.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-27T16:07:11.356127Z"
     }
   ]
 }
