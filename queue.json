@@ -1823,6 +1823,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-27T03:44:14.229822Z"
+    },
+    {
+      "id": "6ea5ba7f9e22",
+      "text": "A whale swapped $62.5 million of Bitcoin for Ether in three days, and I read it as a rotation, not an exit.\n\nA THORChain swap leaves no exchange deposit to read, so the market got no warning print. I give that wallet no rotation weight until another whale follows the same route.\n\nIf the Ether lands on an exchange next, the rotation read fails.\n\nRotation or a quiet exit, the wallet's next move settles it.\n\n$BTC $ETH #Ethereum",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/thorchain-whale-swap-2026-11-27.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-27T03:48:42.462265Z"
     }
   ]
 }
