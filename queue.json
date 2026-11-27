@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "097b2ac70b32",
-      "text": "The Nasdaq just erased its entire 2026 gain, all 19% of it.\n\nBitcoin is down 30% on the year, and it is the same trade, not a separate crash.\n\nI read this as one de-risking wearing two tickers: the AI premium came out of stocks and crypto together.\n\nDoes the Nasdaq turn positive for the year first, or does Bitcoin retake sixty thousand?\n\n$BTC #Bitcoin #Nasdaq",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/nasdaq-2026-gain-gone-kobeissi-2026-11-20.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-20T16:53:35.299947Z"
-    },
-    {
-      "id": "86a519238331",
-      "text": "BitMine is $10.1 billion underwater on Ethereum, Strategy $14.1 billion underwater on Bitcoin.\n\nThe treasury trade was sold as the floor under crypto. The floor is now the bag.\n\nI read this as the buyers becoming the risk: last week Strategy spent about seven times more defending its preferred stock than buying Bitcoin.\n\nDo they buy the dip again, or does the first treasury sale set the bottom?\n\n$BTC $ETH #Bitcoin #Ethereum",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/treasuries-underwater-watcherguru-2026-11-20.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-20T17:10:13.532081Z"
-    },
-    {
       "id": "b22562c30e4c",
       "text": "15 liquidations in one hour. Two ways to read it: the exchange hunted his stops, or the wallet kept reloading into the fall.\n\nI read it as the second: this is the same wallet that was already liquidated five times yesterday and still held on.\n\nThe level that answered it was $60,177.61. It did not hold.\n\nDoes he reload for a sixteenth, or is the leverage finally dead?\n\n$BTC #Bitcoin #Hyperliquid",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/wynn-liquidated-15x-lookonchain-2026-11-21.png",
@@ -2127,6 +2111,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-27T16:50:28.674185Z"
+    },
+    {
+      "id": "a9154661dd85",
+      "text": "The export-control case now runs on a $14 million loan filing, not a seizure.\n\nShanghai Shuoyao pledged the GB300 rack as collateral, serial number included, and the warranty trace runs to a Gigabyte-built system, while how the rack reached Shanghai stays unanswered.\n\nI read Nvidia shares sliding to a $145.39 low as a control-risk discount, not an AI-demand verdict, while the indexes rallied.\n\nControl failure or paperwork trail: which one does the December 3 hearing settle?\n\n$NVDAB #Nvidia",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/nvdab-blackwell-shanghai-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-27T17:13:34.376862Z"
     }
   ]
 }
