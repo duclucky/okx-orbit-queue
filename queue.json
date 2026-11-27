@@ -2199,6 +2199,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-27T21:49:32.988367Z"
+    },
+    {
+      "id": "488df5043977",
+      "text": "Starship put 26 satellites in orbit and lost its booster, so Friday was a delivery, not a catch.\n\nI give Saturday's tower attempt more weight than Friday's orbit, because a booster that splashes down cannot fly again.\n\nOrbit success or catch failure, Saturday's catch settles it.\n\n$SPCXB #SpaceX #Starship",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/spcxb-starship-flight15-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-27T22:11:40.593784Z"
     }
   ]
 }
