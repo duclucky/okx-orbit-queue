@@ -1863,6 +1863,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-27T05:19:20.995266Z"
+    },
+    {
+      "id": "692a9f1cdcfd",
+      "text": "A 7.6% difficulty rise is the 9.13% cut taking its relief back, not miners returning.\n\nThe cut made blocks cheap, blocks ran fast, and the protocol raised the bar to restore its own pace.\n\nI give the hashrate-return read no weight until the next epoch holds its fast pace at the new difficulty instead of slowing down.\n\nRelief taken back or miners returning: which one does the next retarget prove?\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/btc-difficulty-145t-2026-11-27.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-27T05:40:28.810802Z"
     }
   ]
 }
