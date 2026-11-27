@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "e48358cc4746",
-      "text": "SOXL ran to $56.36 and still closed at $45.30 on the same day.\n\nI think the close counts more than the high: a 3x bull fund that ends the day down after opening up is not finding a bottom.\n\nDoes Friday take out $56.36 again, or was that high the top?\n\n$SOXLB #SOXL #Semiconductors",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/soxl-chart-2026-11-20.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-20T07:51:11.541784Z"
-    },
-    {
       "id": "da36917bf511",
       "text": "James Wynn got liquidated five times in this drop and still holds about $3.14M in longs.\n\nI read it this way: five liquidations trimmed the position, they did not end the bet. The next one sits at $60,177.61.\n\nDoes Bitcoin take out $60,177.61 for the sixth, or does the line hold and the stubborn long survive?\n\n$BTC #Bitcoin #Hyperliquid",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/wynn-liquidated-5x-lookonchain-2026-11-20.png",
@@ -1927,6 +1919,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-27T07:47:44.027467Z"
+    },
+    {
+      "id": "fd507e82306d",
+      "text": "An estimated 97% of the $6.8 billion expiry's payout went to puts: this was a defense book, not a squeeze.\n\nPuts struck above the market paid out while the calls above it paid almost nothing: the book rewarded hedges and starved the run bet.\n\nI read it as hedges doing their job, and I give the squeeze story no weight until a book pays the call side instead.\n\nHedges that paid or a squeeze still loading: which one does the next expiry's payout prove?\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/btc-options-payout-2026-11-27.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-27T08:01:28.332189Z"
     }
   ]
 }
