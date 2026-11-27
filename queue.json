@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "fc8a88c5e5ec",
-      "text": "7,000 broke, and the close did not save it. The S&P 500 finished Friday at 6,910.39.\n\nThat is the seventh straight down day, the longest since February 2020. I read that as the break holding into the close, not a bounce.\n\nDoes Monday reclaim 7,000, or does the correction deepen?\n\n#SP500 #Stocks",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/spx-chart-2026-11-21.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-20T21:08:59.994031Z"
-    },
-    {
       "id": "fa204fd93297",
       "text": "$259 million left Coinbase Institutional overnight. Both wallets that took it now hold zero.\n\nThey forwarded everything within minutes of receiving it. I read that as a pipe, not a vault: a buyer holds, a pipe passes it on.\n\nShow me either wallet holding a single coin overnight, and I will call it accumulation.\n\n$BTC #Bitcoin #WhaleAlert",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/coinbase-wallet-2277btc-zero-2026-11-21.png",
@@ -2191,6 +2183,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-27T21:07:27.164980Z"
+    },
+    {
+      "id": "4f9c03b2a8fa",
+      "text": "A market maker that once handled 4% of exchange volume is reportedly winding down, and I read that as margin dying, not a blowup.\n\nAuros has not confirmed it, two sources told CoinDesk no reason or timetable is known, and Grachev says a few makers are gone because almost no margin is left.\n\nI give the crisis read no weight until spreads widen where Auros quoted: one firm is a sample, not the book.\n\nMargin shakeout or one firm's math, which does the next spread print prove?\n\n#Crypto",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/auros-winddown-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-27T21:20:51.313451Z"
     }
   ]
 }
