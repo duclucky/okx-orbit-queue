@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "fa204fd93297",
-      "text": "$259 million left Coinbase Institutional overnight. Both wallets that took it now hold zero.\n\nThey forwarded everything within minutes of receiving it. I read that as a pipe, not a vault: a buyer holds, a pipe passes it on.\n\nShow me either wallet holding a single coin overnight, and I will call it accumulation.\n\n$BTC #Bitcoin #WhaleAlert",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/coinbase-wallet-2277btc-zero-2026-11-21.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-20T21:48:46.665170Z"
-    },
-    {
       "id": "faa1d4ece964",
       "text": "Down 25% in November, on pace for its worst month since June 2022, Bitcoin is not dipping. The bull market is ending the way every bull market ends.\n\nBrandt says every bull market ends with a correction of at least 75%. I give that pattern more weight than the dip-buyers: the ETF era delayed it, it did not break it.\n\nShow me a green weekly close, and I will call it a flush, not the end of the cycle.\n\n$BTC #Bitcoin",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/btc-chart-2026-11-21.png",
@@ -2199,6 +2191,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-27T21:36:43.201306Z"
+    },
+    {
+      "id": "1dc8fe621716",
+      "text": "Nine years of stillness ended with 15,750 ZEC moving at once, and I refuse the exit story the headline sells.\n\nOnly part of the coins reached a Kraken deposit address; the rest went to a wallet with no label, so one leg is staged to sell and the other is only moved.\n\nI give the distribution read no weight until the Kraken coins leave or the unlabeled coins move on: a deposit is a door, not a sale.\n\nExit or reshuffle, which does the next move of those coins prove?\n\n$ZEC #Zcash",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/zec-dormant-split-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-27T21:49:32.988367Z"
     }
   ]
 }
