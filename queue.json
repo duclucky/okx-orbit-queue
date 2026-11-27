@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "b54c1356290d",
-      "text": "Nvidia printed a $135.62 low on Friday, a new low for the year.\n\nThe dip-buyers point at an RSI in the teens. The tape points at six straight losses and a stock still falling.\n\nI read this as the legal overhang deepening, not an oversold dip: the low sits about $13 below the level that held the resignation week.\n\nDoes the oversold crowd buy the dip, or does the next close print lower still?\n\n$NVDAB #Nvidia",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/nvda-drawdown-4y-stocksavvyshay-2026-11-20.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-20T16:16:45.904826Z"
-    },
-    {
       "id": "097b2ac70b32",
       "text": "The Nasdaq just erased its entire 2026 gain, all 19% of it.\n\nBitcoin is down 30% on the year, and it is the same trade, not a separate crash.\n\nI read this as one de-risking wearing two tickers: the AI premium came out of stocks and crypto together.\n\nDoes the Nasdaq turn positive for the year first, or does Bitcoin retake sixty thousand?\n\n$BTC #Bitcoin #Nasdaq",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/nasdaq-2026-gain-gone-kobeissi-2026-11-20.png",
@@ -2111,6 +2103,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-27T16:07:11.356127Z"
+    },
+    {
+      "id": "41eaa0a7ea3a",
+      "text": "21,520 BTC in a week is one wallet set, not the market buying the dip.\n\nThe wallets are Arkham's Abraxas Capital (Heka Funds) set, from Kraken and Binance, and the fund runs a market-neutral arbitrage book that has held large shorts alongside spot before.\n\nI give the 'bought' label no weight until the coins sit still: a withdrawal at $59,739 proves the coins left the exchanges, not that a buyer paid for them.\n\nDirectional buy or hedged leg, the next wallet print settles it.\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/abraxas-21520btc-2026-11-27.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-27T16:22:40.314082Z"
     }
   ]
 }
