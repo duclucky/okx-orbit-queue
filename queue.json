@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "7a011d47ba70",
-      "text": "Whale Scan just called $57,800 as Bitcoin's next stop.\n\nI don't buy the next leg yet: open interest fell by a tenth in a week, and the leveraged sellers are mostly gone.\n\nDoes $57,800 print before $66,000, or is this the call that marks the fear peak?\n\n$BTC #Bitcoin",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/whalescan-57800-2026-11-20.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-20T14:58:12.054594Z"
-    },
-    {
       "id": "7d9d040ead5d",
       "text": "$81.2 billion of XRP futures traded on CME in 18 months, and XRP is back below $1.\n\nI call it turnover, not demand: the same contracts change hands again and again, while the price is down almost a third in a month.\n\nDoes the next big futures day lift XRP back above a dollar, or does the milestone stay a headline the price ignores?\n\n$XRP #XRP",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/cme-xrp-81b-2026-11-20.png",
@@ -2095,6 +2087,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-27T14:50:36.251013Z"
+    },
+    {
+      "id": "2b9cfe4ea2b5",
+      "text": "The $155.52 premarket print is already underwater: Nvidia shares trade at $146.32 in the session.\n\nThin tape set the preview, and the regular session moved further, in the other direction. That is TECHi's own Monday and Wednesday record, now with a third case that reverses the sign.\n\nI read the session, not the preview, as November's settlement: a 1 p.m. close below Wednesday's close proves the preview was the trap.\n\nPreview or session: which one does the 1 p.m. close settle?\n\n$NVDAB #Nvidia",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/nvdab-preview-reversal-2026-11-27.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-27T15:08:30.683507Z"
     }
   ]
 }
