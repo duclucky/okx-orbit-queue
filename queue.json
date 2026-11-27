@@ -2135,6 +2135,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-27T17:40:22.154626Z"
+    },
+    {
+      "id": "29deb31e60ff",
+      "text": "13,892 BTC still sits in mixed outputs, and I read that as parked coins, not vanished ones.\n\nWasabi kept mixing and took in 535 BTC more than it released in 30 days, while Samourai recorded no rounds in 30 days, dead since April 2024, and its outputs still sit unspent.\n\nI give the parked read more weight, because Arkham counts unspent outputs rather than proven owners, so the coins are visible and still sitting.\n\nParked or hidden, a drain of those outputs settles it.\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/arkham-mixers-13892-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-27T17:51:22.642814Z"
     }
   ]
 }
