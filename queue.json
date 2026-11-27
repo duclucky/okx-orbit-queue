@@ -2119,6 +2119,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-27T16:38:27.481557Z"
+    },
+    {
+      "id": "61305d9990d0",
+      "text": "29,825 ETH sold reads two ways: cutting leverage, or paying the lender with the asset it borrowed against.\n\n69,089 LsETH stays pledged against the remaining loan, so over half of what Bit Digital kept is the lender's security first.\n\nI give the deleveraging read no weight until the pledged pile shrinks or the bridge loan is repaid.\n\nDeleveraged treasury or encumbered treasury, the next filing settles it.\n\n$ETH #Ethereum",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/bitdigital-pledged-2026-11-27.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-27T16:50:28.674185Z"
     }
   ]
 }
