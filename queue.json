@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "822cbe44f526",
-      "text": "$259 million in BTC left Coinbase Institutional in its two biggest transfers overnight, and $98 million moved the other way.\n\nI read it as the same door swinging both ways: the coins are moving through, not being locked away.\n\nIf those unknown wallets sit still, the accumulation read wins.\n\nShow me them holding.\n\n$BTC #Bitcoin #WhaleAlert",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/coinbase-outflow-2277btc-2026-11-21.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-20T18:57:48.353030Z"
-    },
-    {
       "id": "36687aa66825",
       "text": "ETH lost the $1,700 floor it had held for six days, and the longs stacked on it paid for the break.\n\nETH long liquidations ran to more than half of Bitcoin's total on a market one-sixth the size. I read it as a floor that turned into a liquidation magnet.\n\nDoes ETH reclaim $1,700, or test $1,500 first?\n\n$ETH #Ethereum",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/eth-chart-2026-11-21.png",
@@ -2159,6 +2151,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-27T18:53:17.444642Z"
+    },
+    {
+      "id": "51638586fb7b",
+      "text": "The deepest bid wall since August is a promise, not a purchase: resting orders fill $50,000 to $58,000.\n\nGlassnode counts orders that can be pulled before they buy, so the wall is an intention until a sell-off hits it.\n\nI give it no floor weight: Friday's flush never reached it, and an unhit bid proves nothing.\n\nBids that fill or bids that vanish: which one does the weekend prove?\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/glassnode-bid-wall-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-27T19:12:32.800709Z"
     }
   ]
 }
