@@ -1887,6 +1887,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-27T06:39:48.132257Z"
+    },
+    {
+      "id": "f6d2c16252e2",
+      "text": "October's test was called off because this fee could break live contracts. On Thursday developers kept it anyway, with up to 15,000 contracts exposed.\n\nI give the upgrade no clean bill until the December 15 Hoodi test runs: 24 flagged programs need an upgrade or a move, and the rest need only a setting change.\n\nClean test or broken contracts, December 15 settles it.\n\n$ETH #Ethereum",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/eth-glamsterdam-2026-11-27.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-27T06:49:56.464731Z"
     }
   ]
 }
