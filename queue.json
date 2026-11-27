@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "fd81d44bebd5",
-      "text": "$24.86 billion of Bitcoin sits in government wallets. One read says it is a dump waiting to happen.\n\nI back the other read: the US still holds 79.9% of it after the drop, and the panic is in the funds, not the state.\n\nDoes the feared dump ever come, or is it just waiting for a higher price?\n\n$BTC #Bitcoin",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/gov-btc-arkham-2026-11-20.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-20T12:50:39.879914Z"
-    },
-    {
       "id": "8177e1bb7a47",
       "text": "Anthropic is down 10% before the open, one day after the biggest IPO in history.\n\nIt is a thin premarket print, but I give it weight: Apple is hiring for its own AI agent, and the pop started leaking the same night.\n\nDoes ANT hold $83 at the open, or does day two print below its own IPO price?\n\n$ANTB #Anthropic",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/ant-hyperliquid-senpi-2026-11-20.png",
@@ -2047,6 +2039,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-27T12:48:25.368560Z"
+    },
+    {
+      "id": "3f2e1a74d6ce",
+      "text": "A $575 million trading day shrank to $516,253, so Bluefin's shutdown is a funeral, not a pivot.\n\nSui's team is taking perps in-house, and users must close every position before trading stops, so the exit is forced, not chosen.\n\nI give the tokenized-asset pivot no weight until spot trading prints a day that looks like the old perps book.\n\nDead book or real pivot, which one does the shutdown deadline prove?\n\n#Sui #DeFi",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/bluefin-perps-shutdown-2026-11-27.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-27T13:07:39.470044Z"
     }
   ]
 }
