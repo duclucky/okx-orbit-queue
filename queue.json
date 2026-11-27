@@ -1799,6 +1799,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-27T02:09:58.922786Z"
+    },
+    {
+      "id": "daa95367febc",
+      "text": "$80 million of shorts liquidated in one burst, and the burst handed Ether back its $1,700 level.\n\nA forced close buys, so the burst is the only buyer the tape can name: spot ETF flows kept leaving while the price rose.\n\nI give the reclaim no demand weight until an ETF inflow print shows up, because covering ends and spot buying has to replace it.\n\nForced buying or real demand, Friday's US session settles it.\n\n$BTC $ETH #Bitcoin #Ethereum",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/eth-burst-80m-2026-11-27.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-27T02:42:27.367723Z"
     }
   ]
 }
