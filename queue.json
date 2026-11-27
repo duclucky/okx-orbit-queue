@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "b22562c30e4c",
-      "text": "15 liquidations in one hour. Two ways to read it: the exchange hunted his stops, or the wallet kept reloading into the fall.\n\nI read it as the second: this is the same wallet that was already liquidated five times yesterday and still held on.\n\nThe level that answered it was $60,177.61. It did not hold.\n\nDoes he reload for a sixteenth, or is the leverage finally dead?\n\n$BTC #Bitcoin #Hyperliquid",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/wynn-liquidated-15x-lookonchain-2026-11-21.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-20T17:52:32.713880Z"
-    },
-    {
       "id": "e7e34fe3d833",
       "text": "Hunterbrook said AMD 'has a China problem of its own,' and the stock fell 18% in two days.\n\nIts own report admits the findings do not establish a violation, and AMD denies the claims. I read it as a disclosed short doing its job: the fund is short AMD and long a basket of comparable securities.\n\nDoes Congress's chip file prove the short right, or does AMD take back $489 first?\n\n$AMDB #AMD #Hunterbrook",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/amd-chart-tv-2026-11-21.png",
@@ -2143,6 +2135,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-27T17:51:22.642814Z"
+    },
+    {
+      "id": "7c2c3cde0130",
+      "text": "The $81.01 vote was answered, not faded: SanDisk shares crossed it Friday and finished at $85.36.\n\nTrendForce's warning was never a Friday price call: its report has contract-price increases narrowing through next year, while Micron says most of that output is already committed.\n\nI give the locked supply more weight than the slope warning.\n\nReceipt or one-session bounce: which one does Monday's open settle?\n\n$SNDKB #SanDisk",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/sndkb-close-receipt-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-27T18:13:10.613168Z"
     }
   ]
 }
