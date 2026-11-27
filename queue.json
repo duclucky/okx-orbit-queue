@@ -2127,6 +2127,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-27T17:19:49.104664Z"
+    },
+    {
+      "id": "01f08415f64e",
+      "text": "$170 million in shorts across crypto died in 24 hours while Bitcoin printed $62,147.\n\nThe US open answered in one hour: $182 million in longs across crypto liquidated as Bitcoin gave back $3,000 to $59,000.\n\nI read it as leverage clearing both sides, and I expect $59,000 to be retested before $62,147, because the flush leg was faster.\n\nSqueeze back through $62,147 or flush through $59,000: which side pays next?\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/btc-both-sides-flush-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-27T17:40:22.154626Z"
     }
   ]
 }
