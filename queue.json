@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "faa1d4ece964",
-      "text": "Down 25% in November, on pace for its worst month since June 2022, Bitcoin is not dipping. The bull market is ending the way every bull market ends.\n\nBrandt says every bull market ends with a correction of at least 75%. I give that pattern more weight than the dip-buyers: the ETF era delayed it, it did not break it.\n\nShow me a green weekly close, and I will call it a flush, not the end of the cycle.\n\n$BTC #Bitcoin",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/btc-chart-2026-11-21.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-20T22:43:57.012280Z"
-    },
-    {
       "id": "837c8ddbdb77",
       "text": "Selling at $1,938 to repay a loan, then selling the rest at $1,701, is not taking profits.\n\nI think the dip-buyers are catching forced sales, not a bottom: the loans decide the selling, not the chart.\n\nShow me a whale buying size into this and I will call it fear, not forced selling.\n\n$ETH #Ethereum #Whale",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/whale-0xabbd-eth-sell-2026-11-21.png",
@@ -2215,6 +2207,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-27T22:23:15.997251Z"
+    },
+    {
+      "id": "2028d15a17b4",
+      "text": "29 of 35 votes is not lending launching, it is lending living one validator away from starting over.\n\nZangana cast the 29th vote Friday, and one withdrawal drops support to the exact threshold and restarts the clock.\n\nI give December 11 no weight until the count holds: the vault opens December 9 with deposits only, so the first activation proves the box, not the loan.\n\nLending live or clock reset: which one does December 11 prove?\n\n$XRP #XRP",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/xrpl-lending-29th-vote-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-27T22:44:18.882491Z"
     }
   ]
 }
