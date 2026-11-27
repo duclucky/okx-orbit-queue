@@ -2247,6 +2247,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-27T23:35:50.755640Z"
+    },
+    {
+      "id": "bf160960fa73",
+      "text": "A 5-year exemption covering only liquidity pools judges tokenized stocks by matching engine, not by safeguards.\n\nI think the pools-only wording is a drafting gap, not a safety finding: order books already give the SEC the spreads, depth and fills it compares, and Injective's 22-page letter answers with surveillance, self-trade blocks and halts.\n\nPools or order books: the SEC's answer settles which engine tokenized stocks run on.\n\n#TokenizedStocks #SEC",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/injective-sec-order-books-cmc-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-27T23:49:58.117065Z"
     }
   ]
 }
