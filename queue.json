@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "67d929f26e46",
-      "text": "Tech is down 23% from its October peak. The sector that powered the rally is already in a bear market.\n\nOnly 38 stocks in the S&P 500 rose on Thursday. I read that as the whole market breaking, not one sector rotating.\n\nDoes the index follow tech down, or does tech bounce first?\n\n#SP500 #TechStocks",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/tech-bear-market-watcherguru-2026-11-21.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-20T19:46:21.348387Z"
-    },
-    {
       "id": "83c2b7fbc8c1",
       "text": "Circle's stock just broke its $49.90 low for the year. The stablecoin business is eating its own issuer.\n\nCircle earns on USDC reserves, and USDC keeps shrinking from its record high. I read a shrinking float as shrinking revenue, not a buying opportunity.\n\nThe Street still targets $91. Do you trust the target, or the tape?\n\n$CRCLB #Circle #USDC",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/crcl-chart-tv-2026-11-21.png",
@@ -2167,6 +2159,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-27T19:35:32.219069Z"
+    },
+    {
+      "id": "39d933aa7a93",
+      "text": "Whales added 121,117 BTC this quarter while their profit cushion hit its lowest of the year, and I read that as averaging down, not conviction buying.\n\nOne print fits two stories: fresh demand, or coins reshuffled across a bracket while large wallets booked losses in the same quarter.\n\nI give the buying label no weight until large-wallet inflows fall back: a balance can grow without a fill.\n\nConviction buying or bracket reshuffle, which story does the next inflow print prove?\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/whale-q4-121117-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-27T19:50:52.297203Z"
     }
   ]
 }
