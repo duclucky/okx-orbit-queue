@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "da36917bf511",
-      "text": "James Wynn got liquidated five times in this drop and still holds about $3.14M in longs.\n\nI read it this way: five liquidations trimmed the position, they did not end the bet. The next one sits at $60,177.61.\n\nDoes Bitcoin take out $60,177.61 for the sixth, or does the line hold and the stubborn long survive?\n\n$BTC #Bitcoin #Hyperliquid",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/wynn-liquidated-5x-lookonchain-2026-11-20.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-20T08:48:02.656381Z"
-    },
-    {
       "id": "165021daa8b6",
       "text": "The Binance hacker moved another ~$346M of ETH, a day after shifting $248M.\n\nI read it this way: the batches keep getting bigger, and the court order has not slowed them down.\n\nDoes the freezing order catch them, or does tomorrow bring a bigger batch?\n\n$ETH #Binance #Ethereum",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/hacker-346m-scottmelker-2026-11-20.png",
@@ -1943,6 +1935,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-27T08:37:30.397244Z"
+    },
+    {
+      "id": "8bbe46f17d39",
+      "text": "Upbit gave HAEDAL a 47.87% day with a new won pair while extending INIT's caution on the same day.\n\nThat is sorting, not a Korean bid: one token got won access and the other stayed under review while its price rose anyway.\n\nI give the relief read no weight until December's review lifts the caution instead of extending it again.\n\nKorean access or Korean caution: December's review settles it.\n\n$HAEDAL $INIT #Korea",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/haedal-init-korea-split-2026-11-27.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-27T08:48:03.619927Z"
     }
   ]
 }
