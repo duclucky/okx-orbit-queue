@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "86d9520736aa",
-      "text": "Nvidia closed at $145.98, below the $148.80 level it broke on Thursday.\n\nThe break was not a wick. The close held under the line.\n\nThe same day, California's attorney general subpoenaed Nvidia over whether chips or secrets reached China.\n\nI read this as a legal overhang now, not an earnings verdict: the record quarter is buried under investigations.\n\nShow me the stock reclaiming $148.80 and I will call the subpoena priced in.\n\n$NVDAB #Nvidia",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/nvda-ca-ag-subpoena-cryptopolitan-2026-11-20.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-20T01:52:07.400712Z"
-    },
-    {
       "id": "ae6e02b6b4dd",
       "text": "Strategy is 84% below its record high, Bitmine 91% below its own, while Bitcoin sits about a quarter below its October peak.\n\nThe stocks peaked two years and sixteen months ago, Bitcoin one month ago.\n\nThe premium unwound for a year. Bitcoin only just joined the fall.\n\nI read this as the premium trade dying, not the coin: the leverage was in the stock, never in Bitcoin.\n\nShow me the stocks beating Bitcoin on the next up day and I will call it leverage.\n\n$MSTRB $BMNRB #Strategy #Bitcoin",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/kobeissi-mstr-bmnr-2026-11-20.png",
@@ -1799,6 +1791,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-27T01:40:17.056569Z"
+    },
+    {
+      "id": "0a70338d12a8",
+      "text": "4.3% growth handed the Fed its excuse to hike, and Bitcoin still bought the dip.\n\nStrong growth plus sticky inflation leaves the Fed no room to pause, so every risk bid now rents time until the December meeting.\n\nI give the bounce no reversal weight until Friday's close stays clear of Wednesday's $57,500 low.\n\nA hawkish hike or a softer signal: which one does the December meeting settle?\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/btc-gdp-fed-hike-2026-11-27.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-27T02:09:58.922786Z"
     }
   ]
 }
