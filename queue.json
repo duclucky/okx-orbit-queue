@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "5b478a69173f",
-      "text": "Bitcoin dominance fell to a 50-day low after getting rejected at 61%.\n\nThe crowd reads it as good for altcoins.\n\nI read it the other way: alts are down too, Bitcoin is just being sold harder.\n\nETF redemptions sell Bitcoin specifically, so the dominance drop is the fingerprint of forced selling, not rotation.\n\nShow me altcoins leading the next bounce and I will call it rotation.\n\n$BTC #Bitcoin #Altcoins",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/btc-dominance-50d-low-ash-2026-11-20.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-20T03:50:58.639187Z"
-    },
-    {
       "id": "a1064003ebba",
       "text": "$158 million of Bitcoin longs died in the last day, and funding is near zero.\n\nThat is fresh dip buyers dying the next morning, not one crowded long getting squeezed.\n\nBitcoin is sitting on $61,326, the line it has to hold.\n\nI think the bottom calls are early until a day prints with small liquidations and a close back above that line.\n\nIf the longs die again tomorrow, the flush was never the bottom.\n\n$BTC #Bitcoin #Liquidations",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/btc-20d-low-grind-2026-11-20.png",
@@ -1831,6 +1823,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-27T03:48:42.462265Z"
+    },
+    {
+      "id": "054910b41c6c",
+      "text": "About $3.22 million in losses is what flipped this whale, not a new bull thesis.\n\nThe short closed to avoid liquidation, and the smaller long it opened dies at $1,649.15.\n\nI give the flip no bull weight until $1,649.15 holds through the next session.\n\nA converted bull or a trapped long: which one does $1,649.15 prove?\n\n$ETH #Ethereum",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/eth-whale-flip-2026-11-27.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-27T04:07:38.705926Z"
     }
   ]
 }
