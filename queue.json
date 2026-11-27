@@ -2183,6 +2183,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-27T20:51:29.112996Z"
+    },
+    {
+      "id": "86b5d2e68698",
+      "text": "The November 30 deadline is dead: GraniteShares moved it to December 31, with no reason given.\n\nThe November 27 filing covers eight leveraged funds, and a registration date is not a trading day: the funds would use swaps, not spot XRP buys, to get their leverage.\n\nI give the new date no catalyst weight until a fund names a first trading day: a deadline that moves the day before it arrives is a calendar, not a catalyst.\n\nCatalyst or calendar, December 31 settles it.\n\n$XRP #XRP",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/graniteshares-xrp-delay-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-27T21:07:27.164980Z"
     }
   ]
 }
