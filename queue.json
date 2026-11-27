@@ -1975,6 +1975,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-27T10:10:07.081665Z"
+    },
+    {
+      "id": "92b8ce63664f",
+      "text": "Zodia exposed client names and emails, and Standard Chartered rose 2.6% on the day: the market read a data leak, not a coin theft.\n\nI read the same print the other way: contact data is phishing setup, and impersonation scams surged 1,400% in 2025.\n\nNo coins moved, and no exact count was disclosed, so the exposure stays unmeasured until Zodia names how many clients were hit.\n\nContained leak or phishing setup, the first impersonation report settles it.\n\n#Custody",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/zodia-custody-breach-2026-11-27.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-27T10:21:56.973780Z"
     }
   ]
 }
