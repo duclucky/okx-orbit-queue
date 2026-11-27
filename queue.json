@@ -1951,6 +1951,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-27T09:05:29.644236Z"
+    },
+    {
+      "id": "b2e7ef3dbcba",
+      "text": "Cyber refilled 5.21 million CYBER and reopened its bridge, but the Cyber L2 routes where the fake transfer started stay shut.\n\nThe post-mortem blames a verifier key taken from a cloud system, so the fix swaps that key for four outside verifiers under multisig control.\n\nI give the reopening no trust weight until those L2 routes reopen: a bridge avoiding its own chain has not finished its answer.\n\nRepaired bridge or a bridge still on probation: the Cyber L2 reopening settles it.\n\n$CYBER #Cyber",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/cyber-bridge-reopen-2026-11-27.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-27T09:17:44.362425Z"
     }
   ]
 }
