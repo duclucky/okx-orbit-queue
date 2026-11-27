@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ca9d5423f190",
-      "text": "Hyperliquid made $19.2 million in a week, and I do not read it as growth.\n\nOpen interest fell 17.2% over the same days, and I read that as fees from traders closing out, not joining in.\n\nShow me open interest recovering and I will call it growth.\n\n$HYPE #Hyperliquid",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/hype-revenue-aixbt-2026-11-20.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-20T11:40:40.022913Z"
-    },
-    {
       "id": "fd81d44bebd5",
       "text": "$24.86 billion of Bitcoin sits in government wallets. One read says it is a dump waiting to happen.\n\nI back the other read: the US still holds 79.9% of it after the drop, and the panic is in the funds, not the state.\n\nDoes the feared dump ever come, or is it just waiting for a higher price?\n\n$BTC #Bitcoin",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/gov-btc-arkham-2026-11-20.png",
@@ -2007,6 +1999,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-27T11:16:01.526365Z"
+    },
+    {
+      "id": "5c0a8eee27fd",
+      "text": "$12.6 million left Chainflip, and the loot split down two opposite roads.\n\nThe Ethereum half reached Tornado Cash in 8 minutes 12 seconds, while the Bitcoin half sat untouched as of November 26.\n\nI read the still half as the tell: the same hands cleared the other half in minutes, so stillness is a decision, not a delay.\n\nMixer exit or trapped loot: which half tells the truth about the thief?\n\n#Chainflip #DeFi",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/chainflip-second-exploit-2026-11-27.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-27T11:41:55.263830Z"
     }
   ]
 }
