@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ae6e02b6b4dd",
-      "text": "Strategy is 84% below its record high, Bitmine 91% below its own, while Bitcoin sits about a quarter below its October peak.\n\nThe stocks peaked two years and sixteen months ago, Bitcoin one month ago.\n\nThe premium unwound for a year. Bitcoin only just joined the fall.\n\nI read this as the premium trade dying, not the coin: the leverage was in the stock, never in Bitcoin.\n\nShow me the stocks beating Bitcoin on the next up day and I will call it leverage.\n\n$MSTRB $BMNRB #Strategy #Bitcoin",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/kobeissi-mstr-bmnr-2026-11-20.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-20T02:43:10.911002Z"
-    },
-    {
       "id": "5b478a69173f",
       "text": "Bitcoin dominance fell to a 50-day low after getting rejected at 61%.\n\nThe crowd reads it as good for altcoins.\n\nI read it the other way: alts are down too, Bitcoin is just being sold harder.\n\nETF redemptions sell Bitcoin specifically, so the dominance drop is the fingerprint of forced selling, not rotation.\n\nShow me altcoins leading the next bounce and I will call it rotation.\n\n$BTC #Bitcoin #Altcoins",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/btc-dominance-50d-low-ash-2026-11-20.png",
@@ -1807,6 +1799,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-27T02:42:27.367723Z"
+    },
+    {
+      "id": "3be671e7d025",
+      "text": "A $6.3 billion theft does not end when withdrawals reopen, it ends when the stolen coins stop moving.\n\nBinance lifted every hack suspension on Thursday, yet its own status page still holds USDC back on three networks, two for low hot-wallet balances and one for security issues.\n\nI give the recovery no closed-case weight until the status page clears and the hack wallets sit still for a week.\n\nFully restored, or still restricted where it counts?\n\n#Crypto #Hacks",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/binance-recovery-2026-11-27.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-27T03:13:21.239423Z"
     }
   ]
 }
