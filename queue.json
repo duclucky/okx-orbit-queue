@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "165021daa8b6",
-      "text": "The Binance hacker moved another ~$346M of ETH, a day after shifting $248M.\n\nI read it this way: the batches keep getting bigger, and the court order has not slowed them down.\n\nDoes the freezing order catch them, or does tomorrow bring a bigger batch?\n\n$ETH #Binance #Ethereum",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/hacker-346m-scottmelker-2026-11-20.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-20T09:46:37.285759Z"
-    },
-    {
       "id": "0576040ee76b",
       "text": "$702 million liquidated in a day, and $603 million of it was longs.\n\nI read it as leverage eating its own, not capitulation: the sellers did not give up, the longs got wiped out.\n\nShow me a day the shorts take the bigger hit and I will call it a washout.\n\n#Bitcoin #Liquidations",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/liq-702m-cryptojack-2026-11-20.png",
@@ -1967,6 +1959,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-27T09:35:16.607988Z"
+    },
+    {
+      "id": "ab9445237e1b",
+      "text": "$8.9 million in three days did not make OKXICE a market, it made it a venue with two wallets doing the trading.\n\nDune counts 99.85% of that volume from two wallets tied to the pools, so the headline measures plumbing, not demand.\n\nI give the launch no demand weight until a week prints where volume no two wallets can explain.\n\nLiquidity plumbing or real demand, the next Dune update settles it.\n\n#TokenizedStocks",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/okxice-panews-2026-11-27.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-27T09:48:33.247651Z"
     }
   ]
 }
