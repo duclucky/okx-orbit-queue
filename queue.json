@@ -2647,6 +2647,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-28T16:18:38.991154Z"
+    },
+    {
+      "id": "baad5be8b6b8",
+      "text": "For 84 straight days, US buyers have bid Bitcoin below the world price. That is not patience, it is absence.\n\nCoinbase Prime still traded 157% more Bitcoin on Nov 27, so the desks moved size while the spot bid stayed under.\n\nI give the spot discount more weight than the volume: size without a premium is flow, not demand.\n\nFlow or demand, the first positive premium print settles it.\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/coinbase-premium-84-crop-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-28T16:37:56.222459Z"
     }
   ]
 }
