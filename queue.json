@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "837c8ddbdb77",
-      "text": "Selling at $1,938 to repay a loan, then selling the rest at $1,701, is not taking profits.\n\nI think the dip-buyers are catching forced sales, not a bottom: the loans decide the selling, not the chart.\n\nShow me a whale buying size into this and I will call it fear, not forced selling.\n\n$ETH #Ethereum #Whale",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/whale-0xabbd-eth-sell-2026-11-21.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-21T00:45:06.813429Z"
-    },
-    {
       "id": "02d8a85fc316",
       "text": "Zscaler closed Friday lower, then jumped 18% after hours on a $265 billion deal neither company has confirmed.\n\nI read it as the market paying a takeover premium Jay Chaudhry has not agreed to: he is Zscaler's largest shareholder, and the deal dies without him.\n\nDoes Monday confirm the talks, or does the premium evaporate first?\n\n$CRWDB #CrowdStrike #Zscaler",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/crwd-zs-deal-stocktwits-2026-11-21.png",
@@ -2279,6 +2271,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-28T00:36:09.603891Z"
+    },
+    {
+      "id": "a1bfa726bfe3",
+      "text": "A Shariah-compliant spot Bitcoin ETF listing in Malaysia is not the US ETF story in new clothes: at least 95% of its value must sit in spot Bitcoin.\n\nI give the compliance label weight as a door, not a decoration: it opens a buyer pool the US outflow wave never touched.\n\nThe listing changes no US flow on its own, and the first trading day is the test, not the prospectus.\n\nNew door or symbolic first, December 2 settles it.\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/halogen-shariah-btc-etf-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-28T00:48:39.492991Z"
     }
   ]
 }
