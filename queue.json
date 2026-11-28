@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "afa804767f1e",
-      "text": "ZEC fell 20.8% in a day and broke $700, the weakest fall among the largest coins, with no Zcash-specific trigger reported.\n\nI read the gap as forced selling, not a verdict on privacy: turnover equal to a tenth of its market value in a day is pressure, not a calm exit.\n\nTwo ETF filings and a leaking Grayscale fund did not hold a bid.\n\nShow me spot buying reclaiming $700, not a short-covering bounce in futures, and I will call this a flush rather than a break.\n\n$ZEC #Zcash #Privacy",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/zec-below-700-coinstats-2026-11-21.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-21T11:48:28.933494Z"
-    },
-    {
       "id": "bd1ca3500c15",
       "text": "Kraken's Canadian dollar pairs crashed to $25,800, not Bitcoin.\n\nIts USD book held near the global price while BTC/CAD printed 55% lower, and every CAD pair gapped the same way.\n\nI read it as the CAD rail breaking, not the asset repricing.\n\nDoes Kraken standing by the trades end the free-Bitcoin cheer, or does a rollback still come?\n\n$BTC #Kraken #Bitcoin",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/kraken-cad-coinotag-2026-11-21.png",
@@ -2535,6 +2527,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-28T11:39:28.430005Z"
+    },
+    {
+      "id": "b955ca298ec9",
+      "text": "Bitcoin broke the $68,600 floor it was never supposed to touch.\n\nThe Power Law line is drawn so history always stayed above it, and the model's fair price sits at $193,400.\n\nI read the breach as the models failing, not the market: they price time and scarcity, none prices demand, and they all miss in the same direction.\n\nBroken model or broken market, the next close above the floor settles it.\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/btc-models-decrypt-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-28T11:58:01.136705Z"
     }
   ]
 }
