@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "bd1ca3500c15",
-      "text": "Kraken's Canadian dollar pairs crashed to $25,800, not Bitcoin.\n\nIts USD book held near the global price while BTC/CAD printed 55% lower, and every CAD pair gapped the same way.\n\nI read it as the CAD rail breaking, not the asset repricing.\n\nDoes Kraken standing by the trades end the free-Bitcoin cheer, or does a rollback still come?\n\n$BTC #Kraken #Bitcoin",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/kraken-cad-coinotag-2026-11-21.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-21T13:06:35.083732Z"
-    },
-    {
       "id": "e551b824ea78",
       "text": "$594 million of stolen ETH moved in two days, and the panic reads it as a sale coming.\n\nOnchain Lens tracked it to fresh wallets and through THORChain and Chainflip, while the hacker still holds 226,665 ETH.\n\nI give the wallet-to-wallet record more weight than the dump story, because a sale needs an exchange book and none is on the record.\n\nDoes the next move land on an exchange, or does the stash keep sitting while the trail goes cold?\n\n$ETH #Ethereum #THORChain",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/binance-hacker-594m-2026-11-21.png",
@@ -2567,6 +2559,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-28T12:48:55.391230Z"
+    },
+    {
+      "id": "58f180cf06c9",
+      "text": "A containable leak does not need a shipping halt, and Nvidia just told Dell and Super Micro to stop shipping to four countries.\n\nDan Ives calls the China loophole containable at 15% to 20% of revenue, and stays bullish after stress-testing a fifth of earnings away.\n\nI give the halt more weight than the multiple: a halt ordered while compliance is still being worked out is not a capped risk.\n\nContainable leak or a widening rulebook: which does the December 1 interview settle?\n\n$NVDAB #Nvidia",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/nvdab-ives-halt-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-28T13:07:25.997242Z"
     }
   ]
 }
