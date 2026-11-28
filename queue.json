@@ -2511,6 +2511,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-28T10:19:09.724353Z"
+    },
+    {
+      "id": "69bbcc2f589d",
+      "text": "A $5.57 billion market pausing swaps after a security review whose findings it has not disclosed is not routine maintenance, it is a disclosure gap.\n\nFluid kept lending, borrowing and withdrawals running, so the pause is aimed at the trading code, not the whole protocol.\n\nI read the silence as the review finding something worth fixing before it says so, not as a scheduled check.\n\nPrecaution or a found flaw, Fluid's own disclosure settles it.\n\n#DeFi #Fluid",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/fluid-mythos-pause-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-28T10:36:32.112612Z"
     }
   ]
 }
