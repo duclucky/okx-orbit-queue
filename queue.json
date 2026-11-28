@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "2937c42122fb",
-      "text": "$136 million of shorts died in the hour Bitcoin took back $60,000.\n\nI read it as a squeeze, not a rescue: the longs paid all week, then the shorts paid in an hour, and forced covering did the buying.\n\nDoes Bitcoin close the day back above $60,000, or hand the level straight back?\n\n$BTC #Bitcoin",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/shorts-liquidated-136m-2026-11-21.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-21T15:44:31.631214Z"
-    },
-    {
       "id": "d4b44006c81a",
       "text": "The Ledger drain was $95.35 million, not the October estimate, and the gap is the story.\n\nArkham traces the theft to a compromised official Ledger reseller, across more than a thousand reported user addresses.\n\nI read the $10 million Tether froze as the part that moved too slowly, not a recovery: six weeks on, the rest has already left those addresses.\n\nDoes the frozen share grow from here, or does the trail go cold?\n\n$ETH #Ledger #Arkham",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/ledger-drain-arkham-2026-11-21.png",
@@ -2639,6 +2631,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-28T15:36:29.631428Z"
+    },
+    {
+      "id": "2b30dee5b4e0",
+      "text": "A 25.8% average unrealized loss on coins bought at $81,900 is the traders' pain, not the market's verdict.\n\nThe one-to-three-month cohort is the sample CryptoQuant's analyst calls the best mirror of active traders, so it measures the likeliest sellers of a bounce, not the holders who set a bottom.\n\nI give the cohort no bottom weight until leverage and long-held supply reset, its analyst's own condition.\n\nExhaustion or exit queue: which does the next bounce prove?\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/sth-loss-258-crop-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-28T15:49:25.215004Z"
     }
   ]
 }
