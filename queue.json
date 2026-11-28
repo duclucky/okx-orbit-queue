@@ -2583,6 +2583,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-28T13:37:57.260882Z"
+    },
+    {
+      "id": "0034e9a8f459",
+      "text": "Shorts pay 221% a year to stay short on Hyperliquid while Binance charges longs the 11% baseline: one coin, two opposite carry prices.\n\nI read it as the price of exit, not a price call: KuCoin delists Monero on November 30, deposits already closed, and the perp sits below its index.\n\nCrowded short or venue discount, the delisting settles it.\n\n$XMR #Monero",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/xmr-funding-split-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-28T13:48:46.165605Z"
     }
   ]
 }
