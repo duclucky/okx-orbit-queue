@@ -2327,6 +2327,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-28T02:45:44.458218Z"
+    },
+    {
+      "id": "3bd268ff0424",
+      "text": "That 527,800 SOL unstake is not a rebalance: it is a wallet trackers link to Forward chairman Kyle Samani turning stake into dollars.\n\nIt sent coins to FalconX and $10 million in USDC came back out, while Anza urged every validator to upgrade at once.\n\nI give the upgrade notice no weight against that pipeline: patching the client does not put staked coins back.\n\nActive management or quiet exit, the wallet's next move settles it.\n\n$SOL #Solana",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/samani-sol-unstake-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-28T03:07:24.146967Z"
     }
   ]
 }
