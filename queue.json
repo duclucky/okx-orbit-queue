@@ -1,22 +1,6 @@
 {
   "jobs": [
     {
-      "id": "708888f6a410",
-      "text": "Schiff says ETH crashes to $1,000 by Monday, but it broke $1,600 twice and bought it back both times.\n\nI think his call needs a weekend crash in thin liquidity, and the tape already bought the dip twice.\n\nDoes Monday close under $1,600, or does Schiff's $1,000 stay a taunt?\n\n$ETH #Ethereum #Crypto",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/schiff-eth-1000-2026-11-21.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-21T03:32:56.789519Z"
-    },
-    {
-      "id": "d52c5a369d60",
-      "text": "AguilaTrades banked $6.87M shorting Bitcoin, then queued to short it again from $59,800.\n\nI give his order more weight than the bottom calls: he just got paid for being right, they are guessing for free.\n\nDip-buyers or AguilaTrades: who owns $59,800?\n\n$BTC #Bitcoin #Hyperliquid",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/aguila-close-2026-11-21.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-21T03:42:24.570512Z"
-    },
-    {
       "id": "d32b553889ae",
       "text": "$77.69 is a new 52-week low, and the analysts still call Strategy a Moderate Buy at $232.80.\n\nI give Friday's print more weight than the target: one is a trade, the other is a forecast, and the index funds still have to sell before MSCI throws the stock out at the November close.\n\nWho is wrong on Monday: the analysts, or the tape?\n\n$MSTRB #Strategy #MSTR",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/mstr-chart-tv-2026-11-21.png",
@@ -2343,6 +2327,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-28T03:22:48.563353Z"
+    },
+    {
+      "id": "acaadd1300c3",
+      "text": "Anthropic's $83 IPO price broke on Tuesday and Friday's $91.88 close does not settle it.\n\nI read the reclaim as a thin-float vote, not a floor yet: coverage this week came from analysts outside the underwriting banks, and the first real supply test is still ahead.\n\nFloor reclaimed or borrowed bounce, December 15 settles it.\n\n$ANTB #Anthropic",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/anthropic-ipo-reclaim-2026-11-28-cb.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-28T03:49:23.398677Z"
     }
   ]
 }
