@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "5c9d79c4e2c1",
-      "text": "$4.86 million did not get hacked out of Chainflip's vault, it was signed out in one transaction.\n\nI read that as a compromised key, not a broken contract, because that signature is the only one of 299,677 to break Chainflip's running count.\n\nIf the key was not leaked, show me a valid signature that breaks the count.\n\n#Chainflip #DeFi",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/chainflip-exploit-bitquery-2026-11-22.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-21T20:51:19.450223Z"
-    },
-    {
       "id": "c89c87625554",
       "text": "$68.8 million of short liquidations bought Bitcoin back above $60,000 from a two-year low, and that is covering, not a reclaim.\n\nI give that bounce no weight as fresh buying until Monday holds $60,000 without a new liquidation wave.\n\nShow me buyers stepping in after the shorts finish closing, and I will call it a reclaim.\n\n$BTC #Bitcoin #Liquidations",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/btc-squeeze-coinscreamer-2026-11-22.png",
@@ -2759,6 +2751,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-28T20:46:30.983232Z"
+    },
+    {
+      "id": "d501f87f08fb",
+      "text": "$24.61 on Wednesday, $36.57 on Friday: SOXL shares did not recover, they reset.\n\nThe fund resets its triple leverage daily, so a strong index day triples by construction, and Friday never traded below Wednesday's close.\n\nI give the bounce no recovery weight until the chip index holds again: a reset day proves the arithmetic, not the demand.\n\nReset or recovery, Monday's index print settles it.\n\n$SOXLB #SOXL #Semiconductors",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/soxl-reset-2026-11-29.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-28T21:04:22.758573Z"
     }
   ]
 }
