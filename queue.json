@@ -2535,6 +2535,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-28T11:58:01.136705Z"
+    },
+    {
+      "id": "00b711ce88bf",
+      "text": "The ECB's nominated next chief is continuity in a new suit: the 1,250% risk weight on bank-held bitcoin is his record.\n\nAt Jackson Hole he said stablecoins cannot carry payments at scale, then offered tokenized deposits instead: the same blockchain, but the liability stays with a bank.\n\nI read that as a choice of issuer, not of technology: the rails are welcome, private money is not.\n\nTokenized deposits or stablecoins, which one carries Europe's payments after confirmation?\n\n#ECB #Stablecoins",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/ecb-hernandez-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-28T12:08:02.375045Z"
     }
   ]
 }
