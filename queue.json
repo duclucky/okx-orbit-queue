@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "4fafa306b4b9",
-      "text": "The ECB is not joining tokenization, it is fencing it off: applications for its own tokenized-deposit tests close Dec. 11.\n\nThe tests settle in simulated central bank money, through consortia of regulated firms, not on crypto rails.\n\nI read that as a walled garden, not an open door, and the 2028 blueprint is the tell: this is a timetable, not an embrace.\n\nIs this Europe building a tokenized market, or the ECB locking the design to itself?\n\n#ECB #Tokenization",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/ecb-appia-watcherguru-2026-11-21.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-21T16:45:19.306451Z"
-    },
-    {
       "id": "c045078ef301",
       "text": "Three newly created wallets opened about $31 million in 20x longs on BTC and ETH, while Hyperliquid open interest has nearly halved from its September peak.\n\nI read the three wallets as one bet split three ways until the chain proves otherwise, and one bet does not refill the leverage that just left.\n\nNew money stepping in, or one whale hiding a single bet behind three new addresses?\n\n$BTC $ETH #Bitcoin #Ethereum",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/fresh-wallets-20x-longs-lookonchain-2026-11-22.png",
@@ -2655,6 +2647,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-28T16:37:56.222459Z"
+    },
+    {
+      "id": "d13256dca383",
+      "text": "$290 million buys the end of a seven-year case without buying the plaintiffs' count.\n\nNvidia counted GeForce sales as gaming revenue by what the card was; the plaintiffs counted $1.1 billion of them as crypto demand by why the buyer bought it.\n\nI give the settlement no concession weight: insurers fund most of it, Nvidia admits nothing, and a judge still has to approve it.\n\nClosure bought or count conceded: which does the February hearing prove?\n\n$NVDAB #Nvidia #TokenizedStocks",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/nvidia-settlement-290m-crop-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-28T16:57:17.756312Z"
     }
   ]
 }
