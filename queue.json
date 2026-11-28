@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "706673ed9aee",
-      "text": "$1.76 billion liquidated in 24 hours was not a Bitcoin-only number: chip-stock bets on crypto venues were closed in the same pile.\n\nEither the crypto crash dragged those bets down with it, or the chip rout arrived on crypto rails first; I give the second more weight, because SOXL's $36 million, roughly double XRP's, is leverage tracking Nasdaq shares, not coins.\n\nShow me the next CoinGlass split with SOXL back below XRP and I will call this a one-day spillover.\n\n$BTC #Bitcoin #Liquidations",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/stock-linked-liquidations-2026-11-21.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-21T09:02:01.746104Z"
-    },
-    {
       "id": "bfc5e8d86292",
       "text": "One wallet borrowed $20 million to buy ETH on the dip. The same day, an Ethereum Foundation-linked wallet sold 2,500 ETH.\n\nI read it as two bets on the same fall: borrowed money has to be repaid, a sale does not.\n\nDoes the buyer get bailed out by a bounce, or does the seller's exit mark the dip buyers early?\n\n$ETH #Ethereum #Whales",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/seven-siblings-eth-lookonchain-2026-11-21.png",
@@ -2471,6 +2463,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-28T08:49:25.680694Z"
+    },
+    {
+      "id": "e7790e9f82de",
+      "text": "NEAR is pricing in a supply cut that has not started yet, on $16.2 million of ETF money.\n\nThe cut needs a validator upgrade and a grace quarter first, while NEAR Intents already buys back tokens from swap revenue.\n\nI give the November 25 inflow more weight than the vote: one fund's money arrived before a single token went un-minted.\n\nSupply promise or one fund's day, the $3.29 close settles it.\n\n$NEAR #NEARProtocol",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/near-issuance-cut-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-28T09:05:39.657708Z"
     }
   ]
 }
