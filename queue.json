@@ -2399,6 +2399,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-28T06:06:46.288863Z"
+    },
+    {
+      "id": "3b0142e0be64",
+      "text": "Buying again at $1,698 after paying $2,400 is not a flip, it is averaging down into staking.\n\nI read it as conviction: the same address sold Bitcoin in both tranches and staked every coin it bought, instead of leaving the second buy liquid.\n\nIf those coins leave staking, the conviction read fails.\n\nStaking conviction or doubling down, which one is the second tranche?\n\n$BTC $ETH #Ethereum",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/whale-101960-eth-stake-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-28T06:16:28.803276Z"
     }
   ]
 }
