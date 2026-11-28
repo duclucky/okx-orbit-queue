@@ -2423,6 +2423,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-28T06:48:14.352742Z"
+    },
+    {
+      "id": "5b7bce88e9c8",
+      "text": "31.55% in one hour is not holders selling: it is longs being flushed through the level the reserve sale had just marked.\n\nI read it as a cascade, not a verdict on the token: $11.05 million in forced long closes in that hour, with barely a short touched.\n\nIf spot buyers reclaim the pre-crash print without a new reserve sale, the cascade read fails.\n\nThe next hour of liquidations decides it: cascade, or capitulation.\n\n$WLFI $ETH #WLFI",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/wlfi-crash-31pct-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-28T07:07:01.833869Z"
     }
   ]
 }
