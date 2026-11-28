@@ -2431,6 +2431,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-28T07:07:01.833869Z"
+    },
+    {
+      "id": "b82bbfa8ef6f",
+      "text": "A 167-year-old draft proof is not a broken key: it argues a prime-number question, not a private key.\n\nK33 noted the proof gives no method for deriving a private key from a public one, and the P versus NP question behind the fear is still unsolved.\n\nI give the scare no weight until someone shows a working key recovery, not another theorem.\n\nTheorem or threat: which one does the first recovered key prove?\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/k33-riemann-btc-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-28T07:16:57.523617Z"
     }
   ]
 }
