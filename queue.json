@@ -2407,6 +2407,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-28T06:16:28.803276Z"
+    },
+    {
+      "id": "3f72177280dc",
+      "text": "A 98-minute gap is not a failing network: the same four days averaged 10.02 minutes a block.\n\nBlocks arrive at random around a 10-minute target, and the next morning the network raised difficulty anyway.\n\nI read the gap as variance, not capitulation: a second wait past 98 minutes before the next retarget would prove the tail is the trend.\n\nVariance or capitulation, the next retarget settles it.\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/block-gap-98min-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-28T06:39:35.706732Z"
     }
   ]
 }
