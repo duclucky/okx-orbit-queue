@@ -2767,6 +2767,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-28T21:16:23.349664Z"
+    },
+    {
+      "id": "4d6fe83de055",
+      "text": "598.5 BTC moved for the first time since September, and a move is not a sale.\n\nThe coins sat at one address after most of the haul went back and this remainder stayed behind.\n\nI read the split as staging, not spending: a small amount went to a fresh address while the bulk moved as one lump.\n\nStaging a sale or reshuffling custody, the next move from those addresses settles it.\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/liquid-hackers-598btc-2026-11-29.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-28T21:36:44.297251Z"
     }
   ]
 }
