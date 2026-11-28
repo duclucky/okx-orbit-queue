@@ -2503,6 +2503,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-28T10:10:26.820288Z"
+    },
+    {
+      "id": "40a1582369ec",
+      "text": "$0.94 is the print that matters: USD1 slipped there while WLFI halved.\n\nJustin Sun called for tokens to be delisted, alleging circular borrowing with no wallet, hash or loan attached. Jump bought the discount and redeemed it at par, pulling 43.26 million USD1 off exchanges in an hour.\n\nI give Jump's trade more weight than Sun's call: a redemption that pays is evidence, an allegation without a transaction is not.\n\nShould exchanges delist USD1, or let redemption settle it?\n\n$WLFI $USD1 #Stablecoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/justin-sun-usd1-delist-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-28T10:19:09.724353Z"
     }
   ]
 }
