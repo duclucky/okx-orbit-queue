@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "0776238774fc",
-      "text": "The biggest HYPE long was once up over $68 million. Now the whale topped it up with fresh USDC just to keep it alive.\n\nI read the top-up as defense, not conviction: the liquidation price is $54.55, and the low came within two dollars of it.\n\nDoes $54.55 hold, or does the biggest long become the next liquidation?\n\n$HYPE #Hyperliquid",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/hype-whale-lookonchain-2026-11-21.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-21T08:18:01.519226Z"
-    },
-    {
       "id": "706673ed9aee",
       "text": "$1.76 billion liquidated in 24 hours was not a Bitcoin-only number: chip-stock bets on crypto venues were closed in the same pile.\n\nEither the crypto crash dragged those bets down with it, or the chip rout arrived on crypto rails first; I give the second more weight, because SOXL's $36 million, roughly double XRP's, is leverage tracking Nasdaq shares, not coins.\n\nShow me the next CoinGlass split with SOXL back below XRP and I will call this a one-day spillover.\n\n$BTC #Bitcoin #Liquidations",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/stock-linked-liquidations-2026-11-21.png",
@@ -2463,6 +2455,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-28T08:15:57.750276Z"
+    },
+    {
+      "id": "c4acf08f4f64",
+      "text": "700,000 shares a day is SK hynix buying its own floor after a 62.8% fall from its June peak.\n\nThe filing calls the shares undervalued, so the company is now the buyer the sellers have been betting against.\n\nI give Monday's first doubled order more weight than Friday's rebound.\n\nFloor or a signal, Monday's first doubled order settles it.\n\n$SKHYB #SKHynix #TokenizedStocks",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/skhyb-buyback-koreaherald-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-28T08:35:06.950109Z"
     }
   ]
 }
