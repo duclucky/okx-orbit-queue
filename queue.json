@@ -2687,6 +2687,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-28T18:14:08.072717Z"
+    },
+    {
+      "id": "2a34d004d870",
+      "text": "$553 million moved in a single Bitcoin transfer, and I read it as custody, not a sale: no exchange wallet is named on either side.\n\nExchanges netted $127.1 million of Bitcoin inflows over the same window, and that aggregate, not one wallet, is where selling pressure would show.\n\nShuffle or staging, the receiving wallet's next move settles it.\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/whale-9246-btc-blockdeck-2026-11-29.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-28T18:17:12.122485Z"
     }
   ]
 }
