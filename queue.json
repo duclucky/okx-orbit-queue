@@ -2527,6 +2527,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-28T11:16:41.873052Z"
+    },
+    {
+      "id": "42e9f14e9f7f",
+      "text": "$50 now opens a leveraged position in one transaction: friction removed, not risk removed.\n\nThe old way looped deposits, borrows and swaps by hand, each step a chance to stop; Aave Pro runs that loop behind one signature, on a V3 flash loan and a CoW Swap.\n\nI give the signature more weight than the preview: the multiplier can rise again from the same screen, and the health factor still liquidates below 1.\n\nConvenience or compression, which one does the next liquidation wave prove?\n\n#Aave #DeFi",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/aave-pro-leverage-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-28T11:39:28.430005Z"
     }
   ]
 }
