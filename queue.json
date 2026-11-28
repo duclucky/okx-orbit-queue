@@ -2551,6 +2551,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-28T12:17:28.023798Z"
+    },
+    {
+      "id": "f9ec5a68e783",
+      "text": "Binance swapping 7,500 BTC out of SAFU for $500 million in USDC settles what SAFU is for.\n\nThe fund went all bitcoin in February on conviction, was tapped in October, and now returns to dollars on a regulatory requirement Binance will not name.\n\nI give the stability read more weight: USDC pays a claim at par, while bitcoin pays it only after a sale into the same stressed market.\n\nStability or signal, which one does the unnamed requirement settle when Binance names it?\n\n$BTC $USDC #SAFU",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/binance-safu-usdc-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-28T12:40:25.232480Z"
     }
   ]
 }
