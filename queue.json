@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "4486e6f2e064",
-      "text": "$124.5M, down from $582.3M, is not proof the ETF selling stopped while BlackRock's IBIT is still blank.\n\nEther's posted outflow shrank the same way, with ETHA blank too, so both slowdowns share the same hole.\n\nI give Friday's slowdown no weight until the missing funds print, because Thursday's selling was IBIT and ETHA doing almost all of it.\n\nSelling eased, or the table just has not finished printing?\n\n$BTC $ETH #Bitcoin #Ethereum",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/etf-friday-btc-whaleroom-2026-11-22.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-21T18:54:01.824937Z"
-    },
-    {
       "id": "32f9c698941d",
       "text": "Nvidia fell 14% on Friday to $125.53, the day Reuters reported the SEC is probing its accounting.\n\nI give the probe more weight than Tuesday's record revenue, because the shares were already down before the report landed and fell harder after it.\n\nDoes Monday treat the probe as noise and bounce, or does the accounting question take over the story?\n\n$NVDAB #NVIDIA #SEC",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/nvda-chart-2026-11-22.png",
@@ -2711,6 +2703,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-28T18:49:41.790990Z"
+    },
+    {
+      "id": "02a5026df86e",
+      "text": "$37.90 above spot is not a premium, it is a refusal: December CME futures will not pay even the overnight rate to carry Bitcoin into Monday.\n\nI give that 0.86% gross carry no leverage weight until Monday's funding print pays more than cash does, because a basis trade that loses to cash is a trade nobody takes.\n\nCarry pays or funding bites, which side does Monday's print land on?\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/btc-futures-3790-premium-2026-11-29.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-28T19:04:33.397151Z"
     }
   ]
 }
