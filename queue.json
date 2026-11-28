@@ -2383,6 +2383,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-28T05:16:21.304267Z"
+    },
+    {
+      "id": "e4110462dde9",
+      "text": "7,186 BTC changed wallets, and a transfer is not a purchase.\n\nI read it as custody plumbing, not a buyer: the sender is a regulated custodian, and no buyer was ever named.\n\nIf Börse Stuttgart names a client behind the receiving wallet, the plumbing read fails.\n\nAccumulation or a custody reshuffle, the wallet's next move settles it.\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/borse-stuttgart-7186-panews-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-28T05:34:37.515499Z"
     }
   ]
 }
