@@ -2519,6 +2519,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-28T10:48:04.055554Z"
+    },
+    {
+      "id": "2c185cd88b55",
+      "text": "201.05 million tokens for about $60,300 is not a broken contract, it is one stolen key rewriting a bridge.\n\nBlockaid says the key upgraded Atoshi's live router into a drain-only contract. Atoshi says a developer clicked a phishing link on Telegram and lost the bridge key.\n\nI read this as a bridge built to be rewritten by its keyholder, not a contract that failed on its own.\n\nClicked link or rewritable bridge, Atoshi's key-control disclosure settles it.\n\n$ATOS #Security #DeFi",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/atoshi-bridge-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-28T11:16:41.873052Z"
     }
   ]
 }
