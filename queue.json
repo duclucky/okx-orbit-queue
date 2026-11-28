@@ -2351,6 +2351,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-28T04:09:26.807514Z"
+    },
+    {
+      "id": "e8297debb2d8",
+      "text": "A $59.7 million short opened in under an hour is not a fresh bet. It is a stopped-out long.\n\nCobalt Marlin flipped a $48.2 million long into that short, and wallet 0x8b61…c0c2 flipped the other way, into a long.\n\nI read the short as the weaker flip: it was born from a loss, and the next WhaleRadar print shows whether it adds or folds first.\n\nCobalt's short or the counter-wallet's long: which flip does the next move pay first?\n\n$BTC #Hyperliquid",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/cobalt-marlin-flip-whaleradar-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-28T04:20:18.945076Z"
     }
   ]
 }
