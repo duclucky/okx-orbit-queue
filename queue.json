@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "f86aa2e20537",
-      "text": "$343 million of BTC left Binance and Kraken in eight hours, and the crowd calls it accumulation.\n\nThree days ago Abraxas cleared every on-chain holding it had after a leaked API key cost it $10.39 million. I read this withdrawal as a firm pulling its coins home, not a fund buying the dip.\n\nShow me those coins sitting still for a month and I will call it accumulation.\n\n$BTC #Bitcoin #Lookonchain",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/abraxas-withdrawal-lookonchain-2026-11-21.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-21T05:41:15.707442Z"
-    },
-    {
       "id": "81cd78f2e7b2",
       "text": "Yesterday the two biggest treasuries were $24.2 billion underwater. Today they are $27.9 billion underwater.\n\nI give the overnight change more weight than either snapshot: the floor is becoming the bag faster than the buyers can defend it, and Strategy's stock now trades below the value of the coins it holds.\n\nDo the treasuries buy again this week, or does the bag keep growing?\n\n$BTC $ETH #Bitcoin #Ethereum",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/strategy-bitmine-losses-kucoin-2026-11-21.png",
@@ -2391,6 +2383,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-28T05:34:37.515499Z"
+    },
+    {
+      "id": "5cdf687c08fa",
+      "text": "Not spending was this year's winning trade: Apple shares are up 30.8% while Alphabet shares are down 12.7%.\n\nTokens trade at par to both shares: Alphabet raised spending and bled cash, Apple kept its bill thin and returned the cash.\n\nI give the bill more weight than Friday's rebound: if Alphabet outruns Apple by Monday's close, I am wrong.\n\nRestraint rewarded or spending forgiven: which one does Monday's close prove?\n\n$AAPLB $GOOGLB #TokenizedStocks",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/aapl-googl-capex-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-28T05:47:22.993800Z"
     }
   ]
 }
