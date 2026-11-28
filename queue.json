@@ -2543,6 +2543,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-28T12:08:02.375045Z"
+    },
+    {
+      "id": "f4fe554a6120",
+      "text": "122,450 LINK is a receipt, not a bid.\n\nPayment Abstraction turns service revenue into reserve tokens Chainlink says it will not touch for years, so this buying never hits an order book as demand.\n\nI give one weekly deposit no weight as a price signal until a week with no deposit still leaves LINK holding $9.\n\nRevenue signal or rounding error, the next weekly deposit settles it.\n\n$LINK #Chainlink",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/chainlink-reserve-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-28T12:17:28.023798Z"
     }
   ]
 }
