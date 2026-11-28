@@ -2359,6 +2359,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-28T04:20:18.945076Z"
+    },
+    {
+      "id": "340d98425423",
+      "text": "$49.63 looked like a token premium while the shares were shut. Friday's shares closed at $49.29.\n\nI read that as the token clock telling the truth: it priced the recovery while the share clock was stopped.\n\nAgreed clocks or a split again, Monday's open settles it.\n\n$CRCLB #Circle",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/crcl-receipt-4929-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-28T04:38:34.306414Z"
     }
   ]
 }
