@@ -2271,6 +2271,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-28T00:23:13.609698Z"
+    },
+    {
+      "id": "617dc1ca5178",
+      "text": "The Nasdaq closed up 2.31% on Friday while Bitcoin ended at $59,818: one market took the relief, the other did not.\n\nThe chip complex bid again on thin tape in a shortened session, and Bitcoin still closed down after giving back Thursday's ground.\n\nI read that as demand staying out, not as the expiry clearing the book: the morning flush was mechanical, the close was not.\n\nDemand split or thin-tape accident: which one does Monday's full session prove?\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/nasdaq-btc-divergence-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-28T00:36:09.603891Z"
     }
   ]
 }
