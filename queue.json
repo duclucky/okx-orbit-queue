@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "c045078ef301",
-      "text": "Three newly created wallets opened about $31 million in 20x longs on BTC and ETH, while Hyperliquid open interest has nearly halved from its September peak.\n\nI read the three wallets as one bet split three ways until the chain proves otherwise, and one bet does not refill the leverage that just left.\n\nNew money stepping in, or one whale hiding a single bet behind three new addresses?\n\n$BTC $ETH #Bitcoin #Ethereum",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/fresh-wallets-20x-longs-lookonchain-2026-11-22.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-21T17:43:13.322556Z"
-    },
-    {
       "id": "4486e6f2e064",
       "text": "$124.5M, down from $582.3M, is not proof the ETF selling stopped while BlackRock's IBIT is still blank.\n\nEther's posted outflow shrank the same way, with ETHA blank too, so both slowdowns share the same hole.\n\nI give Friday's slowdown no weight until the missing funds print, because Thursday's selling was IBIT and ETHA doing almost all of it.\n\nSelling eased, or the table just has not finished printing?\n\n$BTC $ETH #Bitcoin #Ethereum",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/etf-friday-btc-whaleroom-2026-11-22.png",
@@ -2679,6 +2671,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-28T17:33:29.877188Z"
+    },
+    {
+      "id": "1207b92ed4d9",
+      "text": "$12.6 million left Chainflip's BTC and ETH vaults without breaking its threshold at all.\n\nThe update names the flaw in libzmq: a use-after-free let the attacker run code on validators and copy enough key shares to sign without the network.\n\nI give that finding more weight than the hack label: registration alone opened the peer connection, so the door was permissionless entry, not a broken scheme.\n\nWhitelist or open entry: which restart term proves it?\n\n$BTC $ETH #Chainflip #DeFi",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/chainflip-libzmq-2026-11-29.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-28T17:51:43.437291Z"
     }
   ]
 }
