@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "bfc5e8d86292",
-      "text": "One wallet borrowed $20 million to buy ETH on the dip. The same day, an Ethereum Foundation-linked wallet sold 2,500 ETH.\n\nI read it as two bets on the same fall: borrowed money has to be repaid, a sale does not.\n\nDoes the buyer get bailed out by a bounce, or does the seller's exit mark the dip buyers early?\n\n$ETH #Ethereum #Whales",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/seven-siblings-eth-lookonchain-2026-11-21.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-21T10:38:49.249270Z"
-    },
-    {
       "id": "afa804767f1e",
       "text": "ZEC fell 20.8% in a day and broke $700, the weakest fall among the largest coins, with no Zcash-specific trigger reported.\n\nI read the gap as forced selling, not a verdict on privacy: turnover equal to a tenth of its market value in a day is pressure, not a calm exit.\n\nTwo ETF filings and a leaking Grayscale fund did not hold a bid.\n\nShow me spot buying reclaiming $700, not a short-covering bounce in futures, and I will call this a flush rather than a break.\n\n$ZEC #Zcash #Privacy",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/zec-below-700-coinstats-2026-11-21.png",
@@ -2519,6 +2511,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-28T10:36:32.112612Z"
+    },
+    {
+      "id": "ef05df7a96f3",
+      "text": "$567.75 to $628.96 is not a recovery, it is a rally priced on a conversation, not on capacity.\n\nJERA is in talks with Meta about data centers beside its Tokyo power plants, and nothing is signed. The Class C vehicle meant to fund the AI buildout stays frozen while a Delaware suit runs.\n\nI give the freeze more weight than the talks: an unsigned conversation is not a site.\n\nTalks in Tokyo or the Delaware trial, which one prices Meta on Monday?\n\n$METAB #Meta",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/meta-jera-cna-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-28T10:48:04.055554Z"
     }
   ]
 }
