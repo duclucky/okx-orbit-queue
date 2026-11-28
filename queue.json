@@ -2743,6 +2743,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-28T20:20:04.220702Z"
+    },
+    {
+      "id": "e9886920fd5e",
+      "text": "$173.58 billion of USDT was due back on Bitcoin on November 28, and the date passed with no launch and no new date.\n\nUtexo's own documentation still points developers at Signet, the test network, and calls Lightning test-only.\n\nI read that as a rail that was never ready, not a calendar clash: partner software must understand RGB state before one transfer works.\n\nCoordination delay or a launch that was never ready: which does the missing date prove?\n\n$USDT #USDT #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/utexo-usdt-delay-crop-2026-11-29.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-28T20:38:54.702547Z"
     }
   ]
 }
