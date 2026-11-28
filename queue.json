@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "94e14d8a9067",
-      "text": "Schiff says Bitcoin crashes below $10,000. That is a 92% drawdown from the peak.\n\nI think his call needs the deepest drawdown since 2011, and this tape has not earned that yet.\n\nSo which is it: Schiff's 92%, or another bear call the tape outlives?\n\n$BTC #Bitcoin #Crypto",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/schiff-drawdowns-2026-11-21.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-21T01:54:51.365347Z"
-    },
-    {
       "id": "708888f6a410",
       "text": "Schiff says ETH crashes to $1,000 by Monday, but it broke $1,600 twice and bought it back both times.\n\nI think his call needs a weekend crash in thin liquidity, and the tape already bought the dip twice.\n\nDoes Monday close under $1,600, or does Schiff's $1,000 stay a taunt?\n\n$ETH #Ethereum #Crypto",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/schiff-eth-1000-2026-11-21.png",
@@ -2303,6 +2295,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-28T01:45:30.131168Z"
+    },
+    {
+      "id": "b000dc97460a",
+      "text": "A 91.4% seven-day deposit share looks like XRP holders rushing to Binance to sell.\n\nI read it as a counting artefact: the share counts transactions, not tokens, and Binance took only 26.5% of the month's exchange inflows by token volume.\n\nA flood of small deposits prints the same headline as a whale exit, while every other exchange sat near balance.\n\nSelling wave or counting artefact, the next CryptoQuant print settles it.\n\n$XRP #XRP",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/xrp-deposit-share-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-28T02:02:48.196492Z"
     }
   ]
 }
