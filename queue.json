@@ -2591,6 +2591,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-28T14:19:58.023343Z"
+    },
+    {
+      "id": "08680f4179e0",
+      "text": "The $64,860.1 liquidation line is the whole trade: a leveraged short now worth $59.1 million, opened by a trader with a coin-flip record.\n\nI read it as size, not accuracy, getting paid: he won barely half his trades.\n\nCoin flip or real edge: does the line take him out, or does the short keep paying?\n\n$BTC #Hyperliquid",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/whale-0488-phemex-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-28T14:25:58.290429Z"
     }
   ]
 }
