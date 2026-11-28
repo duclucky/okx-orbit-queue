@@ -2415,6 +2415,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-28T06:39:35.706732Z"
+    },
+    {
+      "id": "e529d1ce8a18",
+      "text": "Micron closed at $646.95, still below the $775 target from BNP's Tuesday cut.\n\nBNP reads the balance arriving in mid-2027. Goldman reads shortage through 2027, with balance only in 2028. One Friday rebound fits both calendars.\n\nI read the close as a rebound, not a repricing: it followed two down sessions, and neither calendar has been tested by a contract print yet.\n\nBalance in mid-2027 or shortage through 2028: which one does December 17 settle?\n\n$MUB #Micron",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/mub-bnp-goldman-calendar-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-28T06:48:14.352742Z"
     }
   ]
 }
