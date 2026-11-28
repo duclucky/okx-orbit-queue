@@ -2263,6 +2263,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-28T00:08:54.351298Z"
+    },
+    {
+      "id": "a997459f010d",
+      "text": "58% of tracked whale money sits short, the rest of Hyperliquid 66% long: I read that split as a venue mirror, not a market verdict.\n\nThe sample is the largest wallets on one exchange, and a smaller sample reads the same sign at a different size: the sign holds, the size does not.\n\nI give the lean weight only as positioning on that venue: a short can hedge spot the tracker never sees, and one wallet is labeled a hedger outright.\n\nHedge or bet, the next forced close settles it.\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/whaleradar-whales-vs-rest-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-28T00:23:13.609698Z"
     }
   ]
 }
