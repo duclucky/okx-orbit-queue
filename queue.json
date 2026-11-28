@@ -2375,6 +2375,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-28T05:04:34.598568Z"
+    },
+    {
+      "id": "5b204968564d",
+      "text": "A $19.26 million realized loss on a reserve sale is not de-risking: it is the sponsor selling its own cushion at about half what it paid.\n\nI give that sale more weight than market-wide fear, since ETH absorbed it without a matching fall while WLFI liquidations were all longs, and the WLFI print at $0.0317 says holders priced the sale itself.\n\nDe-risking or distress, which does the next reserve-wallet move prove?\n\n$WLFI $ETH #WLFI",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/wlfi-reserve-sale-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-28T05:16:21.304267Z"
     }
   ]
 }
