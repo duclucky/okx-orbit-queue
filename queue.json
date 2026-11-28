@@ -2311,6 +2311,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-28T02:24:12.888952Z"
+    },
+    {
+      "id": "a730153ad7a8",
+      "text": "The question is no longer one rack in Shanghai: customs records count more than 136,000 GPUs against roughly 86,000 Nvidia cataloged.\n\nOne ledger counts imports at the border, the other counts machines Nvidia's checks could see, and neither ledger names where the difference went.\n\nI give the ledger gap more weight than the single rack: no audit has proven diversion, and no filing has closed the gap.\n\nUnaccounted chips or unreconciled paperwork, the December 3 hearing settles it.\n\n$NVDAB #Nvidia",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/nvdab-ledger-gap-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-28T02:34:14.143048Z"
     }
   ]
 }
