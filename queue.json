@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "32f9c698941d",
-      "text": "Nvidia fell 14% on Friday to $125.53, the day Reuters reported the SEC is probing its accounting.\n\nI give the probe more weight than Tuesday's record revenue, because the shares were already down before the report landed and fell harder after it.\n\nDoes Monday treat the probe as noise and bounce, or does the accounting question take over the story?\n\n$NVDAB #NVIDIA #SEC",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/nvda-chart-2026-11-22.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-21T19:51:12.293873Z"
-    },
-    {
       "id": "5c9d79c4e2c1",
       "text": "$4.86 million did not get hacked out of Chainflip's vault, it was signed out in one transaction.\n\nI read that as a compromised key, not a broken contract, because that signature is the only one of 299,677 to break Chainflip's running count.\n\nIf the key was not leaked, show me a valid signature that breaks the count.\n\n#Chainflip #DeFi",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/chainflip-exploit-bitquery-2026-11-22.png",
@@ -2735,6 +2727,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-28T19:49:17.557635Z"
+    },
+    {
+      "id": "05e659b24fb8",
+      "text": "$0.93 is not a floor XRP is holding. It is a line XRP is testing from below.\n\nThe nine-year trendline puts its 2026 floor near $0.95, and the moving averages still read sell above the price.\n\nI give a line drawn through old lows no weight as demand: it holds only if buyers defend it at the test, and the test is still running.\n\nFloor holds or floor breaks: which does the next daily close settle?\n\n$XRP #XRP",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/xrp-093-trendline-crop-2026-11-29.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-28T20:07:23.235293Z"
     }
   ]
 }
