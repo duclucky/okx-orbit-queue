@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "e551b824ea78",
-      "text": "$594 million of stolen ETH moved in two days, and the panic reads it as a sale coming.\n\nOnchain Lens tracked it to fresh wallets and through THORChain and Chainflip, while the hacker still holds 226,665 ETH.\n\nI give the wallet-to-wallet record more weight than the dump story, because a sale needs an exchange book and none is on the record.\n\nDoes the next move land on an exchange, or does the stash keep sitting while the trail goes cold?\n\n$ETH #Ethereum #THORChain",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/binance-hacker-594m-2026-11-21.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-21T14:17:21.201565Z"
-    },
-    {
       "id": "2937c42122fb",
       "text": "$136 million of shorts died in the hour Bitcoin took back $60,000.\n\nI read it as a squeeze, not a rescue: the longs paid all week, then the shorts paid in an hour, and forced covering did the buying.\n\nDoes Bitcoin close the day back above $60,000, or hand the level straight back?\n\n$BTC #Bitcoin",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/shorts-liquidated-136m-2026-11-21.png",
@@ -2591,6 +2583,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-28T13:48:46.165605Z"
+    },
+    {
+      "id": "f31c61a1ae89",
+      "text": "11 departments signed a blockchain identity standard that does not endorse permissionless crypto.\n\nThe identities link back to state verification through a regulator-authorized operator, and holders share only selected credential details.\n\nI read it as state ID in blockchain vocabulary: the control is over disclosure, not over the identity itself.\n\nState infrastructure or Web3 vocabulary, which does March 1 prove?\n\n#China #Blockchain",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/whale-0488-phemex-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-28T14:19:58.023343Z"
     }
   ]
 }
