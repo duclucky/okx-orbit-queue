@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "81cd78f2e7b2",
-      "text": "Yesterday the two biggest treasuries were $24.2 billion underwater. Today they are $27.9 billion underwater.\n\nI give the overnight change more weight than either snapshot: the floor is becoming the bag faster than the buyers can defend it, and Strategy's stock now trades below the value of the coins it holds.\n\nDo the treasuries buy again this week, or does the bag keep growing?\n\n$BTC $ETH #Bitcoin #Ethereum",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/strategy-bitmine-losses-kucoin-2026-11-21.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-21T07:26:20.458160Z"
-    },
-    {
       "id": "0776238774fc",
       "text": "The biggest HYPE long was once up over $68 million. Now the whale topped it up with fresh USDC just to keep it alive.\n\nI read the top-up as defense, not conviction: the liquidation price is $54.55, and the low came within two dollars of it.\n\nDoes $54.55 hold, or does the biggest long become the next liquidation?\n\n$HYPE #Hyperliquid",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/hype-whale-lookonchain-2026-11-21.png",
@@ -2439,6 +2431,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-28T07:16:57.523617Z"
+    },
+    {
+      "id": "8beda2a61461",
+      "text": "Bitcoin ETFs lost $389 million on November 27 while XRP ETFs took in $5.4 million, all of it through one fund.\n\nI read that as a single fund's clients, not a rotation: the other four XRP funds added nothing.\n\nETF creations settle on a lag and the market maker usually hedges first, so a flow print describes yesterday, not tomorrow's bid.\n\nRotation or rounding error, the next session settles it.\n\n$BTC $XRP #ETF",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/xrp-etf-bitwise-54m-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-28T07:35:22.959757Z"
     }
   ]
 }
