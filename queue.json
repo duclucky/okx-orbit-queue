@@ -1,14 +1,6 @@
 {
   "jobs": [
     {
-      "id": "d32b553889ae",
-      "text": "$77.69 is a new 52-week low, and the analysts still call Strategy a Moderate Buy at $232.80.\n\nI give Friday's print more weight than the target: one is a trade, the other is a forecast, and the index funds still have to sell before MSCI throws the stock out at the November close.\n\nWho is wrong on Monday: the analysts, or the tape?\n\n$MSTRB #Strategy #MSTR",
-      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/mstr-chart-tv-2026-11-21.png",
-      "square_url": "",
-      "status": "pending",
-      "queued_at": "2026-11-21T05:04:14.594688Z"
-    },
-    {
       "id": "f86aa2e20537",
       "text": "$343 million of BTC left Binance and Kraken in eight hours, and the crowd calls it accumulation.\n\nThree days ago Abraxas cleared every on-chain holding it had after a leaked API key cost it $10.39 million. I read this withdrawal as a firm pulling its coins home, not a fund buying the dip.\n\nShow me those coins sitting still for a month and I will call it accumulation.\n\n$BTC #Bitcoin #Lookonchain",
       "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/abraxas-withdrawal-lookonchain-2026-11-21.png",
@@ -2375,6 +2367,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-28T04:47:23.922795Z"
+    },
+    {
+      "id": "9636b92c84f5",
+      "text": "That $1,755 touch was air, not demand: it printed on the ninth straight day of US spot ETF outflows.\n\nI read the bounce as thin-session noise while the fund clock kept leaving, and Monday's inflow print would prove that read wrong.\n\nAir pocket or demand returning, Monday's flow print settles it.\n\n$ETH #Ethereum",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/eth-etf-9th-day-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-28T05:04:34.598568Z"
     }
   ]
 }
