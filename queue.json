@@ -2463,6 +2463,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-28T08:35:06.950109Z"
+    },
+    {
+      "id": "3af8cce413d7",
+      "text": "The HYPE unstaking exodus is a counting error, not a stampede: only 1.56 million HYPE are still pending in the queue.\n\nThe feed stamps each withdrawal with its completion date, so matured rows get counted as live supply waiting to sell.\n\nI give the pending count more weight than the headline total: the assistance fund bought 482,122 HYPE and sold none.\n\nExodus or miscount: which do the maturities prove?\n\n$HYPE #Hyperliquid",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/hype-assistance-fund-buybacks-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-28T08:49:25.680694Z"
     }
   ]
 }
