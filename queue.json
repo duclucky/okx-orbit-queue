@@ -2663,6 +2663,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-28T17:11:49.497872Z"
+    },
+    {
+      "id": "fce9ee3d2d57",
+      "text": "A $10.64 million deposit to Coinbase is staging, not surrender.\n\nThe wallet sent ETH and wrapped BTC there a month after withdrawing the ETH 34% higher, and a deposit stages a sale without executing one.\n\nI give the deposit no sale weight until a fill prints, so I read this as an exit kept open, not taken.\n\nStaged or sold: which does the wallet's next move prove?\n\n$ETH $WBTC #Whale",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/whale-0xd33-coinbase-deposit-2026-11-29.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-28T17:18:13.039260Z"
     }
   ]
 }
