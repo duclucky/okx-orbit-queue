@@ -2367,6 +2367,14 @@
       "square_url": "",
       "status": "pending",
       "queued_at": "2026-11-28T04:38:34.306414Z"
+    },
+    {
+      "id": "9950ca0f9db5",
+      "text": "10 is fear catching up with the tape, not a bottom signal yet.\n\nThe gauge sat at 12 while Bitcoin bounced, and only printed 10 after the move was given back. I read that as sentiment trailing price: if the next print rises while Bitcoin stays flat, that read fails.\n\nLagging panic or a bottom signal: which does the next print prove?\n\n$BTC #Bitcoin",
+      "image_url": "https://raw.githubusercontent.com/duclucky/okx-orbit-queue/main/images/fear-greed-10-blockdeck-2026-11-28.png",
+      "square_url": "",
+      "status": "pending",
+      "queued_at": "2026-11-28T04:47:23.922795Z"
     }
   ]
 }
